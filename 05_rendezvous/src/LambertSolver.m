@@ -1,6 +1,6 @@
 function [DELTA_V1, DELTA_V2, ALARM] = LambertSolver(R_CHASER_T1, V_CHASER_T1, R_TARGET_T2, V_TARGET_T2, DEL_T_TRAN, EARTH_MU, TM)
 % LambertSolver: 출발 및 도착 델타 V를 모두 계산하는 랑데부 솔버
-% 작성: 팀원1 (캡스톤디자인 A조). 시뮬레이터 통합은 정승원.
+% 작성: 팀원1 / 시뮬레이터 통합: 정승원
 % [입력 파라미터]
 % R_CHASER_T1 : 기동 시작 시점(t1)의 추적 위성 현재 위치 (3x1) [km]
 % V_CHASER_T1 : 기동 시작 시점(t1)의 추적 위성 현재 속도 (3x1) [km/s]
