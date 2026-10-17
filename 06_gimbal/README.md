@@ -8,8 +8,8 @@
 
 | 구분 | 담당 |
 |---|---|
-| 본인과 팀원 1명 | Simscape Multibody 3축 모델 / 축별 PID 제어 / Stateflow 로직을 제어 모델에 통합 |
-| 팀원 3명 | Stateflow 모드 전환 로직 |
+| 본인과 팀원1 | Simscape Multibody 3축 모델 / 축별 PID 제어 / Stateflow 로직을 제어 모델에 통합 |
+| 팀원2 팀원3 팀원4 | Stateflow 모드 전환 로직 |
 
 ## 수행 내용
 
