@@ -1,15 +1,39 @@
-# 코멘토 직무부트캠프 — Computer Vision POC
+# 정승원 프로젝트
 
-정승원 · 과제별로 폴더를 나눠 두었습니다. 각 폴더의 README에 방법, 결과, 한계가
-들어 있습니다.
+한국항공대학교 항공우주 및 기계공학부 정승원의 프로젝트 모음입니다. 프로젝트마다 폴더를 나눴고 각 폴더의 README에 역할과 방법과 결과가 있습니다.
 
 ```
-jsw-comento-bootcamp/
+projects/
+│  항공우주 프로젝트
+├── 05_rendezvous/                  위성 랑데부 시뮬레이터 / 캡스톤디자인 4인 중 팀장
+├── 06_gimbal/                      3축 짐벌 카메라 자세 제어 / 5인 중 팀원
+├── 07_onboard_wildfire/            KMU ET-02 큐브위성 온보드 AI 산불 탐지 / 4인 중 팀원
+│
+│  코멘토 직무부트캠프 Computer Vision POC
 ├── 01_image_processing/            1차 — Git 코드 관리 & 픽셀 단위 이미지 처리
 ├── 02_2d_to_3d/                    2차 — Unit Test 구성 & 2D → 3D 변환 (달 지형)
 ├── 03_ship_detection/              3차 — 위성사진 선박 객체탐지 (Sentinel-2 10 m)
 └── 04_ship_detection_real_labels/  4차 — 실측 라벨 미국 군항 5곳 선박탐지 웹앱 (HRSC2016 0.45 m)
 ```
+
+## 위성 랑데부 시뮬레이터 → [`05_rendezvous/`](05_rendezvous/)
+
+임펄스 기동으로 설계한 접근 궤적이 유한 연소와 J2~J5 섭동 조건에서도 목표점에 닿도록 단계별로 검증했습니다. MATLAB으로 CW와 Lambert 기동 계산과 RK4 궤도 전파와 재타겟팅을 구현했습니다.
+
+- 유한 연소를 가운데에 배치하면 임펄스 기동과의 위치 차이가 1.01m였고 다른 배치는 약 115m에서 1.35km였습니다.
+- 유한 연소와 J2 조건에서 재타겟팅 2회로 CW 목표점 오차가 1,385m에서 39m로 줄었고 총 ΔV는 31.89m/s에서 31.84m/s로 거의 그대로였습니다.
+
+## 3축 짐벌 카메라 자세 제어 → [`06_gimbal/`](06_gimbal/)
+
+Simscape Multibody 3축 모델에 축별 PID 제어기와 팀원의 Stateflow 모드 전환 로직을 통합했습니다. 180° 회전 명령에서 0.42초 안에 안정했습니다.
+
+## KMU ET-02 큐브위성 온보드 AI 산불 탐지 → [`07_onboard_wildfire/`](07_onboard_wildfire/)
+
+Sentinel-2 영상에서 산불 소각영역을 위성 안에서 찾고 폴리곤으로 바꿔 내려보냅니다. 다운링크 용량이 2.51MB에서 18.7kB로 줄어 UHF 전송 시간이 69.7분에서 31.1초가 됩니다.
+
+---
+
+# 코멘토 직무부트캠프 — Computer Vision POC
 
 
 ## [1차] 픽셀 단위 이미지 처리 → [`01_image_processing/`](01_image_processing/)
