@@ -7,7 +7,7 @@ import step4_rehearsal as S
 fp="/home/syntax_kmu/.fonts/NanumGothic.ttf"
 fm.fontManager.addfont(fp); plt.rcParams["font.family"]=fm.FontProperties(fname=fp).get_name()
 plt.rcParams["axes.unicode_minus"]=False
-OUT="/tmp/claude-1000/-home-syntax-kmu/96dc9619-541e-4fa1-8e2e-b6cafa39bb30/scratchpad"
+OUT="out"
 DEV=S.DEV; REH=os.path.join(S.PROJ,"runs","cir_reh_ens")
 MODELS=[("U-Net",smp.Unet,"et02_unet_s1"),("FPN",smp.FPN,"et02_fpn_s1"),("DeepLabV3+",smp.DeepLabV3Plus,"et02_deeplabv3plus_s1")]
 def load(a,n): m=a("resnet34",encoder_weights=None,in_channels=8,classes=1).to(DEV); m.load_state_dict(torch.load(os.path.join(REH,n+"_reh.pt"),map_location=DEV)); m.eval(); return m

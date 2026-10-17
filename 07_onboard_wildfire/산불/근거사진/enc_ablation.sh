@@ -1,7 +1,7 @@
 #!/bin/bash
 WFS=$HOME/wildfire-seg; PY=$WFS/.venv/bin/python
 cd ~/syntax_inference/Steven/산불/울진산불_변화탐지
-SC=/tmp/claude-1000/-home-syntax-kmu/96dc9619-541e-4fa1-8e2e-b6cafa39bb30/scratchpad
+SC=out
 export LD_LIBRARY_PATH="$WFS/libs"
 echo "ABLATION START $(date +%H:%M:%S)"
 for ENC in resnet18 resnet34 resnet50; do
