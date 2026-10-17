@@ -138,7 +138,7 @@ def main():
     ax[2].imshow(rgb); ax[2].imshow(np.ma.masked_where(~(prob>=thr),(prob>=thr).astype(float)),cmap="cool",alpha=0.4)
     ax[2].set_title(f"Prithvi FT4 pred  F1={f1:.3f}")
     for a in ax: a.axis("off")
-    plt.tight_layout(); plt.savefig("/tmp/claude-1000/-home-syntax-kmu/f8341be4-4a6d-4a00-a62c-5dd4fc2f3f0b/scratchpad/andong_model_vs_gt.png",dpi=90,bbox_inches="tight")
+    plt.tight_layout(); plt.savefig("andong_model_vs_gt.png",dpi=90,bbox_inches="tight")
     print("saved viz",flush=True)
 
 if __name__=="__main__":

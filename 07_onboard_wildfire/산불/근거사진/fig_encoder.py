@@ -2,7 +2,7 @@ import numpy as np, matplotlib
 matplotlib.use("Agg"); import matplotlib.pyplot as plt, matplotlib.font_manager as fm
 fp="/home/syntax_kmu/.fonts/NanumGothic.ttf"; fm.fontManager.addfont(fp)
 plt.rcParams["font.family"]=fm.FontProperties(fname=fp).get_name(); plt.rcParams["axes.unicode_minus"]=False
-OUT="/tmp/claude-1000/-home-syntax-kmu/96dc9619-541e-4fa1-8e2e-b6cafa39bb30/scratchpad"
+OUT="out"
 encs=["ResNet18","ResNet34","ResNet50"]
 F1={"ResNet18":[0.669,0.656,0.646],"ResNet34":[0.604,0.594,0.633],"ResNet50":[0.659,0.624,0.564]}
 SP={"ResNet18":[0.636,0.626,0.633],"ResNet34":[0.594,0.567,0.590],"ResNet50":[0.637,0.574,0.466]}

@@ -27,7 +27,7 @@ for fi,h in enumerate(S.CIR_HOLD):
     for mi,m in enumerate(ms):
         P=S.infer(m,x,H,W)[vd]
         f,p,r,t=prf_at_bestf1(P,Y); REC[fi,mi]=r; PRE[fi,mi]=p; RECF[fi,mi]=rec_at(P,Y,0.25)
-np.savez("/tmp/claude-1000/-home-syntax-kmu/96dc9619-541e-4fa1-8e2e-b6cafa39bb30/scratchpad/loro_recall.npz",REC=REC,PRE=PRE,RECF=RECF,fires=S.CIR_HOLD,names=names)
+np.savez("loro_recall.npz",REC=REC,PRE=PRE,RECF=RECF,fires=S.CIR_HOLD,names=names)
 mean=REC.mean(0); worst=REC.min(0); order=np.argsort(-mean)
 print("화재:",S.CIR_HOLD)
 print(f"\n[recall @ 각 멤버 best-F1 임계값]  {'멤버':10s}{'평균R':>7s}{'최악화재R':>9s}{'평균P':>7s}")
