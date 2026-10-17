@@ -4,6 +4,8 @@
 
 3축 짐벌을 Simscape Multibody로 모델링하고 축별 PID 제어기와 Stateflow 모드 전환 로직을 하나의 모델로 통합했습니다.
 
+![3축 짐벌 Simscape Multibody 모델](media/gimbal_model.jpg)
+
 ## 역할
 
 | 구분 | 담당 |
