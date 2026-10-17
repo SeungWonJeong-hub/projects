@@ -70,7 +70,7 @@ main_rendezvous
 
 - NASA Johnson Space Center. *Orbit Targeting Specialist Function: Level C Formulation Requirements*. JSC-14393 78-FM-43. 1978.
 - W. Fehse. *Automated Rendezvous and Docking of Spacecraft*. Cambridge University Press. 2003.
-- 조동현 부산대학교. 우주비행체 랑데부&도킹 유도제어. 제29차 우주기술 단기강좌. 인하대학교. 2026.05.14.
+- 조동현 부산대학교. 우주비행체 랑데부&도킹 유도제어 강연 자료. 제29차 우주기술 단기강좌. 인하대학교. 2026.05.14.
 
 ## 계획
 
