@@ -53,3 +53,9 @@ Thumbs.db
 04_ship_detection_real_labels/__pycache__/
 04_ship_detection_real_labels/.pytest_cache/
 04_ship_detection_real_labels/tests/__pycache__/
+
+# Simulink 빌드 산출물
+slprj/
+*.slxc
+*.autosave
+*.original
