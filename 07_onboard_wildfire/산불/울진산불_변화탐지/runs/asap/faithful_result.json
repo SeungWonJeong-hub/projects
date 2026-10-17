@@ -1,0 +1,72 @@
+[
+ {
+  "fire": "uljin2022",
+  "conditions": {
+   "spring_NDVI": {
+    "kind": "NDVI",
+    "n": 5825,
+    "unburned_med": 0.033,
+    "rho_dSI": -0.021,
+    "rho_pdSI_stable": -0.058,
+    "F1_dSI": [
+     0.08,
+     0.834
+    ],
+    "F1_pdSI_stable": [
+     -0.06,
+     0.73
+    ]
+   },
+   "summer_NDVI": {
+    "kind": "NDVI",
+    "n": 5825,
+    "unburned_med": 0.111,
+    "rho_dSI": -0.119,
+    "rho_pdSI_stable": -0.078,
+    "F1_dSI": [
+     0.12,
+     0.8
+    ],
+    "F1_pdSI_stable": [
+     -0.1,
+     0.721
+    ]
+   },
+   "canon6_dNBR": {
+    "kind": "dNBR",
+    "n": 5825,
+    "unburned_med": 0.012,
+    "rho_dSI": 0.1,
+    "rho_pdSI_stable": 0.078,
+    "F1_dSI": [
+     0.02,
+     0.791
+    ],
+    "F1_pdSI_stable": [
+     -0.08,
+     0.714
+    ]
+   }
+  }
+ },
+ {
+  "fire": "andong2020",
+  "conditions": {
+   "spring_NDVI": {
+    "kind": "NDVI",
+    "n": 50247,
+    "unburned_med": -0.176,
+    "rho_dSI": 0.61,
+    "rho_pdSI_stable": 0.655,
+    "F1_dSI": [
+     0.02,
+     0.792
+    ],
+    "F1_pdSI_stable": [
+     0.28,
+     0.736
+    ]
+   }
+  }
+ }
+]

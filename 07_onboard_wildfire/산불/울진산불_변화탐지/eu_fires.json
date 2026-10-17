@@ -1,0 +1,6402 @@
+[
+ {
+  "lon": 9.0348,
+  "lat": 49.8105,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.3143,
+  "lat": 42.4866,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.3769,
+  "lat": 40.4826,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.6684,
+  "lat": 40.5095,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.6665,
+  "lat": 40.6064,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 10.1599,
+  "lat": 44.1881,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.0044,
+  "lat": 45.7548,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.1503,
+  "lat": 53.2652,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.2527,
+  "lat": 43.1512,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.4657,
+  "lat": 45.4721,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.7949,
+  "lat": 49.2007,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.7994,
+  "lat": 53.4408,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.8263,
+  "lat": 53.0545,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.8302,
+  "lat": 42.6989,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.9826,
+  "lat": 52.1517,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.0599,
+  "lat": 53.0485,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.3024,
+  "lat": 41.9573,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.4668,
+  "lat": 43.668,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.4971,
+  "lat": 53.1922,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.5742,
+  "lat": 53.5329,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 1.2476,
+  "lat": 46.5569,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.7636,
+  "lat": 51.5079,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.0301,
+  "lat": 52.0529,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.048,
+  "lat": 41.5067,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 1.3061,
+  "lat": 49.1473,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.159,
+  "lat": 52.1523,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.3389,
+  "lat": 41.3551,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.4213,
+  "lat": 41.3869,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.5271,
+  "lat": 41.4348,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.6724,
+  "lat": 51.6262,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.7532,
+  "lat": 41.2803,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.879,
+  "lat": 41.2866,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.8957,
+  "lat": 41.2372,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.1035,
+  "lat": 40.8621,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.1161,
+  "lat": 41.2138,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.1188,
+  "lat": 53.6591,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.1964,
+  "lat": 41.1982,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.2281,
+  "lat": 51.916,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.2454,
+  "lat": 41.1794,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.2353,
+  "lat": 52.5934,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.4015,
+  "lat": 41.1174,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.3988,
+  "lat": 51.6919,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.6727,
+  "lat": 40.8053,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.7246,
+  "lat": 41.1048,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.7574,
+  "lat": 40.7482,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.8055,
+  "lat": 38.1282,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.8288,
+  "lat": 40.9338,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.8478,
+  "lat": 38.0835,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.939,
+  "lat": 38.0616,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.946,
+  "lat": 38.5101,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.965,
+  "lat": 40.6524,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.0108,
+  "lat": 51.3702,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.027,
+  "lat": 40.3388,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.0647,
+  "lat": 37.8559,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2231,
+  "lat": 38.7904,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2291,
+  "lat": 38.0832,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.454,
+  "lat": 38.0871,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.6793,
+  "lat": 38.2203,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.6891,
+  "lat": 38.102,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.7462,
+  "lat": 38.1747,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.7505,
+  "lat": 44.5909,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.8116,
+  "lat": 39.9967,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.8429,
+  "lat": 39.8313,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.8565,
+  "lat": 38.0473,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.8979,
+  "lat": 39.8279,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.9058,
+  "lat": 43.7715,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.9507,
+  "lat": 39.5304,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.0362,
+  "lat": 38.5234,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1051,
+  "lat": 39.7004,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1432,
+  "lat": 39.1291,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1505,
+  "lat": 39.7811,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1604,
+  "lat": 39.7428,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1865,
+  "lat": 39.0823,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.218,
+  "lat": 39.7898,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2036,
+  "lat": 40.3364,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2356,
+  "lat": 44.2106,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2974,
+  "lat": 39.3456,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3513,
+  "lat": 38.3908,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3962,
+  "lat": 38.9118,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4461,
+  "lat": 38.8697,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5574,
+  "lat": 38.7818,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5964,
+  "lat": 40.1906,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.7805,
+  "lat": 40.4871,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.7963,
+  "lat": 39.0329,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.8404,
+  "lat": 39.4465,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.8333,
+  "lat": 40.5623,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 1.7592,
+  "lat": 48.4731,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.0082,
+  "lat": 43.1551,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.4334,
+  "lat": 42.9395,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.674,
+  "lat": 49.6711,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.2759,
+  "lat": 43.7524,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.5518,
+  "lat": 51.743,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.7607,
+  "lat": 40.5103,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.7719,
+  "lat": 41.2671,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.8318,
+  "lat": 40.1592,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 1.9808,
+  "lat": 43.3976,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.1362,
+  "lat": 39.9295,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.222,
+  "lat": 39.7316,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.2602,
+  "lat": 39.7909,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.2941,
+  "lat": 39.7242,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.289,
+  "lat": 40.4405,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.5352,
+  "lat": 39.3364,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.7925,
+  "lat": 37.6948,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.8307,
+  "lat": 37.7043,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.8499,
+  "lat": 50.7818,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.1167,
+  "lat": 39.1001,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.2157,
+  "lat": 38.5024,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.3305,
+  "lat": 38.5669,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.3475,
+  "lat": 41.5087,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.3754,
+  "lat": 42.8171,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.4423,
+  "lat": 41.856,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.6195,
+  "lat": 41.8301,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.612,
+  "lat": 41.0884,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.6308,
+  "lat": 43.9866,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.6783,
+  "lat": 42.4409,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.7681,
+  "lat": 41.3873,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.81,
+  "lat": 40.0188,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.9161,
+  "lat": 38.0537,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.9703,
+  "lat": 38.4115,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.0098,
+  "lat": 40.2928,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.0607,
+  "lat": 43.6844,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.3507,
+  "lat": 44.2183,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.4103,
+  "lat": 39.2169,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 0.2171,
+  "lat": 41.0957,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.6521,
+  "lat": 38.595,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.9609,
+  "lat": 42.4095,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.0005,
+  "lat": 38.0057,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.6616,
+  "lat": 44.2667,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.6784,
+  "lat": 38.6234,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.8143,
+  "lat": 43.7974,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.8483,
+  "lat": 43.9372,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.9554,
+  "lat": 53.8436,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.9735,
+  "lat": 38.5327,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.9873,
+  "lat": 43.2258,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.0177,
+  "lat": 38.5268,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.0962,
+  "lat": 42.2893,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.0922,
+  "lat": 43.1262,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.1383,
+  "lat": 38.4962,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.1153,
+  "lat": 49.8355,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.1916,
+  "lat": 46.389,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.2171,
+  "lat": 43.1865,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.2436,
+  "lat": 43.4008,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.277,
+  "lat": 53.1921,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.3204,
+  "lat": 43.2569,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.4647,
+  "lat": 43.2566,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.4951,
+  "lat": 43.1827,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 25.2588,
+  "lat": 48.8719,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 25.322,
+  "lat": 42.5412,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 25.5627,
+  "lat": 44.4385,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 25.7547,
+  "lat": 43.2808,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 25.8105,
+  "lat": 48.8908,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 25.8197,
+  "lat": 55.0876,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.0676,
+  "lat": 43.4725,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.2061,
+  "lat": 49.1596,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.2632,
+  "lat": 40.1203,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.4239,
+  "lat": 42.8886,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.397,
+  "lat": 48.7496,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.4931,
+  "lat": 40.7072,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.5625,
+  "lat": 43.678,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.5767,
+  "lat": 42.704,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.5976,
+  "lat": 42.7359,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.6725,
+  "lat": 38.2203,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.6999,
+  "lat": 38.2278,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.7258,
+  "lat": 44.0321,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.7593,
+  "lat": 42.7134,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.8102,
+  "lat": 51.707,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.934,
+  "lat": 38.2337,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.0496,
+  "lat": 38.2426,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.0727,
+  "lat": 50.2243,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.3163,
+  "lat": 51.5159,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.3417,
+  "lat": 48.8938,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.3792,
+  "lat": 38.2108,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 2.7318,
+  "lat": 42.7841,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 2.7495,
+  "lat": 43.1249,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.6112,
+  "lat": 48.8848,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.6378,
+  "lat": 43.538,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.6516,
+  "lat": 43.984,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.7958,
+  "lat": 38.0789,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.86,
+  "lat": 37.2852,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.8612,
+  "lat": 48.4372,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.8702,
+  "lat": 37.3394,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.877,
+  "lat": 39.2238,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.1442,
+  "lat": 53.3285,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.1996,
+  "lat": 38.2897,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.243,
+  "lat": 50.1634,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 2.7828,
+  "lat": 43.0907,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.4238,
+  "lat": 50.1608,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.4339,
+  "lat": 50.8637,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.523,
+  "lat": 49.0795,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.5784,
+  "lat": 50.9315,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.7315,
+  "lat": 47.0369,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.7545,
+  "lat": 51.1057,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.7566,
+  "lat": 48.5698,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.7989,
+  "lat": 39.911,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.9134,
+  "lat": 36.7647,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.9572,
+  "lat": 36.7725,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 29.0066,
+  "lat": 48.0703,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 29.0815,
+  "lat": 50.3655,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 29.1389,
+  "lat": 48.4876,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 29.1571,
+  "lat": 48.2328,
+  "year": 2019,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.1867,
+  "lat": 39.6465,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.2551,
+  "lat": 42.2822,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.294,
+  "lat": 42.465,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.3318,
+  "lat": 39.8275,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.457,
+  "lat": 40.5342,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.5833,
+  "lat": 40.4466,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.6457,
+  "lat": 40.6241,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.6524,
+  "lat": 40.4966,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 10.4622,
+  "lat": 53.4029,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.2086,
+  "lat": 43.0235,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.7934,
+  "lat": 49.4133,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.9323,
+  "lat": 42.2433,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.973,
+  "lat": 52.1487,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.0823,
+  "lat": 42.1894,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.4362,
+  "lat": 42.2063,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.4226,
+  "lat": 41.8907,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.4716,
+  "lat": 41.7163,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.7003,
+  "lat": 42.0508,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.7505,
+  "lat": 41.6347,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.8324,
+  "lat": 41.9199,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.8699,
+  "lat": 37.9478,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 1.2821,
+  "lat": 49.0795,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.1693,
+  "lat": 41.5561,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.1963,
+  "lat": 41.5291,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.2599,
+  "lat": 41.3487,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.287,
+  "lat": 38.0272,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.3355,
+  "lat": 37.6619,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.353,
+  "lat": 42.4209,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.3974,
+  "lat": 37.9823,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.3857,
+  "lat": 41.4263,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.3846,
+  "lat": 42.3786,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.6176,
+  "lat": 41.5776,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.6858,
+  "lat": 41.2836,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.8508,
+  "lat": 41.5614,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.8706,
+  "lat": 41.3,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.9047,
+  "lat": 41.1669,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.9329,
+  "lat": 41.4752,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.9553,
+  "lat": 41.1962,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.2019,
+  "lat": 41.1922,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.3165,
+  "lat": 51.4564,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.4099,
+  "lat": 37.9179,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.4045,
+  "lat": 51.5408,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.4083,
+  "lat": 40.7842,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.4783,
+  "lat": 41.0325,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.4853,
+  "lat": 40.7585,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.5258,
+  "lat": 41.0425,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.5387,
+  "lat": 41.28,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.5687,
+  "lat": 41.0896,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.6278,
+  "lat": 51.6435,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.6487,
+  "lat": 40.8121,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.8234,
+  "lat": 40.7602,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.8511,
+  "lat": 40.9625,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.0558,
+  "lat": 37.864,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.1706,
+  "lat": 37.8645,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2115,
+  "lat": 37.8296,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2271,
+  "lat": 40.729,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2579,
+  "lat": 40.6802,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2579,
+  "lat": 41.6639,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2848,
+  "lat": 37.8999,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.4286,
+  "lat": 38.1964,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.4818,
+  "lat": 38.2382,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.5705,
+  "lat": 41.0135,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.5999,
+  "lat": 40.951,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.6722,
+  "lat": 38.056,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.7259,
+  "lat": 38.0598,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.747,
+  "lat": 38.0322,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.8009,
+  "lat": 37.9962,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.8148,
+  "lat": 39.8133,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.8971,
+  "lat": 38.0703,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.0156,
+  "lat": 38.6981,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.0266,
+  "lat": 38.6269,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.0843,
+  "lat": 39.6485,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.11,
+  "lat": 38.5422,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.0997,
+  "lat": 39.5162,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1098,
+  "lat": 39.6966,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1544,
+  "lat": 39.5025,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2236,
+  "lat": 38.6388,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2723,
+  "lat": 39.3369,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2576,
+  "lat": 41.1781,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2842,
+  "lat": 38.3693,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3347,
+  "lat": 38.7573,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3763,
+  "lat": 39.5393,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3872,
+  "lat": 41.2051,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4224,
+  "lat": 39.1882,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4327,
+  "lat": 43.5628,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4347,
+  "lat": 39.8538,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5296,
+  "lat": 38.7309,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5368,
+  "lat": 39.4863,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5309,
+  "lat": 39.5522,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.6233,
+  "lat": 39.5573,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.7671,
+  "lat": 39.0767,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.8524,
+  "lat": 39.3866,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.0101,
+  "lat": 45.0718,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.674,
+  "lat": 49.6711,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.7805,
+  "lat": 42.6523,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.0203,
+  "lat": 42.5367,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.0371,
+  "lat": 42.2684,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.0649,
+  "lat": 42.5505,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.0787,
+  "lat": 42.5008,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.3836,
+  "lat": 42.5438,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.4039,
+  "lat": 42.3942,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.6057,
+  "lat": 40.5769,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.658,
+  "lat": 42.1677,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.703,
+  "lat": 40.6652,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.7405,
+  "lat": 40.9205,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.745,
+  "lat": 41.7537,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.8111,
+  "lat": 40.7431,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.9471,
+  "lat": 41.8311,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.9661,
+  "lat": 41.307,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.1607,
+  "lat": 39.9306,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.2085,
+  "lat": 39.7289,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.5505,
+  "lat": 38.1155,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.6363,
+  "lat": 39.2478,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.6897,
+  "lat": 37.7976,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.2893,
+  "lat": 38.4524,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.4094,
+  "lat": 37.8779,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.4935,
+  "lat": 38.0905,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 2.1475,
+  "lat": 42.9809,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.5705,
+  "lat": 37.7017,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.615,
+  "lat": 37.7128,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.6788,
+  "lat": 37.789,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.6988,
+  "lat": 37.2412,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.7894,
+  "lat": 38.263,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.0468,
+  "lat": 37.9032,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.7319,
+  "lat": 44.3139,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.9669,
+  "lat": 37.8805,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.9789,
+  "lat": 37.8355,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.9924,
+  "lat": 38.6361,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.8608,
+  "lat": 44.7296,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.0045,
+  "lat": 42.417,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.0704,
+  "lat": 42.1939,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.1886,
+  "lat": 43.3183,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.241,
+  "lat": 43.2539,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.8272,
+  "lat": 49.5073,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 2.5387,
+  "lat": 48.6912,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 25.6349,
+  "lat": 44.1986,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 25.8028,
+  "lat": 44.0823,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 25.9432,
+  "lat": 40.9884,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.0457,
+  "lat": 40.9447,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.0976,
+  "lat": 40.9617,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.2739,
+  "lat": 37.6423,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.3047,
+  "lat": 39.5263,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.4008,
+  "lat": 53.6005,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.5105,
+  "lat": 39.1269,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.5611,
+  "lat": 38.4116,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.7849,
+  "lat": 38.2196,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.79,
+  "lat": 40.3422,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.8828,
+  "lat": 38.1208,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 26.9079,
+  "lat": 43.2348,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.174,
+  "lat": 38.0175,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.3792,
+  "lat": 38.2108,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.4181,
+  "lat": 37.5646,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.4241,
+  "lat": 37.7745,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.6591,
+  "lat": 36.7501,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.6693,
+  "lat": 39.0804,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.7656,
+  "lat": 37.334,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.7999,
+  "lat": 42.8931,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.8233,
+  "lat": 39.2379,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.8535,
+  "lat": 38.4562,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.8755,
+  "lat": 37.3482,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.9137,
+  "lat": 48.4237,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 27.928,
+  "lat": 37.8608,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.0439,
+  "lat": 37.4762,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.7037,
+  "lat": 39.5613,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 28.879,
+  "lat": 40.3532,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 29.038,
+  "lat": 48.2209,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 29.0818,
+  "lat": 48.1227,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 29.1077,
+  "lat": 48.1845,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 29.2506,
+  "lat": 48.7755,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 29.2484,
+  "lat": 48.7299,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 29.3441,
+  "lat": 38.7309,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 29.3921,
+  "lat": 51.4997,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 29.6219,
+  "lat": 37.6279,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 29.7125,
+  "lat": 38.7495,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 3.1905,
+  "lat": 43.6761,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 3.9311,
+  "lat": 44.5509,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 4.6205,
+  "lat": 45.2789,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 4.9061,
+  "lat": 47.3125,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 5.0969,
+  "lat": 43.3462,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 5.5475,
+  "lat": 44.2817,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 5.8929,
+  "lat": 44.3768,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 6.7451,
+  "lat": 51.4755,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 7.1949,
+  "lat": 43.7563,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 8.073,
+  "lat": 49.0411,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 8.5764,
+  "lat": 39.2299,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 8.9255,
+  "lat": 42.5487,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -9.0377,
+  "lat": 42.5988,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -9.1057,
+  "lat": 43.089,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -0.9342,
+  "lat": 38.3895,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -0.1418,
+  "lat": 45.1821,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -1.8845,
+  "lat": 38.139,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -0.2101,
+  "lat": 38.6989,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -3.3462,
+  "lat": 36.9522,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -3.3642,
+  "lat": 36.9522,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -3.463,
+  "lat": 43.0198,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -0.3698,
+  "lat": 44.1986,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -3.8538,
+  "lat": 38.0167,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -4.1637,
+  "lat": 38.0201,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -4.2279,
+  "lat": 40.5249,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -4.5384,
+  "lat": 37.4245,
+  "year": 2020,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 8.9797,
+  "lat": 39.5473,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.0221,
+  "lat": 39.3702,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.2027,
+  "lat": 39.5191,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.3065,
+  "lat": 40.3269,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.5959,
+  "lat": 44.2185,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 10.5886,
+  "lat": 44.6228,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 1.0695,
+  "lat": 45.1468,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 10.9639,
+  "lat": 42.913,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.3008,
+  "lat": 42.7778,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.988,
+  "lat": 52.1539,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.1024,
+  "lat": 55.4479,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.1767,
+  "lat": 43.0428,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.4032,
+  "lat": 41.7781,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.4956,
+  "lat": 42.8901,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.5225,
+  "lat": 42.131,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.5732,
+  "lat": 41.6209,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.6483,
+  "lat": 43.3617,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.7215,
+  "lat": 42.2078,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.8063,
+  "lat": 41.8953,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.8055,
+  "lat": 41.9706,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.9617,
+  "lat": 41.5813,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.2105,
+  "lat": 41.5239,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.2801,
+  "lat": 38.0062,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.2976,
+  "lat": 41.3684,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.3744,
+  "lat": 41.4123,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.3652,
+  "lat": 41.463,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.4664,
+  "lat": 41.4553,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.4662,
+  "lat": 38.0461,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.4893,
+  "lat": 41.2776,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.4863,
+  "lat": 41.3469,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.5571,
+  "lat": 42.1969,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.5638,
+  "lat": 41.6055,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.614,
+  "lat": 41.5729,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.675,
+  "lat": 41.4063,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.6974,
+  "lat": 41.3308,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.7083,
+  "lat": 41.5306,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.7263,
+  "lat": 41.2731,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.793,
+  "lat": 41.2941,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.7936,
+  "lat": 41.4988,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.8554,
+  "lat": 41.5617,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.9149,
+  "lat": 41.2574,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.9753,
+  "lat": 37.8425,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.9605,
+  "lat": 41.1961,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.1035,
+  "lat": 42.1993,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.1395,
+  "lat": 41.8301,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.1664,
+  "lat": 37.8385,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.15,
+  "lat": 41.2262,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.2712,
+  "lat": 37.9125,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.3102,
+  "lat": 41.0994,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.3039,
+  "lat": 41.2542,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.3155,
+  "lat": 37.902,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.3102,
+  "lat": 37.9823,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.366,
+  "lat": 42.2304,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.4218,
+  "lat": 40.7842,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.4504,
+  "lat": 40.9886,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.4444,
+  "lat": 41.0615,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.5243,
+  "lat": 41.0385,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.5042,
+  "lat": 42.0043,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.7007,
+  "lat": 40.7974,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.7112,
+  "lat": 41.0209,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.7965,
+  "lat": 40.7259,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.8594,
+  "lat": 38.0294,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.9341,
+  "lat": 37.6349,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.9363,
+  "lat": 38.1479,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.9378,
+  "lat": 40.672,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.9589,
+  "lat": 40.9715,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.0052,
+  "lat": 37.9488,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.0333,
+  "lat": 37.8864,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.0423,
+  "lat": 40.6218,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 1.4834,
+  "lat": 41.5121,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.0827,
+  "lat": 37.9493,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.0992,
+  "lat": 37.6199,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.1119,
+  "lat": 37.9168,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.1413,
+  "lat": 37.8685,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.1604,
+  "lat": 40.5955,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.1748,
+  "lat": 41.8076,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.1666,
+  "lat": 40.5604,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2208,
+  "lat": 37.8337,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2115,
+  "lat": 37.8805,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2194,
+  "lat": 44.167,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2249,
+  "lat": 38.7952,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2636,
+  "lat": 41.6675,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.294,
+  "lat": 37.897,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.3173,
+  "lat": 41.2538,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.3193,
+  "lat": 44.269,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.3926,
+  "lat": 40.5893,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.4762,
+  "lat": 40.5804,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.5076,
+  "lat": 38.2449,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.5603,
+  "lat": 38.2727,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.5708,
+  "lat": 40.9617,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.6685,
+  "lat": 40.9805,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.6992,
+  "lat": 40.9396,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.7115,
+  "lat": 38.2278,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.8086,
+  "lat": 38.0736,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.7532,
+  "lat": 44.6206,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.8759,
+  "lat": 39.7289,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.8444,
+  "lat": 39.7691,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.828,
+  "lat": 39.9346,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.8564,
+  "lat": 41.2293,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.885,
+  "lat": 39.8413,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.9021,
+  "lat": 41.2179,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.912,
+  "lat": 38.4058,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.9316,
+  "lat": 39.6202,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.9906,
+  "lat": 38.1373,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.0133,
+  "lat": 43.6879,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.0424,
+  "lat": 40.8748,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.0619,
+  "lat": 39.3462,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.0655,
+  "lat": 38.0167,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1033,
+  "lat": 38.1919,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1216,
+  "lat": 43.7897,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1194,
+  "lat": 38.3266,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1517,
+  "lat": 39.5124,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1498,
+  "lat": 39.6125,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1626,
+  "lat": 39.6959,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1939,
+  "lat": 38.6626,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2041,
+  "lat": 43.5533,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2236,
+  "lat": 38.7518,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1843,
+  "lat": 39.7807,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2086,
+  "lat": 38.236,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1623,
+  "lat": 39.1051,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2115,
+  "lat": 38.7039,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2672,
+  "lat": 38.3682,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2442,
+  "lat": 38.9725,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2536,
+  "lat": 38.9375,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2505,
+  "lat": 39.2779,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2632,
+  "lat": 38.6582,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3112,
+  "lat": 38.8061,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2939,
+  "lat": 39.3492,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3071,
+  "lat": 39.2959,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3096,
+  "lat": 38.9451,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3269,
+  "lat": 39.0303,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3359,
+  "lat": 39.6398,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3359,
+  "lat": 39.7505,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4,
+  "lat": 38.3976,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3969,
+  "lat": 39.5834,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4206,
+  "lat": 39.7601,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3902,
+  "lat": 40.7529,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4122,
+  "lat": 39.6786,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4087,
+  "lat": 38.8696,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4297,
+  "lat": 38.659,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.413,
+  "lat": 39.468,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4661,
+  "lat": 38.4928,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4807,
+  "lat": 38.6871,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4806,
+  "lat": 39.709,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5179,
+  "lat": 38.8331,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5178,
+  "lat": 38.4322,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4993,
+  "lat": 38.5863,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4976,
+  "lat": 39.6352,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5309,
+  "lat": 39.6292,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5604,
+  "lat": 38.7623,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5649,
+  "lat": 40.2041,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5724,
+  "lat": 40.9811,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5934,
+  "lat": 40.3718,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5741,
+  "lat": 38.9186,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.6188,
+  "lat": 39.5618,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.6693,
+  "lat": 39.4037,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.6817,
+  "lat": 39.0093,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.7201,
+  "lat": 40.6223,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.781,
+  "lat": 39.0533,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.7805,
+  "lat": 39.4765,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.8184,
+  "lat": 40.8599,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.8165,
+  "lat": 39.3956,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.8229,
+  "lat": 47.0143,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.8928,
+  "lat": 43.7455,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.9069,
+  "lat": 45.1128,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.1152,
+  "lat": 43.9815,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.1374,
+  "lat": 48.4656,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.1563,
+  "lat": 40.5784,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.1617,
+  "lat": 43.9794,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.2443,
+  "lat": 40.5589,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.4138,
+  "lat": 43.4117,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.4534,
+  "lat": 43.1811,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.4805,
+  "lat": 43.3894,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.6756,
+  "lat": 43.0043,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.7365,
+  "lat": 43.6177,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.8258,
+  "lat": 43.447,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.9021,
+  "lat": 43.2109,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.9471,
+  "lat": 45.1334,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.9644,
+  "lat": 43.1519,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.0519,
+  "lat": 42.9398,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.2608,
+  "lat": 43.1005,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.3137,
+  "lat": 43.0877,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.3745,
+  "lat": 42.5996,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.3975,
+  "lat": 42.6385,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.3697,
+  "lat": 42.8301,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.5263,
+  "lat": 45.0026,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.5752,
+  "lat": 42.6648,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.7258,
+  "lat": 42.6143,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.737,
+  "lat": 42.5447,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.8261,
+  "lat": 42.6486,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.7747,
+  "lat": 42.8735,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.8239,
+  "lat": 42.9306,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.0623,
+  "lat": 42.7113,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.1323,
+  "lat": 42.7778,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 1.9129,
+  "lat": 47.3906,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.2079,
+  "lat": 43.2037,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.268,
+  "lat": 42.5038,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.2981,
+  "lat": 42.6056,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.3108,
+  "lat": 42.6498,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.3641,
+  "lat": 42.5047,
+  "year": 2021,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.0348,
+  "lat": 49.8105,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.0788,
+  "lat": 40.3954,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.2956,
+  "lat": 45.6286,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.4817,
+  "lat": 49.793,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 0.9511,
+  "lat": 41.9655,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.6734,
+  "lat": 40.6128,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 9.877,
+  "lat": 52.8209,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 1.0214,
+  "lat": 41.9426,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 10.3635,
+  "lat": 43.876,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 10.4121,
+  "lat": 43.8166,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 10.8568,
+  "lat": 50.2274,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.175,
+  "lat": 43.45,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.338,
+  "lat": 43.5809,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.3918,
+  "lat": 42.5397,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 11.4378,
+  "lat": 43.6873,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.2162,
+  "lat": 52.1292,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.2742,
+  "lat": 43.9655,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.2905,
+  "lat": 42.6101,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.4216,
+  "lat": 41.9678,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.4172,
+  "lat": 51.7095,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.4332,
+  "lat": 41.9039,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.5353,
+  "lat": 42.1618,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.5719,
+  "lat": 52.3479,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.5996,
+  "lat": 42.1841,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.7291,
+  "lat": 41.8121,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.7862,
+  "lat": 42.1438,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.8309,
+  "lat": 41.9169,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 1.2891,
+  "lat": 42.0816,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.8818,
+  "lat": 41.6728,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.917,
+  "lat": 52.0332,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.9293,
+  "lat": 41.8101,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 12.9657,
+  "lat": 52.259,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.045,
+  "lat": 41.5149,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.0806,
+  "lat": 41.793,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.1259,
+  "lat": 52.9856,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.1973,
+  "lat": 51.5533,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.2277,
+  "lat": 52.4616,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.2546,
+  "lat": 38.0417,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.2502,
+  "lat": 41.5481,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.2391,
+  "lat": 46.3804,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.2464,
+  "lat": 41.4093,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.2966,
+  "lat": 38.0571,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.3251,
+  "lat": 51.4184,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.3472,
+  "lat": 51.3639,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.3974,
+  "lat": 37.9932,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.4298,
+  "lat": 43.1146,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 0.1303,
+  "lat": 44.9873,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.5078,
+  "lat": 41.2988,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.6141,
+  "lat": 45.8412,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 1.3744,
+  "lat": 41.9889,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.773,
+  "lat": 41.7303,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.7757,
+  "lat": 50.7548,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.8217,
+  "lat": 41.373,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.8555,
+  "lat": 45.571,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.8845,
+  "lat": 51.5279,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.9249,
+  "lat": 41.1393,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 13.9508,
+  "lat": 44.8988,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.1427,
+  "lat": 45.0037,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.1786,
+  "lat": 52.6227,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.2353,
+  "lat": 52.5934,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.2545,
+  "lat": 41.1556,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.2711,
+  "lat": 50.8771,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 0.1347,
+  "lat": 40.8636,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.3968,
+  "lat": 41.0575,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.6425,
+  "lat": 40.797,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.6406,
+  "lat": 40.8868,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.6818,
+  "lat": 37.8651,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.7908,
+  "lat": 40.7835,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.8382,
+  "lat": 40.6841,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.8686,
+  "lat": 37.6619,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.9329,
+  "lat": 37.6129,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 14.991,
+  "lat": 37.9545,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.0919,
+  "lat": 37.8843,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.1321,
+  "lat": 37.6125,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.1579,
+  "lat": 38.0919,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.1507,
+  "lat": 37.6694,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.164,
+  "lat": 37.775,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.188,
+  "lat": 38.0302,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.211,
+  "lat": 37.8475,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2291,
+  "lat": 40.7961,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2619,
+  "lat": 41.6604,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.2858,
+  "lat": 37.9044,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.3067,
+  "lat": 44.2132,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.3918,
+  "lat": 40.0228,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.3836,
+  "lat": 41.1507,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.6223,
+  "lat": 44.285,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.7005,
+  "lat": 38.0743,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.6951,
+  "lat": 38.137,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.7237,
+  "lat": 38.2215,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.7037,
+  "lat": 40.9834,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.7617,
+  "lat": 37.9778,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.7688,
+  "lat": 43.7906,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.7909,
+  "lat": 38.0092,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.8476,
+  "lat": 39.9337,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.8906,
+  "lat": 40.2991,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 15.9518,
+  "lat": 38.4704,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.0322,
+  "lat": 38.4533,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.0517,
+  "lat": 37.9853,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.0564,
+  "lat": 38.5672,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.0944,
+  "lat": 38.1874,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1129,
+  "lat": 38.4295,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1607,
+  "lat": 40.6039,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1787,
+  "lat": 39.719,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.1946,
+  "lat": 38.2098,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2281,
+  "lat": 38.6365,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2231,
+  "lat": 39.7649,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2629,
+  "lat": 38.8622,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2745,
+  "lat": 39.5334,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2692,
+  "lat": 38.6552,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2784,
+  "lat": 39.7675,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.2958,
+  "lat": 39.612,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3089,
+  "lat": 38.8881,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3299,
+  "lat": 39.4825,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 1.6334,
+  "lat": 48.6558,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.3436,
+  "lat": 44.0649,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4117,
+  "lat": 39.6102,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4347,
+  "lat": 39.8193,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4514,
+  "lat": 38.4755,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4482,
+  "lat": 40.5191,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.4616,
+  "lat": 39.6022,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.52,
+  "lat": 38.8791,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5649,
+  "lat": 40.1072,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.5739,
+  "lat": 40.3808,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.6373,
+  "lat": 43.1566,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.8036,
+  "lat": 39.4688,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.8344,
+  "lat": 39.4989,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.8539,
+  "lat": 39.0939,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.8465,
+  "lat": 39.2374,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.8319,
+  "lat": 39.3991,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.8484,
+  "lat": 43.7559,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.8939,
+  "lat": 39.3544,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.9268,
+  "lat": 39.1684,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.975,
+  "lat": 39.2056,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 16.9761,
+  "lat": 44.6516,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.5339,
+  "lat": 43.6079,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.6773,
+  "lat": 40.5769,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 17.7661,
+  "lat": 42.9735,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.0292,
+  "lat": 47.0852,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 1.803,
+  "lat": 41.3071,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.2822,
+  "lat": 43.0577,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.5053,
+  "lat": 42.4319,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.5605,
+  "lat": 42.667,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.955,
+  "lat": 42.6488,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 18.9795,
+  "lat": 42.9067,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.0308,
+  "lat": 42.3601,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.0491,
+  "lat": 42.4971,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.0847,
+  "lat": 42.5622,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 1.8997,
+  "lat": 41.6959,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.4928,
+  "lat": 46.4872,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.5092,
+  "lat": 40.4478,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.5363,
+  "lat": 41.9648,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.6161,
+  "lat": 42.1013,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.6447,
+  "lat": 44.4901,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.7199,
+  "lat": 42.1996,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.7432,
+  "lat": 40.2801,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 0.1854,
+  "lat": 51.4382,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.7764,
+  "lat": 41.6666,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.7957,
+  "lat": 41.4641,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.8269,
+  "lat": 40.5533,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.8868,
+  "lat": 40.4248,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 19.8761,
+  "lat": 41.8545,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.0395,
+  "lat": 41.8442,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.078,
+  "lat": 41.823,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.1178,
+  "lat": 46.9549,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.1567,
+  "lat": 40.5704,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.1863,
+  "lat": 39.9301,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.8679,
+  "lat": 54.5173,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 20.9705,
+  "lat": 54.5239,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.4212,
+  "lat": 37.7658,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.4742,
+  "lat": 45.9161,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.6425,
+  "lat": 37.8142,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.6468,
+  "lat": 37.5913,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.6865,
+  "lat": 42.3623,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.6789,
+  "lat": 44.0136,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.7497,
+  "lat": 42.6086,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 21.9944,
+  "lat": 51.4492,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.109,
+  "lat": 47.1428,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.1776,
+  "lat": 46.009,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.2892,
+  "lat": 37.51,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.3753,
+  "lat": 44.4144,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.406,
+  "lat": 39.2065,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.4254,
+  "lat": 38.4908,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.4498,
+  "lat": 44.2564,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.5233,
+  "lat": 48.8509,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.5642,
+  "lat": 41.5126,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.733,
+  "lat": 41.7391,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 22.7933,
+  "lat": 38.653,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.1391,
+  "lat": 44.242,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.217,
+  "lat": 38.0605,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.2417,
+  "lat": 38.1369,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.4146,
+  "lat": 49.2951,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.7724,
+  "lat": 51.9481,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.7973,
+  "lat": 43.2458,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.8608,
+  "lat": 38.0521,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.9213,
+  "lat": 38.0159,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 23.9221,
+  "lat": 43.3796,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 2.3976,
+  "lat": 42.8218,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.3681,
+  "lat": 44.0014,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.5659,
+  "lat": 43.447,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": 24.7536,
+  "lat": 40.6942,
+  "year": 2022,
+  "month": 4,
+  "region": "eu",
+  "src": "FIRMS-forest-spring"
+ }
+]

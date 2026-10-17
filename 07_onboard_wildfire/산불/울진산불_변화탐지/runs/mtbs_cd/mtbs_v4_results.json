@@ -1,0 +1,17 @@
+{
+  "val": {
+    "thr": 0.525,
+    "f1": 0.953,
+    "iou": 0.91,
+    "precision": 0.946,
+    "recall": 0.96
+  },
+  "test_cabuar": {
+    "thr": 0.525,
+    "f1": 0.531,
+    "iou": 0.362,
+    "precision": 0.384,
+    "recall": 0.862
+  },
+  "dnbr_thr": 0.575
+}

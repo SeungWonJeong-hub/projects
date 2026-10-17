@@ -1,0 +1,5 @@
+# 국토정보플랫폼 CIR 원본 번들 — 수 GB, 재배포 불가 → 커밋하지 않는다.
+# 원본 위치: 젯슨 미러 ~/jetson_data/syntax_inference/.../CIR_실측라벨/fires
+# 복원: cp -a <미러>/fires .  (24화재, 4.2GB)
+fires/
+*.zip

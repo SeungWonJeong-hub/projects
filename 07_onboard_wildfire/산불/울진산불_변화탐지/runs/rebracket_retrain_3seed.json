@@ -1,0 +1,1 @@
+{"protocol":"unet_s1 +복구12 EP6 3seed","baseline_spring":0.807,"spring":[0.830,0.821,0.827],"spring_mean":0.826,"spring_delta":0.019,"spring_delta_std":0.004,"forest":[0.672,0.609,0.655],"verdict":"작지만 재현성있는 +0.019(단일=앙상블0.828수준), 산림청 -0.03 트레이드오프. v4 negative와 대조"}

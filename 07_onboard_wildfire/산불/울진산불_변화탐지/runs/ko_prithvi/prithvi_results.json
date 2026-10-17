@@ -1,0 +1,33 @@
+{
+ "model": "Prithvi-100M frozen+dec",
+ "unfreeze": 4,
+ "fires": 45,
+ "test_fires": 7,
+ "val_thr": 0.45,
+ "test_valthr": {
+  "thr": 0.45,
+  "f1": 0.61,
+  "iou": 0.439,
+  "precision": 0.522,
+  "recall": 0.734
+ },
+ "test_bestthr": {
+  "thr": 0.2,
+  "f1": 0.612,
+  "iou": 0.441,
+  "precision": 0.473,
+  "recall": 0.867
+ },
+ "dnbr_echo": {
+  "thr": 0.05,
+  "f1": 0.431,
+  "iou": 0.275,
+  "precision": 0.484,
+  "recall": 0.388
+ },
+ "vs_v3": {
+  "v3_f1": 0.616,
+  "prithvi_f1": 0.612,
+  "delta": -0.004
+ }
+}

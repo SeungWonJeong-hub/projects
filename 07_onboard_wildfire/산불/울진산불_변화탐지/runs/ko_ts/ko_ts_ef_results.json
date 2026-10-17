@@ -1,0 +1,43 @@
+{
+  "model": "ef",
+  "fires": 43,
+  "test_fires": 7,
+  "val": {
+    "thr": 0.55,
+    "f1": 0.491,
+    "iou": 0.326,
+    "precision": 0.404,
+    "recall": 0.627
+  },
+  "test_valthr": {
+    "thr": 0.55,
+    "f1": 0.406,
+    "iou": 0.254,
+    "precision": 0.435,
+    "recall": 0.379
+  },
+  "test_bestthr": {
+    "thr": 0.1,
+    "f1": 0.482,
+    "iou": 0.318,
+    "precision": 0.384,
+    "recall": 0.648
+  },
+  "dnbr_echo": {
+    "thr": 0.45,
+    "f1": 0.498,
+    "iou": 0.331,
+    "precision": 0.338,
+    "recall": 0.938
+  },
+  "echo_margin": -0.016,
+  "holdout": [
+    "kf_20181004_2666ha",
+    "kf_20190304_2083ha",
+    "kf_20190420_1459ha",
+    "kf_20200422_1753ha",
+    "kf_20200608_2433ha",
+    "kf_20210220_1504ha",
+    "kf_20210425_5496ha"
+  ]
+}

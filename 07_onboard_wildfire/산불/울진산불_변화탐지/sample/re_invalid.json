@@ -1,0 +1,332 @@
+[
+ {
+  "id": "P0012",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0014",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0025",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0049",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0064",
+  "site": "goseong",
+  "read": "비변화",
+  "why": "채움값"
+ },
+ {
+  "id": "P0090",
+  "site": "yangyang",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0145",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "씬 밖"
+ },
+ {
+  "id": "P0172",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0182",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0190",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "씬 밖"
+ },
+ {
+  "id": "P0211",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0213",
+  "site": "yangyang",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0222",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0235",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "씬 밖"
+ },
+ {
+  "id": "P0254",
+  "site": "yangyang",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0297",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0298",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "씬 밖"
+ },
+ {
+  "id": "P0333",
+  "site": "yangyang",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0371",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0383",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0404",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0417",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "씬 밖"
+ },
+ {
+  "id": "P0430",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0482",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0493",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0494",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0499",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0505",
+  "site": "yangyang",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0531",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "씬 밖"
+ },
+ {
+  "id": "P0542",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0577",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0595",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0604",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0616",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0621",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0649",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0671",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0677",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0704",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0710",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0727",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0733",
+  "site": "yangyang",
+  "read": "판정불가",
+  "why": "씬 밖"
+ },
+ {
+  "id": "P0745",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0770",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "씬 밖"
+ },
+ {
+  "id": "P0774",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0784",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0791",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0792",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0825",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0842",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0853",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0900",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0905",
+  "site": "yangyang",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0918",
+  "site": "goseong",
+  "read": "판정불가",
+  "why": "채움값"
+ },
+ {
+  "id": "P0971",
+  "site": "gangneung",
+  "read": "판정불가",
+  "why": "채움값"
+ }
+]

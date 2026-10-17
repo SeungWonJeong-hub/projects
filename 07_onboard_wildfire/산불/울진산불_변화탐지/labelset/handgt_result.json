@@ -1,0 +1,8 @@
+{
+  "tile": "kf_20190826(여름)",
+  "hand_px": 37266,
+  "poly_px": 32685,
+  "model_vs_hand_TRUE": 0.739,
+  "model_vs_poly_reported": 0.697,
+  "poly_vs_hand": 0.881
+}

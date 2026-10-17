@@ -1,0 +1,8 @@
+합성 대상 3개 씬 (52SEG, 2021-04-01~):
+  - 2021-04-09 cloud 17.6%  (S2A_52SEG_20210409_0_L2A)
+  - 2021-04-14 cloud 1.2%  (S2B_52SEG_20210414_0_L2A)
+  - 2021-04-19 cloud 0.0%  (S2A_52SEG_20210419_2_L2A)
+합성 3씬 → 그리드 2045x1964
+/home/syntax_kmu/syntax_inference/Steven/uljin_wildfire_cd/src/pre_composite.py:116: RuntimeWarning: All-NaN slice encountered
+  med = np.nanmedian(arr, axis=0)
+저장: /home/syntax_kmu/syntax_inference/Steven/uljin_wildfire_cd/src/../data/raw/PRE_COMPOSITE_2021spring  valid 71.03%  평균관측 2.05씬/px

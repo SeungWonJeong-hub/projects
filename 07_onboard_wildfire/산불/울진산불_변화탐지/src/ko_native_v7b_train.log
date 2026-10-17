@@ -1,0 +1,26 @@
+/home/syntax_kmu/.local/lib/python3.10/site-packages/torch/cuda/__init__.py:188: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 12060). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /__w/pytorch/pytorch/c10/cuda/CUDAFunctions.cpp:119.)
+  return torch._C._cuda_getDeviceCount() > 0
+[고정 홀드아웃] test 8화재 (누락 0: [])
+화재 35개 → train 27화재/105타일, val 11, TEST(미학습 8화재) 36타일
+홀드아웃 화재: ['kf_20181004_2666ha', 'kf_20190304_2083ha', 'kf_20190420_1459ha', 'kf_20190826_3047ha', 'kf_20200422_1753ha', 'kf_20200608_2433ha', 'kf_20210220_1504ha', 'kf_20210425_5496ha']
+[홀드아웃 dNBR-echo] {'thr': 0.2, 'f1': 0.578, 'iou': 0.406, 'precision': 0.407, 'recall': 0.996}
+[입력] 모델=unet 13채널 (계절=OFF)
+[손실] TverskyBCE a=0.7 b=0.3 (recall 지향(FN 페널티↑))
+/home/syntax_kmu/syntax_inference/Steven/uljin_wildfire_cd/src/ko_train_native.py:160: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  lf=make_loss(); sc=torch.cuda.amp.GradScaler(enabled=(DEV=="cuda")); best=-1; bs=None
+[ep 00] loss=1.289 val_f1=0.435
+[ep 05] loss=1.079 val_f1=0.526
+[ep 10] loss=0.931 val_f1=0.497
+[ep 15] loss=0.745 val_f1=0.618
+[ep 20] loss=0.675 val_f1=0.657
+[ep 25] loss=0.571 val_f1=0.683
+[ep 30] loss=0.480 val_f1=0.714
+[ep 35] loss=0.444 val_f1=0.727
+[ep 39] loss=0.439 val_f1=0.727
+
+=== 한국 다산불 native (fire-disjoint) ===
+VAL: {'thr': 0.525, 'f1': 0.731, 'iou': 0.576, 'precision': 0.684, 'recall': 0.786}
+TEST(미학습 화재, val-thr): {'thr': 0.525, 'f1': 0.484, 'iou': 0.319, 'precision': 0.618, 'recall': 0.398}
+TEST(미학습 화재, best-thr): {'thr': 0.1, 'f1': 0.593, 'iou': 0.421, 'precision': 0.573, 'recall': 0.614}
+[대비] 홀드아웃 dNBR-echo 0.578 | 단일산불 울진(동일씬 스플릿) 0.772 | US모델→한국 0.000(붕괴)
+저장: /home/syntax_kmu/syntax_inference/Steven/uljin_wildfire_cd/src/../runs/ko_native

@@ -1,0 +1,9 @@
+/home/syntax_kmu/.local/lib/python3.10/site-packages/torch/cuda/__init__.py:188: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 12060). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /__w/pytorch/pytorch/c10/cuda/CUDAFunctions.cpp:119.)
+  return torch._C._cuda_getDeviceCount() > 0
+
+===== [A_composite_pre] init=imagenet lr=0.0003 =====
+/home/syntax_kmu/syntax_inference/Steven/uljin_wildfire_cd/src/ko2uljin_finetune.py:86: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  lf = DiceBCE(); sc = torch.cuda.amp.GradScaler(enabled=(DEV == "cuda")); best = -1; bs = None
+  [ep 00] loss=1.899 val_f1=0.232
+  [ep 05] loss=1.334 val_f1=0.819
+  [ep 10] loss=1.168 val_f1=0.782

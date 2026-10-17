@@ -1,0 +1,66 @@
+{
+ "NDVI_extent": {
+  "slope": 0.4977,
+  "intercept": -0.0615,
+  "R2": 0.29,
+  "zero_cross": 0.1236,
+  "n": 182,
+  "slope_CI": [
+   0.358,
+   0.6182
+  ],
+  "zero_CI": [
+   0.1043,
+   0.1453
+  ],
+  "slope_p": 0.0
+ },
+ "NDVI_severity": {
+  "slope": 0.2596,
+  "intercept": -0.0151,
+  "R2": 0.205,
+  "zero_cross": 0.0582,
+  "n": 114,
+  "slope_CI": [
+   0.1152,
+   0.4099
+  ],
+  "zero_CI": [
+   -0.0087,
+   0.0855
+  ],
+  "slope_p": 0.0
+ },
+ "NBR_extent": {
+  "slope": 0.211,
+  "intercept": 0.006,
+  "R2": 0.079,
+  "zero_cross": -0.0285,
+  "n": 18,
+  "slope_CI": [
+   -0.043,
+   0.6496
+  ],
+  "zero_CI": [
+   -0.3661,
+   0.1709
+  ],
+  "slope_p": 0.1087
+ },
+ "NBR_severity": {
+  "slope": -0.2828,
+  "intercept": 0.0155,
+  "R2": 0.382,
+  "zero_cross": 0.0549,
+  "n": 18,
+  "slope_CI": [
+   -0.4851,
+   0.0163
+  ],
+  "zero_CI": [
+   -0.0655,
+   0.2238
+  ],
+  "slope_p": 0.07
+ }
+}

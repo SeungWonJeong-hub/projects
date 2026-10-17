@@ -1,0 +1,24 @@
+/home/syntax_kmu/.local/lib/python3.10/site-packages/torch/cuda/__init__.py:188: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 12060). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /__w/pytorch/pytorch/c10/cuda/CUDAFunctions.cpp:119.)
+  return torch._C._cuda_getDeviceCount() > 0
+화재 34개 → train 27화재/28타일, val 6, TEST(미학습 7화재) 9타일
+홀드아웃 화재: ['kf_20190304_2083ha', 'kf_20200325_1210ha', 'kf_20200416_2139ha', 'kf_20190507_1108ha', 'kf_20200608_2433ha', 'kf_20201212_1110ha', 'kf_20190516_2330ha']
+[홀드아웃 dNBR-echo] {'thr': 0.125, 'f1': 0.471, 'iou': 0.308, 'precision': 0.308, 'recall': 1.0}
+[손실] TverskyBCE a=0.7 b=0.3 (FP 페널티↑ → precision 지향)
+/home/syntax_kmu/syntax_inference/Steven/uljin_wildfire_cd/src/ko_train_native.py:92: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  lf=make_loss(); sc=torch.cuda.amp.GradScaler(enabled=(DEV=="cuda")); best=-1; bs=None
+[ep 00] loss=1.316 val_f1=0.575
+[ep 05] loss=1.018 val_f1=0.582
+[ep 10] loss=0.870 val_f1=0.588
+[ep 15] loss=0.776 val_f1=0.644
+[ep 20] loss=0.808 val_f1=0.572
+[ep 25] loss=0.694 val_f1=0.667
+[ep 30] loss=0.630 val_f1=0.636
+[ep 35] loss=0.594 val_f1=0.637
+[ep 39] loss=0.571 val_f1=0.635
+
+=== 한국 다산불 native (fire-disjoint) ===
+VAL: {'thr': 0.575, 'f1': 0.667, 'iou': 0.5, 'precision': 0.608, 'recall': 0.738}
+TEST(미학습 화재, val-thr): {'thr': 0.575, 'f1': 0.616, 'iou': 0.445, 'precision': 0.598, 'recall': 0.634}
+TEST(미학습 화재, best-thr): {'thr': 0.45, 'f1': 0.632, 'iou': 0.462, 'precision': 0.548, 'recall': 0.747}
+[대비] 홀드아웃 dNBR-echo 0.471 | 단일산불 울진(동일씬 스플릿) 0.772 | US모델→한국 0.000(붕괴)
+저장: /home/syntax_kmu/syntax_inference/Steven/uljin_wildfire_cd/src/../runs/ko_native

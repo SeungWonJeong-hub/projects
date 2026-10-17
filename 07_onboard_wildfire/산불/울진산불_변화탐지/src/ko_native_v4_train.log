@@ -1,0 +1,24 @@
+/home/syntax_kmu/.local/lib/python3.10/site-packages/torch/cuda/__init__.py:188: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 12060). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /__w/pytorch/pytorch/c10/cuda/CUDAFunctions.cpp:119.)
+  return torch._C._cuda_getDeviceCount() > 0
+화재 45개 → train 36화재/39타일, val 6, TEST(미학습 9화재) 9타일
+홀드아웃 화재: ['kf_20190506_2172ha', 'kf_20190511_919ha', 'kf_20201212_1110ha', 'kf_20190309_380ha', 'kf_20190529_1013ha', 'kf_20190304_2083ha', 'kf_20200422_1753ha', 'kf_20200613_453ha', 'kf_20190319_1422ha']
+[홀드아웃 dNBR-echo] {'thr': 0.2, 'f1': 0.456, 'iou': 0.295, 'precision': 0.301, 'recall': 0.937}
+[손실] TverskyBCE a=0.7 b=0.3 (recall 지향(FN 페널티↑))
+/home/syntax_kmu/syntax_inference/Steven/uljin_wildfire_cd/src/ko_train_native.py:93: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  lf=make_loss(); sc=torch.cuda.amp.GradScaler(enabled=(DEV=="cuda")); best=-1; bs=None
+[ep 00] loss=1.357 val_f1=0.513
+[ep 05] loss=0.974 val_f1=0.623
+[ep 10] loss=0.903 val_f1=0.502
+[ep 15] loss=0.812 val_f1=0.538
+[ep 20] loss=0.635 val_f1=0.511
+[ep 25] loss=0.649 val_f1=0.563
+[ep 30] loss=0.571 val_f1=0.575
+[ep 35] loss=0.556 val_f1=0.582
+[ep 39] loss=0.555 val_f1=0.585
+
+=== 한국 다산불 native (fire-disjoint) ===
+VAL: {'thr': 0.325, 'f1': 0.628, 'iou': 0.458, 'precision': 0.512, 'recall': 0.814}
+TEST(미학습 화재, val-thr): {'thr': 0.325, 'f1': 0.565, 'iou': 0.394, 'precision': 0.423, 'recall': 0.852}
+TEST(미학습 화재, best-thr): {'thr': 0.6, 'f1': 0.592, 'iou': 0.421, 'precision': 0.497, 'recall': 0.733}
+[대비] 홀드아웃 dNBR-echo 0.456 | 단일산불 울진(동일씬 스플릿) 0.772 | US모델→한국 0.000(붕괴)
+저장: /home/syntax_kmu/syntax_inference/Steven/uljin_wildfire_cd/src/../runs/ko_native

@@ -1,0 +1,40 @@
+{"id":"Q001","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"시가지 공장 지붕, pre/post 동일"}
+{"id":"Q002","read":"판정불가","grade":"","basis":"RE","conf":"","note":"표본 화소가 RapidEye 영상 범위 밖"}
+{"id":"Q003","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"균일 적색 수목, pre/post 동일"}
+{"id":"Q004","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"초지 소각면(올리브-담갈), S2 적→올리브"}
+{"id":"Q005","read":"소각","grade":"심","basis":"RE+S2","conf":"중","note":"균일 암청록, 적색 완전 소실"}
+{"id":"Q006","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"적색 수목 우세, 상자는 계곡 음영"}
+{"id":"Q007","read":"소각","grade":"심","basis":"RE+S2","conf":"중","note":"균일 암청록 수목 소각면"}
+{"id":"Q008","read":"소각","grade":"중","basis":"RE+S2","conf":"하","note":"적색 소실 담회록, 소각면 내부이나 나지 가능성"}
+{"id":"Q009","read":"판정불가","grade":"","basis":"RE","conf":"","note":"표본 화소가 RapidEye 영상 범위 밖(채움값)"}
+{"id":"Q010","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"시가지 공장, pre/post 동일"}
+{"id":"Q011","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"적색 소실 암올리브, S2 적→암록"}
+{"id":"Q012","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"균일 녹색(적색 소실), 눈금 C중4 와 유사"}
+{"id":"Q013","read":"소각","grade":"심","basis":"RE+S2","conf":"중","note":"균일 암청록, 갈색 질감 없음"}
+{"id":"Q014","read":"소각","grade":"심","basis":"RE+S2","conf":"중","note":"적색 식생 속 암록 소반, S2 post 최암부"}
+{"id":"Q015","read":"비변화","grade":"","basis":"RE+S2","conf":"하","note":"경작지 모자이크, 소각 아닌 밝아짐(계절·경작)"}
+{"id":"Q016","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"초지 소각면 올리브-담갈"}
+{"id":"Q017","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"주변과 같은 밝은 적색 수목, 탁해짐 없음"}
+{"id":"Q018","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록 소각면, 적색 잔존 반점"}
+{"id":"Q019","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"담회갈 도로·나지대, pre/post 동일"}
+{"id":"Q020","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"초지 소각면 내부"}
+{"id":"Q021","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록-갈 소각면, S2 적→암록"}
+{"id":"Q022","read":"소각","grade":"중","basis":"RE+S2","conf":"하","note":"소각면 경계, 상자 내부 올리브(적색 소실)"}
+{"id":"Q023","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"초지 소각면 내부"}
+{"id":"Q024","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"적색 식생 속 녹색 소반, S2 적→갈"}
+{"id":"Q025","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"수체"}
+{"id":"Q026","read":"비변화","grade":"","basis":"RE","conf":"하","note":"담회청 나지(채석·하상), 인접 식생이 선명한 적색"}
+{"id":"Q027","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"적색/암록 경계, 상자는 암록측"}
+{"id":"Q028","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"수체"}
+{"id":"Q029","read":"소각","grade":"중","basis":"RE+S2","conf":"하","note":"암록 소반, S2 적→올리브. 나지 인접"}
+{"id":"Q030","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"시가지·도로, pre/post 동일"}
+{"id":"Q031","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"균일 밝은 적색 수목, pre/post 동일"}
+{"id":"Q032","read":"소각","grade":"중","basis":"RE+S2","conf":"하","note":"계단식 경작대, 상자 암록(적색 소실), S2 적→녹"}
+{"id":"Q033","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"적색 속 암록 소반, S2 적→갈올리브"}
+{"id":"Q034","read":"소각","grade":"경","basis":"RE+S2","conf":"하","note":"소각면 상단 경계, 적색 잔존하나 탁함"}
+{"id":"Q035","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"경기장·시가지 시설, pre/post 동일"}
+{"id":"Q036","read":"소각","grade":"중","basis":"RE+S2","conf":"하","note":"초지 소각면 경계, 상자 담올리브"}
+{"id":"Q037","read":"판정불가","grade":"","basis":"RE","conf":"","note":"RapidEye 채움값(흑)"}
+{"id":"Q038","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"균일 적색 수목"}
+{"id":"Q039","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"초지 소각면 내부"}
+{"id":"Q040","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록-갈, S2 적→녹"}

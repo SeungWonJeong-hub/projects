@@ -1,0 +1,41 @@
+{
+ "torch_fp32": {
+  "ms_per_tile": 49.143,
+  "mpix_per_s": 1.33,
+  "power_in_w": 9.06,
+  "power_gpu_w": null,
+  "mj_per_mpix": 6793.8
+ },
+ "torch_fp16": {
+  "ms_per_tile": 40.216,
+  "mpix_per_s": 1.63,
+  "power_in_w": 8.32,
+  "power_gpu_w": null,
+  "mj_per_mpix": 5105.5
+ },
+ "fp16_accuracy": {
+  "max_prob_diff": 0.00529,
+  "mean_prob_diff": 0.000126,
+  "mask_disagree_frac_at_0.5": 0.000195
+ },
+ "trt_error": "No module named 'onnxscript'",
+ "speedup_vs_fp32": {
+  "torch_fp16": 1.23,
+  "trt_fp16": 4.82,
+  "trt_int8": 7.4
+ },
+ "trt_fp16": {
+  "tag": "fp16",
+  "ms_per_tile": 10.226,
+  "mpix_per_s": 6.41,
+  "engine": "/home/syntax_kmu/syntax_inference/Steven/산불/during_fire_distill/runs/bench/student_fp16.engine",
+  "ok": true
+ },
+ "trt_int8": {
+  "tag": "int8",
+  "ms_per_tile": 6.655,
+  "mpix_per_s": 9.84,
+  "engine": "/home/syntax_kmu/syntax_inference/Steven/산불/during_fire_distill/runs/bench/student_int8.engine",
+  "ok": true
+ }
+}

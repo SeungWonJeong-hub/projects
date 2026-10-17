@@ -1,0 +1,44 @@
+{
+  "_readme": "전지구 대형산불 during-fire 카탈로그. center=[lat,lon] 대략 중심, active_hint=[대략 연소시작, 끝] (정확한 일별 활성화재는 FIRMS가 확정). conf=지식기반 신뢰(hi/med/lo). 날짜는 뉴스/사전지식 근사이며 firms_teacher.py 가 실제 화재일로 좁힌다. area_ha 근사. biome 참고용.",
+  "_provenance": "Claude 지식(컷 2026-01) 시드. 좌표·기간은 근사이며 FIRMS 질의로 검증/정밀화됨. 뉴스 URL 교차검증은 후속.",
+  "events": {
+    "camp_2018_paradise_us": {"name":"Camp Fire", "country":"US-CA", "center":[39.81,-121.44], "active_hint":["2018-11-08","2018-11-25"], "area_ha":62053, "biome":"temperate forest/WUI", "conf":"hi", "note":"폭발적 첫날(11-08), 파라다이스 전소"},
+    "dixie_2021_us": {"name":"Dixie Fire", "country":"US-CA", "center":[40.08,-121.30], "active_hint":["2021-07-13","2021-10-25"], "area_ha":389837, "biome":"temperate conifer", "conf":"hi", "note":"장기 대형, 다수 활성 통과 기회"},
+    "august_complex_2020_us": {"name":"August Complex", "country":"US-CA", "center":[39.76,-122.67], "active_hint":["2020-08-16","2020-11-12"], "area_ha":417898, "biome":"temperate forest", "conf":"hi", "note":"CA 최대 기록"},
+    "creek_2020_us": {"name":"Creek Fire", "country":"US-CA", "center":[37.19,-119.26], "active_hint":["2020-09-04","2020-11-15"], "area_ha":153738, "biome":"Sierra conifer", "conf":"hi", "note":"9-05 화염적운(pyroCb)"},
+    "bootleg_2021_us": {"name":"Bootleg Fire", "country":"US-OR", "center":[42.60,-121.20], "active_hint":["2021-07-06","2021-08-15"], "area_ha":166000, "biome":"pine/plateau", "conf":"hi", "note":"7월 급확산"},
+    "mckinney_2022_us": {"name":"McKinney Fire", "country":"US-CA", "center":[41.83,-122.80], "active_hint":["2022-07-29","2022-08-10"], "area_ha":24000, "biome":"temperate forest", "conf":"med", "note":"급성장 첫 이틀"},
+    "fortmcmurray_2016_ca": {"name":"Fort McMurray (Horse River)", "country":"CA-AB", "center":[56.73,-111.38], "active_hint":["2016-05-01","2016-06-30"], "area_ha":589995, "biome":"boreal", "conf":"hi", "note":"도시 진입 5-03~05"},
+    "donniecreek_2023_ca": {"name":"Donnie Creek", "country":"CA-BC", "center":[57.60,-122.90], "active_hint":["2023-05-19","2023-09-15"], "area_ha":620000, "biome":"boreal", "conf":"med", "note":"BC 최대급, 장기 활성"},
+    "palisades_2025_us": {"name":"Palisades Fire", "country":"US-CA", "center":[34.07,-118.55], "active_hint":["2025-01-07","2025-01-20"], "area_ha":9000, "biome":"chaparral/WUI", "conf":"med", "note":"2025-01 LA, 강풍 야간확산"},
+    "eaton_2025_us": {"name":"Eaton Fire", "country":"US-CA", "center":[34.19,-118.13], "active_hint":["2025-01-07","2025-01-18"], "area_ha":5700, "biome":"chaparral/WUI", "conf":"med", "note":"알타데나"},
+
+    "gospers_2019_au": {"name":"Gospers Mountain", "country":"AU-NSW", "center":[-33.00,150.60], "active_hint":["2019-10-26","2020-01-10"], "area_ha":512000, "biome":"eucalypt forest", "conf":"hi", "note":"Black Summer 최대 단일"},
+    "currowan_2019_au": {"name":"Currowan", "country":"AU-NSW", "center":[-35.40,150.20], "active_hint":["2019-11-26","2020-02-08"], "area_ha":499000, "biome":"eucalypt forest", "conf":"hi", "note":"남해안"},
+    "kangaroo_2019_au": {"name":"Kangaroo Island", "country":"AU-SA", "center":[-35.83,137.20], "active_hint":["2019-12-20","2020-02-06"], "area_ha":211000, "biome":"eucalypt/scrub", "conf":"hi", "note":"섬 절반 소실"},
+    "eastgippsland_2019_au": {"name":"East Gippsland", "country":"AU-VIC", "center":[-37.50,148.50], "active_hint":["2019-11-21","2020-02-10"], "area_ha":1500000, "biome":"eucalypt forest", "conf":"med", "note":"12-30 Mallacoota 대피"},
+    "greenwattle_2019_au": {"name":"Green Wattle Creek", "country":"AU-NSW", "center":[-34.10,150.40], "active_hint":["2019-12-01","2020-01-15"], "area_ha":278000, "biome":"eucalypt forest", "conf":"med", "note":"시드니 남서"},
+    "kalimantan_2019_id": {"name":"Central Kalimantan peat", "country":"ID", "center":[-2.20,113.90], "active_hint":["2019-08-25","2019-10-05"], "area_ha":300000, "biome":"peatland", "conf":"med", "note":"이탄지, 짙은 연무. 화선 분산 주의"},
+    "sumatra_2019_id": {"name":"Riau/Jambi Sumatra peat", "country":"ID", "center":[-1.00,102.50], "active_hint":["2019-08-20","2019-09-30"], "area_ha":250000, "biome":"peatland", "conf":"med", "note":"이탄지 연무"},
+
+    "pedrogao_2017_pt": {"name":"Pedrógão Grande", "country":"PT", "center":[39.95,-8.15], "active_hint":["2017-06-17","2017-06-24"], "area_ha":45000, "biome":"Mediterranean pine/euc", "conf":"hi", "note":"급성장, 다수 사망"},
+    "centralpt_2017_oct": {"name":"Central Portugal Oct 2017", "country":"PT", "center":[40.10,-8.30], "active_hint":["2017-10-14","2017-10-18"], "area_ha":220000, "biome":"pine/eucalypt", "conf":"med", "note":"10-15 다발 대형"},
+    "mati_2018_gr": {"name":"Attica/Mati", "country":"GR", "center":[38.03,23.98], "active_hint":["2018-07-23","2018-07-25"], "area_ha":13000, "biome":"pine/WUI", "conf":"hi", "note":"초고속 확산"},
+    "evia_2021_gr": {"name":"Evia (Euboea)", "country":"GR", "center":[38.90,23.60], "active_hint":["2021-08-03","2021-08-11"], "area_ha":51000, "biome":"pine forest", "conf":"hi", "note":"북에비아 전소"},
+    "olympia_2021_gr": {"name":"Ancient Olympia / W.Peloponnese", "country":"GR", "center":[37.65,21.63], "active_hint":["2021-08-04","2021-08-10"], "area_ha":38000, "biome":"pine/olive", "conf":"med"},
+    "rhodes_2023_gr": {"name":"Rhodes", "country":"GR", "center":[36.15,27.90], "active_hint":["2023-07-18","2023-07-27"], "area_ha":17000, "biome":"pine/scrub", "conf":"hi", "note":"관광지 대피"},
+    "evros_2023_gr": {"name":"Evros/Dadia", "country":"GR", "center":[41.10,26.20], "active_hint":["2023-08-19","2023-08-30"], "area_ha":96000, "biome":"pine forest", "conf":"hi", "note":"EU 기록상 최대 단일"},
+    "sardinia_2021_it": {"name":"Montiferru Sardinia", "country":"IT", "center":[40.10,8.60], "active_hint":["2021-07-24","2021-07-26"], "area_ha":20000, "biome":"Mediterranean scrub", "conf":"med"},
+    "manavgat_2021_tr": {"name":"Manavgat/Antalya", "country":"TR", "center":[36.90,31.40], "active_hint":["2021-07-28","2021-08-04"], "area_ha":60000, "biome":"pine forest", "conf":"med", "note":"2021 지중해 폭염"},
+    "culebra_2022_es": {"name":"Sierra de la Culebra", "country":"ES", "center":[41.90,-6.50], "active_hint":["2022-06-15","2022-06-19"], "area_ha":30000, "biome":"oak/pine", "conf":"med", "note":"Zamora"},
+    "gironde_2022_fr": {"name":"Gironde (Landiras/La Teste)", "country":"FR", "center":[44.55,-0.90], "active_hint":["2022-07-12","2022-07-25"], "area_ha":27000, "biome":"maritime pine", "conf":"med"},
+
+    "pantanal_2020_br": {"name":"Pantanal 2020", "country":"BR", "center":[-17.70,-56.80], "active_hint":["2020-08-15","2020-10-15"], "area_ha":3900000, "biome":"tropical wetland", "conf":"med", "note":"습지 대화재, 분산 화선"},
+    "pantanal_2024_br": {"name":"Pantanal 2024", "country":"BR", "center":[-18.00,-56.60], "active_hint":["2024-06-01","2024-07-31"], "area_ha":1000000, "biome":"tropical wetland", "conf":"med"},
+    "chiquitania_2019_bo": {"name":"Chiquitania", "country":"BO", "center":[-16.50,-61.00], "active_hint":["2019-08-01","2019-09-30"], "area_ha":1900000, "biome":"dry forest", "conf":"med"},
+    "chile_2023_nuble": {"name":"Ñuble/Biobío Feb 2023", "country":"CL", "center":[-37.00,-72.40], "active_hint":["2023-02-01","2023-02-12"], "area_ha":430000, "biome":"pine/euc plantation", "conf":"med", "note":"폭염 급확산"},
+    "valparaiso_2024_cl": {"name":"Valparaíso/Viña del Mar", "country":"CL", "center":[-33.05,-71.50], "active_hint":["2024-02-02","2024-02-05"], "area_ha":9000, "biome":"scrub/WUI", "conf":"med", "note":"도시 인접 급성장"},
+    "corrientes_2022_ar": {"name":"Corrientes", "country":"AR", "center":[-28.50,-57.50], "active_hint":["2022-02-01","2022-03-05"], "area_ha":1000000, "biome":"wetland/grass", "conf":"lo", "note":"분산, 화선 특정 어려움"},
+    "yakutia_2021_ru": {"name":"Sakha/Yakutia 2021", "country":"RU", "center":[62.00,130.00], "active_hint":["2021-07-01","2021-08-20"], "area_ha":8000000, "biome":"boreal larch", "conf":"lo", "note":"초대형·고위도, 연기 극심"}
+  }
+}
