@@ -20,7 +20,7 @@
 | 구분 | 담당 |
 |---|---|
 | 본인 | 시뮬레이터 설계와 개발 총괄 / CW 기동 계산 / ECI와 LVLH 좌표변환 / RK4 궤도 전파 / 유한 연소 / J2~J5 섭동 / 재타겟팅 / MATLAB UI |
-| 팀원 | Lambert 솔버 `LambertSolver.m` |
+| 팀원1 | Lambert 솔버 `LambertSolver.m` |
 
 ## 진행 단계와 결과
 
@@ -60,7 +60,7 @@ main_rendezvous
 | `main_rendezvous.m` | UI와 결과 그래프 |
 | `evaluate_maneuver_module.m` | 유한 연소 9가지 비교와 임펄스 기동 재타겟팅 |
 | `cw_stm_delta_v.m` | CW 상태천이행렬로 2회 기동 ΔV 계산 |
-| `LambertSolver.m` | Lambert 문제 풀이 ΔV 계산 / 팀원 작성 |
+| `LambertSolver.m` | Lambert 문제 풀이 ΔV 계산 / 팀원1 작성 |
 | `rk4_orbit_step.m` | RK4 궤도 전파 |
 | `gravity_accel.m` | 2체 중력과 J2~J5 섭동 가속도 |
 | `coe_to_rv.m` | 궤도 6요소를 ECI 위치와 속도로 변환 |
