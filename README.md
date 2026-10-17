@@ -4,10 +4,11 @@
 
 ```
 projects/
-│  항공우주 프로젝트
+│  전공 프로젝트
 ├── 05_rendezvous/                  위성 랑데부 시뮬레이터 / 캡스톤디자인 4인 중 팀장
 ├── 06_gimbal/                      3축 짐벌 카메라 자세 제어 / 5인 중 팀원
 ├── 07_onboard_wildfire/            KMU ET-02 큐브위성 온보드 AI 산불 탐지 / 4인 중 팀원
+├── 08_catia_tank/                  CATIA 전차 역설계 모델링 / 5인 중 팀원
 │
 │  코멘토 직무부트캠프 Computer Vision POC
 ├── 01_image_processing/            1차 — Git 코드 관리 & 픽셀 단위 이미지 처리
@@ -30,6 +31,10 @@ Simscape Multibody 3축 모델에 축별 PID 제어기와 팀원의 Stateflow �
 ## KMU ET-02 큐브위성 온보드 AI 산불 탐지 → [`07_onboard_wildfire/`](07_onboard_wildfire/)
 
 Sentinel-2 영상에서 산불 소각영역을 위성 안에서 찾고 폴리곤으로 바꿔 내려보냅니다. 다운링크 용량이 2.51MB에서 18.7kB로 줄어 UHF 전송 시간이 69.7분에서 31.1초가 됩니다.
+
+## CATIA 전차 역설계 모델링 → [`08_catia_tank/`](08_catia_tank/)
+
+판터 전차 프라모델을 직접 실측해 역설계 도면을 만들고 CATIA로 462개 파트를 조립했습니다. 상판 어셈블리와 도면을 맡았습니다.
 
 ---
 
