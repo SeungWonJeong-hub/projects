@@ -42,4 +42,3 @@ sim('gimbal_algorithm_mode')
 | `body.stp` `part2.stp` `part3.stp` `part4.stp` | 짐벌 부품 CAD |
 | `media/gimbal_move.mp4` | 동작 영상 |
 
-CAD 파일은 모델과 같은 폴더에서 불러오도록 경로를 정리했습니다.
