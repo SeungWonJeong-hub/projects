@@ -1,0 +1,13 @@
+{
+ "cir": 0.8006394917507106,
+ "forest": 0.478876473337444,
+ "neg_fpr": 0.1003924560546875,
+ "neg_dir": "ko_neg_s50",
+ "neg_frac": 0.15,
+ "n_neg_train": 49,
+ "n_neg_hold": 25,
+ "epochs": 15,
+ "lr": 3e-05,
+ "seed": 1,
+ "neg_split_seed": 0
+}

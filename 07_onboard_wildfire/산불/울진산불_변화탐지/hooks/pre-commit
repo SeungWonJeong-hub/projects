@@ -1,0 +1,10 @@
+#!/bin/sh
+# 학습/서빙 계약 검사 — 밴드 불일치·제로패딩·τ 하드코딩처럼 "예외 없이 성능만 깎는" 변경을 막는다.
+# 설치: Steven/산불/울진산불_변화탐지/hooks/install.sh
+# 우회: git commit --no-verify
+# 검사기는 numpy 가 없으면 스스로 numpy 있는 파이썬으로 갈아탄다(CONTRACT_PY 로 지정 가능).
+"${CONTRACT_PY:-python3}" "$(git rev-parse --show-toplevel)/Steven/산불/울진산불_변화탐지/src/check_contract.py" || {
+  echo ""
+  echo "커밋 중단 — 학습/서빙 계약 위반. 고치거나 --no-verify 로 우회하세요."
+  exit 1
+}

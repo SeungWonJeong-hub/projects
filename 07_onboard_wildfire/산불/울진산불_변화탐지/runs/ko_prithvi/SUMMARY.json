@@ -1,0 +1,28 @@
+{
+ "experiment": "Prithvi-EO-1.0-100M 파운데이션 백본으로 한국 산불 일반화 시도",
+ "holdout": "고정 7화재(data/holdout_fixed.txt), v3와 동일",
+ "baseline_v3": {
+  "f1": 0.616,
+  "iou": 0.445,
+  "precision": 0.598,
+  "recall": 0.634,
+  "dnbr_echo_margin": 0.145
+ },
+ "prithvi_frozen": {
+  "f1": 0.617,
+  "iou": 0.446,
+  "precision": 0.468,
+  "recall": 0.907,
+  "dnbr_echo_margin": 0.186
+ },
+ "prithvi_unfreeze4": {
+  "f1": 0.612,
+  "iou": 0.441,
+  "precision": 0.473,
+  "recall": 0.867,
+  "dnbr_echo_margin": 0.181
+ },
+ "verdict": "NEGATIVE — 파운데이션 백본이 v3 못 넘음(+0.001/-0.004). 병목=데이터물량(학습37타일), 백본용량 아님. 실패10종째.",
+ "train_tiles": 37,
+ "remaining_lever": "ko_multi_v7 248타일로 물량 4.6배 재학습"
+}

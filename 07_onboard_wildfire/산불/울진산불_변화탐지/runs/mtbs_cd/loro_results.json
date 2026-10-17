@@ -1,0 +1,30 @@
+{
+  "bush_az2020": {
+    "thr": 0.1,
+    "f1": 0.795,
+    "iou": 0.659,
+    "precision": 0.859,
+    "recall": 0.739
+  },
+  "cameronpeak_co2020": {
+    "thr": 0.467,
+    "f1": 0.915,
+    "iou": 0.844,
+    "precision": 0.933,
+    "recall": 0.898
+  },
+  "bootleg_or2021": {
+    "thr": 0.633,
+    "f1": 0.936,
+    "iou": 0.879,
+    "precision": 0.915,
+    "recall": 0.957
+  },
+  "richardspring_mt2021": {
+    "thr": 0.5,
+    "f1": 0.894,
+    "iou": 0.809,
+    "precision": 0.877,
+    "recall": 0.912
+  }
+}

@@ -1,0 +1,5 @@
+data/*.tif
+data/*.zip
+patches/
+val_cache/
+ckpt/

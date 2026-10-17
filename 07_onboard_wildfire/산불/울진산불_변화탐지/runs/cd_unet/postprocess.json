@@ -1,0 +1,28 @@
+{
+  "threshold": 0.525,
+  "polygons": 307,
+  "pred_area_ha": 9949.36,
+  "label_area_ha": 9532.12,
+  "metrics_final_vs_label": {
+    "precision": 0.8607830051376728,
+    "recall": 0.8984612027540995,
+    "f1": 0.8792185720163883,
+    "iou": 0.7844693347399949
+  },
+  "metrics_raw_vs_label": {
+    "precision": 0.8641397277064524,
+    "recall": 0.8991871692757124,
+    "f1": 0.8813151014473002,
+    "iou": 0.7878136121647741
+  },
+  "train_test_f1": 0.7722951173782349,
+  "severity_ha": {
+    "0": 101934.84,
+    "1": 1360.08,
+    "2": 4113.0,
+    "3": 2572.28,
+    "4": 1884.32
+  },
+  "largest_polygon_ha": 3665.0,
+  "note": "best.pt=ep34 (60ep OOMs on 8GB Jetson; best-val checkpoint used); test split row-based (corrected)"
+}

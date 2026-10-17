@@ -1,0 +1,13 @@
+{
+  "model": "mtbs_v2_unet (US 7 ecoregions, label-consistent pixel)",
+  "metric": "F1 vs dNBR-echo margin (generalization signal)",
+  "biomes": [
+    {"biome":"Mediterranean","region":"California (CaBuAr)","model_f1":0.547,"dnbr_echo":0.386,"margin":0.161,"note":"cross-dataset, independent CAL-FIRE label"},
+    {"biome":"Mediterranean","region":"Europe (CEMS, Iberia/Italy)","tiles":58,"model_f1":0.924,"dnbr_echo":0.752,"margin":0.172,"note":"far continent, CEMS DEL raw label; tight fire-crops inflate absolute"},
+    {"biome":"Boreal","region":"Alaska (MTBS)","tiles":151,"model_f1":0.810,"dnbr_echo":0.745,"margin":0.065,"note":"conifer/tundra high-lat, thinner margin"},
+    {"biome":"Eucalyptus","region":"Australia NSW Black Summer (NPWS)","tiles":136,"model_f1":0.736,"dnbr_echo":0.728,"margin":0.008,"note":"S.hemisphere eucalyptus, margin ~0 (needs in-domain)"},
+    {"biome":"E.Asia temperate","region":"Korea (산림청 MTfire real perimeter)","tiles":16,"model_f1":0.0,"dnbr_echo":0.609,"margin":-0.609,"note":"COLLAPSE. Spring fires during green-up: burned dNBR raw -0.55 (negative), inverted vs US summer-fire training. dNBR-echo 0.609 = trivial all-positive baseline (thr0.1 recall1.0), not real discrimination. Both index & US model fail; needs native training (uljin F1 0.772)."}
+  ],
+  "blocked": ["Tropical/savanna (hi-res real label scarce)"],
+  "conclusion": "Generalization holds ACROSS BIOMES that share a summer/dry-season fire regime (positive dNBR): Mediterranean +0.16 -> boreal +0.065 -> eucalyptus +0.008 (value-add shrinks with domain distance, never collapses). It BREAKS ACROSS FIRE REGIMES: Korea spring fires imaged during vegetation green-up invert the dNBR burn signal (burned raw -0.55), so the feature the whole approach relies on carries no burn info -> both dNBR-echo and US model fail -> requires native/in-domain training (uljin achieved F1 0.772 natively). Onboard universal fire detection: dNBR baseline guaranteed only within summer/dry-season regimes; spring-fire regions (Korea/E.Asia) need in-domain training. Bottleneck confirmed as fire-regime/phenology domain shift + consistent multi-region real labels (Sen1Floods11 template)."
+}

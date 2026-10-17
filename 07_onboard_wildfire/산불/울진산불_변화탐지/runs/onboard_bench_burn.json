@@ -1,0 +1,20 @@
+{
+ "scene": "yeongdeok2025",
+ "HxW": [
+  298,
+  477
+ ],
+ "thr": 0.5,
+ "latency_ms": {
+  "single": 267.2,
+  "ensemble": 2209.5,
+  "speedup": 8.27
+ },
+ "downlink_KB": {
+  "geojson": 104.2,
+  "geojson_gz": 37.1,
+  "raster_deflate": 9.4
+ },
+ "area_ha": 2301.4,
+ "n_polygons": 7
+}

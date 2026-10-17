@@ -1,0 +1,1159 @@
+{
+ "_about": "firms_teacher.py 산출 — active_hint→FIRMS 실제 활성창, center→FIRMS FRP가중 중심, during_fire_dates=S2 취득 대상일.",
+ "events": {
+  "camp_2018_paradise_us": {
+   "name": "Camp Fire",
+   "country": "US-CA",
+   "center": [
+    39.81,
+    -121.44
+   ],
+   "active_hint": [
+    "2018-11-08",
+    "2018-11-25"
+   ],
+   "area_ha": 62053,
+   "biome": "temperate forest/WUI",
+   "conf": "hi",
+   "note": "폭발적 첫날(11-08), 파라다이스 전소",
+   "firms_status": "ok",
+   "active_window": [
+    "2018-11-08",
+    "2018-11-17"
+   ],
+   "peak_day": "2018-11-09",
+   "center_firms": [
+    39.7814,
+    -121.5182
+   ],
+   "during_fire_dates": [
+    "2018-11-08",
+    "2018-11-09",
+    "2018-11-10",
+    "2018-11-11",
+    "2018-11-12",
+    "2018-11-14"
+   ]
+  },
+  "dixie_2021_us": {
+   "name": "Dixie Fire",
+   "country": "US-CA",
+   "center": [
+    40.08,
+    -121.3
+   ],
+   "active_hint": [
+    "2021-07-13",
+    "2021-10-25"
+   ],
+   "area_ha": 389837,
+   "biome": "temperate conifer",
+   "conf": "hi",
+   "note": "장기 대형, 다수 활성 통과 기회",
+   "firms_status": "ok",
+   "active_window": [
+    "2021-07-19",
+    "2021-09-08"
+   ],
+   "peak_day": "2021-08-05",
+   "center_firms": [
+    40.2238,
+    -121.1231
+   ],
+   "during_fire_dates": [
+    "2021-07-23",
+    "2021-08-05",
+    "2021-08-06",
+    "2021-08-08",
+    "2021-08-17",
+    "2021-08-18"
+   ]
+  },
+  "august_complex_2020_us": {
+   "name": "August Complex",
+   "country": "US-CA",
+   "center": [
+    39.76,
+    -122.67
+   ],
+   "active_hint": [
+    "2020-08-16",
+    "2020-11-12"
+   ],
+   "area_ha": 417898,
+   "biome": "temperate forest",
+   "conf": "hi",
+   "note": "CA 최대 기록",
+   "firms_status": "ok",
+   "active_window": [
+    "2020-08-19",
+    "2020-10-04"
+   ],
+   "peak_day": "2020-09-09",
+   "center_firms": [
+    39.897,
+    -122.9599
+   ],
+   "during_fire_dates": [
+    "2020-08-19",
+    "2020-08-20",
+    "2020-09-01",
+    "2020-09-08",
+    "2020-09-09",
+    "2020-09-10"
+   ]
+  },
+  "creek_2020_us": {
+   "name": "Creek Fire",
+   "country": "US-CA",
+   "center": [
+    37.19,
+    -119.26
+   ],
+   "active_hint": [
+    "2020-09-04",
+    "2020-11-15"
+   ],
+   "area_ha": 153738,
+   "biome": "Sierra conifer",
+   "conf": "hi",
+   "note": "9-05 화염적운(pyroCb)",
+   "firms_status": "ok",
+   "active_window": [
+    "2020-09-06",
+    "2020-10-27"
+   ],
+   "peak_day": "2020-09-06",
+   "center_firms": [
+    37.3066,
+    -119.2738
+   ],
+   "during_fire_dates": [
+    "2020-09-06",
+    "2020-09-07",
+    "2020-09-08",
+    "2020-09-09",
+    "2020-09-14",
+    "2020-09-16"
+   ]
+  },
+  "bootleg_2021_us": {
+   "name": "Bootleg Fire",
+   "country": "US-OR",
+   "center": [
+    42.6,
+    -121.2
+   ],
+   "active_hint": [
+    "2021-07-06",
+    "2021-08-15"
+   ],
+   "area_ha": 166000,
+   "biome": "pine/plateau",
+   "conf": "hi",
+   "note": "7월 급확산",
+   "firms_status": "ok",
+   "active_window": [
+    "2021-07-07",
+    "2021-07-25"
+   ],
+   "peak_day": "2021-07-11",
+   "center_firms": [
+    42.6159,
+    -121.0823
+   ],
+   "during_fire_dates": [
+    "2021-07-10",
+    "2021-07-11",
+    "2021-07-13",
+    "2021-07-15",
+    "2021-07-17",
+    "2021-07-18"
+   ]
+  },
+  "mckinney_2022_us": {
+   "name": "McKinney Fire",
+   "country": "US-CA",
+   "center": [
+    41.83,
+    -122.8
+   ],
+   "active_hint": [
+    "2022-07-29",
+    "2022-08-10"
+   ],
+   "area_ha": 24000,
+   "biome": "temperate forest",
+   "conf": "med",
+   "note": "급성장 첫 이틀",
+   "firms_status": "ok",
+   "active_window": [
+    "2022-07-30",
+    "2022-08-04"
+   ],
+   "peak_day": "2022-07-31",
+   "center_firms": [
+    41.8139,
+    -122.8172
+   ],
+   "during_fire_dates": [
+    "2022-07-30",
+    "2022-07-31",
+    "2022-08-03",
+    "2022-08-04"
+   ]
+  },
+  "fortmcmurray_2016_ca": {
+   "name": "Fort McMurray (Horse River)",
+   "country": "CA-AB",
+   "center": [
+    56.73,
+    -111.38
+   ],
+   "active_hint": [
+    "2016-05-01",
+    "2016-06-30"
+   ],
+   "area_ha": 589995,
+   "biome": "boreal",
+   "conf": "hi",
+   "note": "도시 진입 5-03~05",
+   "firms_status": "ok",
+   "active_window": [
+    "2016-05-04",
+    "2016-05-25"
+   ],
+   "peak_day": "2016-05-16",
+   "center_firms": [
+    56.6552,
+    -111.0171
+   ],
+   "during_fire_dates": [
+    "2016-05-06",
+    "2016-05-15",
+    "2016-05-16",
+    "2016-05-17",
+    "2016-05-18",
+    "2016-05-24"
+   ]
+  },
+  "donniecreek_2023_ca": {
+   "name": "Donnie Creek",
+   "country": "CA-BC",
+   "center": [
+    57.6,
+    -122.9
+   ],
+   "active_hint": [
+    "2023-05-19",
+    "2023-09-15"
+   ],
+   "area_ha": 620000,
+   "biome": "boreal",
+   "conf": "med",
+   "note": "BC 최대급, 장기 활성",
+   "firms_status": "ok",
+   "active_window": [
+    "2023-05-16",
+    "2023-09-16"
+   ],
+   "peak_day": "2023-06-09",
+   "center_firms": [
+    57.4962,
+    -122.1928
+   ],
+   "during_fire_dates": [
+    "2023-05-17",
+    "2023-05-18",
+    "2023-05-19",
+    "2023-06-08",
+    "2023-06-09",
+    "2023-06-12"
+   ]
+  },
+  "palisades_2025_us": {
+   "name": "Palisades Fire",
+   "country": "US-CA",
+   "center": [
+    34.07,
+    -118.55
+   ],
+   "active_hint": [
+    "2025-01-07",
+    "2025-01-20"
+   ],
+   "area_ha": 9000,
+   "biome": "chaparral/WUI",
+   "conf": "med",
+   "note": "2025-01 LA, 강풍 야간확산",
+   "firms_status": "ok",
+   "active_window": [
+    "2025-01-08",
+    "2025-01-11"
+   ],
+   "peak_day": "2025-01-08",
+   "center_firms": [
+    34.0781,
+    -118.5562
+   ],
+   "during_fire_dates": [
+    "2025-01-08",
+    "2025-01-09",
+    "2025-01-10",
+    "2025-01-11"
+   ]
+  },
+  "eaton_2025_us": {
+   "name": "Eaton Fire",
+   "country": "US-CA",
+   "center": [
+    34.19,
+    -118.13
+   ],
+   "active_hint": [
+    "2025-01-07",
+    "2025-01-18"
+   ],
+   "area_ha": 5700,
+   "biome": "chaparral/WUI",
+   "conf": "med",
+   "note": "알타데나",
+   "firms_status": "ok",
+   "active_window": [
+    "2025-01-08",
+    "2025-01-10"
+   ],
+   "peak_day": "2025-01-08",
+   "center_firms": [
+    34.207,
+    -118.1036
+   ],
+   "during_fire_dates": [
+    "2025-01-08",
+    "2025-01-09",
+    "2025-01-10"
+   ]
+  },
+  "gospers_2019_au": {
+   "name": "Gospers Mountain",
+   "country": "AU-NSW",
+   "center": [
+    -33.0,
+    150.6
+   ],
+   "active_hint": [
+    "2019-10-26",
+    "2020-01-10"
+   ],
+   "area_ha": 512000,
+   "biome": "eucalypt forest",
+   "conf": "hi",
+   "note": "Black Summer 최대 단일",
+   "firms_status": "ok",
+   "active_window": [
+    "2019-11-07",
+    "2020-01-05"
+   ],
+   "peak_day": "2019-12-04",
+   "center_firms": [
+    -33.0383,
+    150.4774
+   ],
+   "during_fire_dates": [
+    "2019-12-03",
+    "2019-12-04",
+    "2019-12-06",
+    "2019-12-07",
+    "2019-12-19",
+    "2019-12-21"
+   ]
+  },
+  "currowan_2019_au": {
+   "name": "Currowan",
+   "country": "AU-NSW",
+   "center": [
+    -35.4,
+    150.2
+   ],
+   "active_hint": [
+    "2019-11-26",
+    "2020-02-08"
+   ],
+   "area_ha": 499000,
+   "biome": "eucalypt forest",
+   "conf": "hi",
+   "note": "남해안",
+   "firms_status": "ok",
+   "active_window": [
+    "2019-11-26",
+    "2020-02-01"
+   ],
+   "peak_day": "2019-12-30",
+   "center_firms": [
+    -35.4329,
+    150.0189
+   ],
+   "during_fire_dates": [
+    "2019-12-05",
+    "2019-12-19",
+    "2019-12-28",
+    "2019-12-30",
+    "2019-12-31",
+    "2020-01-04"
+   ]
+  },
+  "kangaroo_2019_au": {
+   "name": "Kangaroo Island",
+   "country": "AU-SA",
+   "center": [
+    -35.83,
+    137.2
+   ],
+   "active_hint": [
+    "2019-12-20",
+    "2020-02-06"
+   ],
+   "area_ha": 211000,
+   "biome": "eucalypt/scrub",
+   "conf": "hi",
+   "note": "섬 절반 소실",
+   "firms_status": "ok",
+   "active_window": [
+    "2019-12-20",
+    "2020-01-12"
+   ],
+   "peak_day": "2019-12-20",
+   "center_firms": [
+    -35.8234,
+    136.9414
+   ],
+   "during_fire_dates": [
+    "2019-12-20",
+    "2019-12-21",
+    "2019-12-31",
+    "2020-01-01",
+    "2020-01-03",
+    "2020-01-09"
+   ]
+  },
+  "eastgippsland_2019_au": {
+   "name": "East Gippsland",
+   "country": "AU-VIC",
+   "center": [
+    -37.5,
+    148.5
+   ],
+   "active_hint": [
+    "2019-11-21",
+    "2020-02-10"
+   ],
+   "area_ha": 1500000,
+   "biome": "eucalypt forest",
+   "conf": "med",
+   "note": "12-30 Mallacoota 대피",
+   "firms_status": "ok",
+   "active_window": [
+    "2019-12-20",
+    "2020-02-01"
+   ],
+   "peak_day": "2020-01-04",
+   "center_firms": [
+    -37.2808,
+    148.5809
+   ],
+   "during_fire_dates": [
+    "2019-12-30",
+    "2019-12-31",
+    "2020-01-01",
+    "2020-01-02",
+    "2020-01-04",
+    "2020-01-13"
+   ]
+  },
+  "greenwattle_2019_au": {
+   "name": "Green Wattle Creek",
+   "country": "AU-NSW",
+   "center": [
+    -34.1,
+    150.4
+   ],
+   "active_hint": [
+    "2019-12-01",
+    "2020-01-15"
+   ],
+   "area_ha": 278000,
+   "biome": "eucalypt forest",
+   "conf": "med",
+   "note": "시드니 남서",
+   "firms_status": "ok",
+   "active_window": [
+    "2019-11-29",
+    "2020-01-05"
+   ],
+   "peak_day": "2019-12-05",
+   "center_firms": [
+    -34.0784,
+    150.2129
+   ],
+   "during_fire_dates": [
+    "2019-12-04",
+    "2019-12-05",
+    "2019-12-06",
+    "2019-12-21",
+    "2019-12-28",
+    "2020-01-04"
+   ]
+  },
+  "kalimantan_2019_id": {
+   "name": "Central Kalimantan peat",
+   "country": "ID",
+   "center": [
+    -2.2,
+    113.9
+   ],
+   "active_hint": [
+    "2019-08-25",
+    "2019-10-05"
+   ],
+   "area_ha": 300000,
+   "biome": "peatland",
+   "conf": "med",
+   "note": "이탄지, 짙은 연무. 화선 분산 주의",
+   "firms_status": "ok",
+   "active_window": [
+    "2019-09-03",
+    "2019-09-28"
+   ],
+   "peak_day": "2019-09-14",
+   "center_firms": [
+    -2.2819,
+    114.0222
+   ],
+   "during_fire_dates": [
+    "2019-09-11",
+    "2019-09-12",
+    "2019-09-13",
+    "2019-09-14",
+    "2019-09-18",
+    "2019-09-19"
+   ]
+  },
+  "sumatra_2019_id": {
+   "name": "Riau/Jambi Sumatra peat",
+   "country": "ID",
+   "center": [
+    -1.0,
+    102.5
+   ],
+   "active_hint": [
+    "2019-08-20",
+    "2019-09-30"
+   ],
+   "area_ha": 250000,
+   "biome": "peatland",
+   "conf": "med",
+   "note": "이탄지 연무",
+   "firms_status": "ok",
+   "active_window": [
+    "2019-08-17",
+    "2019-09-22"
+   ],
+   "peak_day": "2019-09-11",
+   "center_firms": [
+    -0.9386,
+    102.5735
+   ],
+   "during_fire_dates": [
+    "2019-08-19",
+    "2019-08-20",
+    "2019-08-21",
+    "2019-08-23",
+    "2019-09-08",
+    "2019-09-11"
+   ]
+  },
+  "pedrogao_2017_pt": {
+   "name": "Pedrógão Grande",
+   "country": "PT",
+   "center": [
+    39.95,
+    -8.15
+   ],
+   "active_hint": [
+    "2017-06-17",
+    "2017-06-24"
+   ],
+   "area_ha": 45000,
+   "biome": "Mediterranean pine/euc",
+   "conf": "hi",
+   "note": "급성장, 다수 사망",
+   "firms_status": "ok",
+   "active_window": [
+    "2017-06-18",
+    "2017-06-21"
+   ],
+   "peak_day": "2017-06-18",
+   "center_firms": [
+    40.0146,
+    -8.1647
+   ],
+   "during_fire_dates": [
+    "2017-06-18",
+    "2017-06-19",
+    "2017-06-20",
+    "2017-06-21"
+   ]
+  },
+  "centralpt_2017_oct": {
+   "name": "Central Portugal Oct 2017",
+   "country": "PT",
+   "center": [
+    40.1,
+    -8.3
+   ],
+   "active_hint": [
+    "2017-10-14",
+    "2017-10-18"
+   ],
+   "area_ha": 220000,
+   "biome": "pine/eucalypt",
+   "conf": "med",
+   "note": "10-15 다발 대형",
+   "firms_status": "ok",
+   "active_window": [
+    "2017-10-15",
+    "2017-10-16"
+   ],
+   "peak_day": "2017-10-16",
+   "center_firms": [
+    40.1453,
+    -8.0539
+   ],
+   "during_fire_dates": [
+    "2017-10-15",
+    "2017-10-16"
+   ]
+  },
+  "mati_2018_gr": {
+   "name": "Attica/Mati",
+   "country": "GR",
+   "center": [
+    38.03,
+    23.98
+   ],
+   "active_hint": [
+    "2018-07-23",
+    "2018-07-25"
+   ],
+   "area_ha": 13000,
+   "biome": "pine/WUI",
+   "conf": "hi",
+   "note": "초고속 확산",
+   "firms_status": "ok",
+   "active_window": [
+    "2018-07-23",
+    "2018-07-24"
+   ],
+   "peak_day": "2018-07-23",
+   "center_firms": [
+    38.0499,
+    23.9676
+   ],
+   "during_fire_dates": [
+    "2018-07-23",
+    "2018-07-24"
+   ]
+  },
+  "evia_2021_gr": {
+   "name": "Evia (Euboea)",
+   "country": "GR",
+   "center": [
+    38.9,
+    23.6
+   ],
+   "active_hint": [
+    "2021-08-03",
+    "2021-08-11"
+   ],
+   "area_ha": 51000,
+   "biome": "pine forest",
+   "conf": "hi",
+   "note": "북에비아 전소",
+   "firms_status": "ok",
+   "active_window": [
+    "2021-08-04",
+    "2021-08-08"
+   ],
+   "peak_day": "2021-08-06",
+   "center_firms": [
+    38.8614,
+    23.3503
+   ],
+   "during_fire_dates": [
+    "2021-08-04",
+    "2021-08-05",
+    "2021-08-06",
+    "2021-08-07",
+    "2021-08-08"
+   ]
+  },
+  "olympia_2021_gr": {
+   "name": "Ancient Olympia / W.Peloponnese",
+   "country": "GR",
+   "center": [
+    37.65,
+    21.63
+   ],
+   "active_hint": [
+    "2021-08-04",
+    "2021-08-10"
+   ],
+   "area_ha": 38000,
+   "biome": "pine/olive",
+   "conf": "med",
+   "firms_status": "ok",
+   "active_window": [
+    "2021-08-04",
+    "2021-08-11"
+   ],
+   "peak_day": "2021-08-06",
+   "center_firms": [
+    37.6746,
+    21.7309
+   ],
+   "during_fire_dates": [
+    "2021-08-05",
+    "2021-08-06",
+    "2021-08-07",
+    "2021-08-08",
+    "2021-08-10",
+    "2021-08-11"
+   ]
+  },
+  "rhodes_2023_gr": {
+   "name": "Rhodes",
+   "country": "GR",
+   "center": [
+    36.15,
+    27.9
+   ],
+   "active_hint": [
+    "2023-07-18",
+    "2023-07-27"
+   ],
+   "area_ha": 17000,
+   "biome": "pine/scrub",
+   "conf": "hi",
+   "note": "관광지 대피",
+   "firms_status": "ok",
+   "active_window": [
+    "2023-07-19",
+    "2023-07-26"
+   ],
+   "peak_day": "2023-07-23",
+   "center_firms": [
+    36.1264,
+    27.9415
+   ],
+   "during_fire_dates": [
+    "2023-07-19",
+    "2023-07-22",
+    "2023-07-23",
+    "2023-07-24",
+    "2023-07-25",
+    "2023-07-26"
+   ]
+  },
+  "evros_2023_gr": {
+   "name": "Evros/Dadia",
+   "country": "GR",
+   "center": [
+    41.1,
+    26.2
+   ],
+   "active_hint": [
+    "2023-08-19",
+    "2023-08-30"
+   ],
+   "area_ha": 96000,
+   "biome": "pine forest",
+   "conf": "hi",
+   "note": "EU 기록상 최대 단일",
+   "firms_status": "ok",
+   "active_window": [
+    "2023-08-20",
+    "2023-08-31"
+   ],
+   "peak_day": "2023-08-22",
+   "center_firms": [
+    41.0499,
+    26.0786
+   ],
+   "during_fire_dates": [
+    "2023-08-20",
+    "2023-08-21",
+    "2023-08-22",
+    "2023-08-23",
+    "2023-08-24",
+    "2023-08-31"
+   ]
+  },
+  "sardinia_2021_it": {
+   "name": "Montiferru Sardinia",
+   "country": "IT",
+   "center": [
+    40.1,
+    8.6
+   ],
+   "active_hint": [
+    "2021-07-24",
+    "2021-07-26"
+   ],
+   "area_ha": 20000,
+   "biome": "Mediterranean scrub",
+   "conf": "med",
+   "firms_status": "ok",
+   "active_window": [
+    "2021-07-25",
+    "2021-07-25"
+   ],
+   "peak_day": "2021-07-25",
+   "center_firms": [
+    40.1811,
+    8.5534
+   ],
+   "during_fire_dates": [
+    "2021-07-25"
+   ]
+  },
+  "manavgat_2021_tr": {
+   "name": "Manavgat/Antalya",
+   "country": "TR",
+   "center": [
+    36.9,
+    31.4
+   ],
+   "active_hint": [
+    "2021-07-28",
+    "2021-08-04"
+   ],
+   "area_ha": 60000,
+   "biome": "pine forest",
+   "conf": "med",
+   "note": "2021 지중해 폭염",
+   "firms_status": "ok",
+   "active_window": [
+    "2021-07-28",
+    "2021-08-04"
+   ],
+   "peak_day": "2021-07-29",
+   "center_firms": [
+    36.9094,
+    31.467
+   ],
+   "during_fire_dates": [
+    "2021-07-28",
+    "2021-07-29",
+    "2021-07-30",
+    "2021-07-31",
+    "2021-08-01",
+    "2021-08-02"
+   ]
+  },
+  "culebra_2022_es": {
+   "name": "Sierra de la Culebra",
+   "country": "ES",
+   "center": [
+    41.9,
+    -6.5
+   ],
+   "active_hint": [
+    "2022-06-15",
+    "2022-06-19"
+   ],
+   "area_ha": 30000,
+   "biome": "oak/pine",
+   "conf": "med",
+   "note": "Zamora",
+   "firms_status": "ok",
+   "active_window": [
+    "2022-06-17",
+    "2022-06-18"
+   ],
+   "peak_day": "2022-06-17",
+   "center_firms": [
+    41.895,
+    -6.3056
+   ],
+   "during_fire_dates": [
+    "2022-06-17",
+    "2022-06-18"
+   ]
+  },
+  "gironde_2022_fr": {
+   "name": "Gironde (Landiras/La Teste)",
+   "country": "FR",
+   "center": [
+    44.55,
+    -0.9
+   ],
+   "active_hint": [
+    "2022-07-12",
+    "2022-07-25"
+   ],
+   "area_ha": 27000,
+   "biome": "maritime pine",
+   "conf": "med",
+   "firms_status": "ok",
+   "active_window": [
+    "2022-07-13",
+    "2022-07-19"
+   ],
+   "peak_day": "2022-07-18",
+   "center_firms": [
+    44.5281,
+    -0.8898
+   ],
+   "during_fire_dates": [
+    "2022-07-13",
+    "2022-07-14",
+    "2022-07-15",
+    "2022-07-17",
+    "2022-07-18",
+    "2022-07-19"
+   ]
+  },
+  "pantanal_2020_br": {
+   "name": "Pantanal 2020",
+   "country": "BR",
+   "center": [
+    -17.7,
+    -56.8
+   ],
+   "active_hint": [
+    "2020-08-15",
+    "2020-10-15"
+   ],
+   "area_ha": 3900000,
+   "biome": "tropical wetland",
+   "conf": "med",
+   "note": "습지 대화재, 분산 화선",
+   "firms_status": "ok",
+   "active_window": [
+    "2020-08-13",
+    "2020-10-15"
+   ],
+   "peak_day": "2020-09-12",
+   "center_firms": [
+    -17.1971,
+    -56.8232
+   ],
+   "during_fire_dates": [
+    "2020-09-05",
+    "2020-09-06",
+    "2020-09-11",
+    "2020-09-12",
+    "2020-09-13",
+    "2020-09-14"
+   ]
+  },
+  "pantanal_2024_br": {
+   "name": "Pantanal 2024",
+   "country": "BR",
+   "center": [
+    -18.0,
+    -56.6
+   ],
+   "active_hint": [
+    "2024-06-01",
+    "2024-07-31"
+   ],
+   "area_ha": 1000000,
+   "biome": "tropical wetland",
+   "conf": "med",
+   "firms_status": "ok",
+   "active_window": [
+    "2024-05-29",
+    "2024-08-03"
+   ],
+   "peak_day": "2024-08-02",
+   "center_firms": [
+    -18.0045,
+    -57.3285
+   ],
+   "during_fire_dates": [
+    "2024-06-13",
+    "2024-06-14",
+    "2024-06-15",
+    "2024-07-30",
+    "2024-08-02",
+    "2024-08-03"
+   ]
+  },
+  "chiquitania_2019_bo": {
+   "name": "Chiquitania",
+   "country": "BO",
+   "center": [
+    -16.5,
+    -61.0
+   ],
+   "active_hint": [
+    "2019-08-01",
+    "2019-09-30"
+   ],
+   "area_ha": 1900000,
+   "biome": "dry forest",
+   "conf": "med",
+   "firms_status": "ok",
+   "active_window": [
+    "2019-08-02",
+    "2019-09-30"
+   ],
+   "peak_day": "2019-09-23",
+   "center_firms": [
+    -16.3037,
+    -61.0445
+   ],
+   "during_fire_dates": [
+    "2019-08-14",
+    "2019-08-15",
+    "2019-09-16",
+    "2019-09-22",
+    "2019-09-23",
+    "2019-09-24"
+   ]
+  },
+  "chile_2023_nuble": {
+   "name": "Ñuble/Biobío Feb 2023",
+   "country": "CL",
+   "center": [
+    -37.0,
+    -72.4
+   ],
+   "active_hint": [
+    "2023-02-01",
+    "2023-02-12"
+   ],
+   "area_ha": 430000,
+   "biome": "pine/euc plantation",
+   "conf": "med",
+   "note": "폭염 급확산",
+   "firms_status": "ok",
+   "active_window": [
+    "2023-02-03",
+    "2023-02-09"
+   ],
+   "peak_day": "2023-02-04",
+   "center_firms": [
+    -37.0286,
+    -72.7766
+   ],
+   "during_fire_dates": [
+    "2023-02-03",
+    "2023-02-04",
+    "2023-02-06",
+    "2023-02-07",
+    "2023-02-08",
+    "2023-02-09"
+   ]
+  },
+  "valparaiso_2024_cl": {
+   "name": "Valparaíso/Viña del Mar",
+   "country": "CL",
+   "center": [
+    -33.05,
+    -71.5
+   ],
+   "active_hint": [
+    "2024-02-02",
+    "2024-02-05"
+   ],
+   "area_ha": 9000,
+   "biome": "scrub/WUI",
+   "conf": "med",
+   "note": "도시 인접 급성장",
+   "firms_status": "ok",
+   "active_window": [
+    "2024-02-02",
+    "2024-02-03"
+   ],
+   "peak_day": "2024-02-03",
+   "center_firms": [
+    -33.1052,
+    -71.4741
+   ],
+   "during_fire_dates": [
+    "2024-02-02",
+    "2024-02-03"
+   ]
+  },
+  "corrientes_2022_ar": {
+   "name": "Corrientes",
+   "country": "AR",
+   "center": [
+    -28.5,
+    -57.5
+   ],
+   "active_hint": [
+    "2022-02-01",
+    "2022-03-05"
+   ],
+   "area_ha": 1000000,
+   "biome": "wetland/grass",
+   "conf": "lo",
+   "note": "분산, 화선 특정 어려움",
+   "firms_status": "ok",
+   "active_window": [
+    "2022-01-29",
+    "2022-02-27"
+   ],
+   "peak_day": "2022-02-11",
+   "center_firms": [
+    -28.0897,
+    -57.3592
+   ],
+   "during_fire_dates": [
+    "2022-02-11",
+    "2022-02-15",
+    "2022-02-16",
+    "2022-02-17",
+    "2022-02-18",
+    "2022-02-19"
+   ]
+  },
+  "yakutia_2021_ru": {
+   "name": "Sakha/Yakutia 2021",
+   "country": "RU",
+   "center": [
+    62.0,
+    130.0
+   ],
+   "active_hint": [
+    "2021-07-01",
+    "2021-08-20"
+   ],
+   "area_ha": 8000000,
+   "biome": "boreal larch",
+   "conf": "lo",
+   "note": "초대형·고위도, 연기 극심",
+   "firms_status": "ok",
+   "active_window": [
+    "2021-07-01",
+    "2021-08-14"
+   ],
+   "peak_day": "2021-08-02",
+   "center_firms": [
+    62.7661,
+    128.4623
+   ],
+   "during_fire_dates": [
+    "2021-08-02",
+    "2021-08-05",
+    "2021-08-07",
+    "2021-08-08",
+    "2021-08-09",
+    "2021-08-10"
+   ]
+  }
+ }
+}

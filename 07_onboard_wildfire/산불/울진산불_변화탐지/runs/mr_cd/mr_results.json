@@ -1,0 +1,23 @@
+{
+  "train_regions": [
+    "australia2019",
+    "california2021",
+    "chile2024",
+    "greece2023",
+    "turkey2021"
+  ],
+  "val": {
+    "thr": 0.6,
+    "f1": 0.934,
+    "iou": 0.876,
+    "precision": 0.92,
+    "recall": 0.949
+  },
+  "test_uljin": {
+    "thr": 0.6,
+    "f1": 0.887,
+    "iou": 0.796,
+    "precision": 0.811,
+    "recall": 0.978
+  }
+}

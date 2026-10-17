@@ -1,0 +1,48 @@
+{
+  "model": "토지피복3(식생/물)+Lovász",
+  "spec": "landcover3",
+  "config": "rgbnir",
+  "in_ch": 8,
+  "n_classes": 3,
+  "class_names": [
+    "기타",
+    "식생",
+    "물"
+  ],
+  "decoder": "unet",
+  "encoder": "resnet34",
+  "seed": 1,
+  "loss": "CE+0.5*Lovász",
+  "water_bias": 1.0,
+  "tta": true,
+  "miou": 0.909,
+  "per_class_iou": {
+    "기타": 0.2618,
+    "식생": 0.941,
+    "물": 0.877
+  },
+  "water_inland_iou": 0.0946,
+  "ablation": {
+    "plain": {
+      "miou": 0.9078,
+      "veg": 0.9405,
+      "water": 0.8751,
+      "water_inland": 0.0923,
+      "etc": 0.2601
+    },
+    "+bias": {
+      "miou": 0.9078,
+      "veg": 0.9405,
+      "water": 0.8751,
+      "water_inland": 0.0923,
+      "etc": 0.2601
+    },
+    "+bias+TTA": {
+      "miou": 0.909,
+      "veg": 0.941,
+      "water": 0.877,
+      "water_inland": 0.0946,
+      "etc": 0.2618
+    }
+  }
+}

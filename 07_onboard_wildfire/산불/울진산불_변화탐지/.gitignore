@@ -1,0 +1,54 @@
+# Large / regenerable artifacts — not committed
+data/raw/
+data/cd/*.npz
+data/cd/train/
+data/cd/val/
+data/cd/test/
+runs/cd_unet/best.pt
+runs/cabuar_cd/best.pt
+data/cabuar/
+# large regenerable rasters (kept small key outputs only)
+data/outputs/dnbr.tif
+data/outputs/rbr.tif
+data/outputs/pred_prob.tif
+data/outputs/pseudolabel.tif
+__pycache__/
+*.pyc
+mtbs/
+mtbs_data/
+mr_data/
+runs/mr_cd/*.pt
+runs/mtbs_cd/*.pt
+cems/
+cems_data/
+cems_data_raw/
+au_data/
+mtbs_data_ak/
+active_fire/model/*.joblib
+prithvi/
+runs/ko_prithvi*/best.pt
+runs/ko_prithvi*/train.log
+
+# 라벨링 패키지: 재생성 가능한 배경은 무시, hand_gt(진짜 GT)·README 는 유지
+labelset/*/pre_swir.tif
+labelset/*/post_swir.tif
+labelset/*/polygon_gt.tif
+labelset/*/model_pred.tif
+labelset/*/valid.tif
+labelset/*/preview.png
+labelset/manifest.json
+labelset/handgt_scores.json
+presto_data/
+
+# 학습 데이터셋 (재생성 가능, 수백 MB)
+ko_refl*/
+ko_neg_*/          # 음성(소각 0) 타일 풀 — src/build_negatives.py 로 재생성
+ko_ae*/
+nifos_cache/
+ko_refl_10m_b08_t512_s50c/
+
+# 나라단위 수집기 산출물 — 타일은 재생성 가능(수 GB), 카탈로그·매니페스트만 커밋
+collect/*/
+collect/manifest_*_s[0-9]*.csv
+# 샤드 재개상태 — 병합본(manifest_<나라>_<격자>.csv)만 커밋한다 (줄끝 주석은 gitignore 에서 패턴의 일부다)
+collect/manifest_*_s[0-9]*.json

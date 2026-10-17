@@ -1,0 +1,8874 @@
+[
+ {
+  "lon": -75.0071,
+  "lat": 39.6045,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -75.1119,
+  "lat": 39.3245,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -75.3746,
+  "lat": 38.3596,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -75.8103,
+  "lat": 38.3735,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.2009,
+  "lat": 35.6689,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.6173,
+  "lat": 40.5365,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.7227,
+  "lat": 39.0717,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.8502,
+  "lat": 39.4161,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.8838,
+  "lat": 37.9344,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.1662,
+  "lat": 38.1182,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.1832,
+  "lat": 40.273,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.2131,
+  "lat": 38.0403,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.2443,
+  "lat": 34.648,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.2686,
+  "lat": 38.0841,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.8573,
+  "lat": 37.0444,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.9513,
+  "lat": 37.0196,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.9848,
+  "lat": 34.0082,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.1894,
+  "lat": 38.2188,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.2906,
+  "lat": 36.3821,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.3241,
+  "lat": 34.1405,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.5665,
+  "lat": 38.6772,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.7059,
+  "lat": 35.2197,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.8436,
+  "lat": 37.2142,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.8776,
+  "lat": 33.8071,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.9473,
+  "lat": 35.1466,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.0922,
+  "lat": 35.0657,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1131,
+  "lat": 33.545,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.179,
+  "lat": 35.0822,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1955,
+  "lat": 33.3814,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1842,
+  "lat": 35.0422,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2134,
+  "lat": 34.0372,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2673,
+  "lat": 35.0657,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2847,
+  "lat": 35.0324,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.365,
+  "lat": 35.1045,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.4548,
+  "lat": 33.6823,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.465,
+  "lat": 34.9534,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5241,
+  "lat": 33.1469,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.56,
+  "lat": 34.9841,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5802,
+  "lat": 35.0676,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7009,
+  "lat": 33.0772,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7749,
+  "lat": 33.4712,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7908,
+  "lat": 35.0464,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8063,
+  "lat": 35.0927,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8557,
+  "lat": 32.9367,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9007,
+  "lat": 33.4853,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9255,
+  "lat": 33.833,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.962,
+  "lat": 35.5498,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9537,
+  "lat": 33.1532,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.995,
+  "lat": 32.9468,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.1207,
+  "lat": 34.0372,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.234,
+  "lat": 34.5606,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2914,
+  "lat": 35.5463,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.3802,
+  "lat": 32.6866,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.4037,
+  "lat": 33.1445,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.4207,
+  "lat": 34.0886,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.4287,
+  "lat": 40.1602,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.4621,
+  "lat": 33.8036,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.4711,
+  "lat": 33.8389,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.4643,
+  "lat": 33.8788,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.5654,
+  "lat": 32.7854,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.7585,
+  "lat": 33.4398,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.7555,
+  "lat": 34.4738,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.7855,
+  "lat": 32.5475,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.783,
+  "lat": 34.0187,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.9198,
+  "lat": 32.3528,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.028,
+  "lat": 32.4382,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.0478,
+  "lat": 36.3764,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.0864,
+  "lat": 32.3451,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.1074,
+  "lat": 32.7042,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.2526,
+  "lat": 32.8199,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3011,
+  "lat": 32.6053,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3694,
+  "lat": 33.1284,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3728,
+  "lat": 32.7223,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3904,
+  "lat": 33.7243,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4078,
+  "lat": 33.4847,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4305,
+  "lat": 36.2883,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4374,
+  "lat": 34.4663,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4868,
+  "lat": 33.5412,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.5706,
+  "lat": 33.3703,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.576,
+  "lat": 33.0869,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6631,
+  "lat": 32.2612,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.7197,
+  "lat": 35.5284,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.7332,
+  "lat": 34.6301,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.85,
+  "lat": 32.784,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9017,
+  "lat": 33.3129,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9174,
+  "lat": 35.5957,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.0773,
+  "lat": 36.4815,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.086,
+  "lat": 37.7419,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.0925,
+  "lat": 33.2691,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.1075,
+  "lat": 32.9757,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.1599,
+  "lat": 33.8171,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.1856,
+  "lat": 33.3836,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.1817,
+  "lat": 33.769,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.241,
+  "lat": 33.3151,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.3059,
+  "lat": 33.6251,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.4294,
+  "lat": 33.0715,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.4724,
+  "lat": 33.0638,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.6136,
+  "lat": 33.2736,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.663,
+  "lat": 32.5954,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.7023,
+  "lat": 33.3679,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.7573,
+  "lat": 33.067,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.8247,
+  "lat": 33.2194,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.8786,
+  "lat": 34.9714,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.1808,
+  "lat": 33.8209,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.2514,
+  "lat": 34.7289,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.3089,
+  "lat": 34.7117,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.3143,
+  "lat": 32.245,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.3352,
+  "lat": 35.3472,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.3791,
+  "lat": 34.7071,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.385,
+  "lat": 33.4067,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.4535,
+  "lat": 33.1583,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.5064,
+  "lat": 33.208,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.5905,
+  "lat": 33.1512,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.6556,
+  "lat": 33.1035,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.6826,
+  "lat": 33.0715,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.723,
+  "lat": 33.1658,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.7185,
+  "lat": 36.6513,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.9492,
+  "lat": 33.263,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.9963,
+  "lat": 32.7426,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.0419,
+  "lat": 32.3798,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.0453,
+  "lat": 35.443,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.0885,
+  "lat": 35.0602,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.0903,
+  "lat": 35.3157,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.1789,
+  "lat": 32.2551,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.2101,
+  "lat": 34.7881,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.2305,
+  "lat": 33.0041,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.262,
+  "lat": 32.9648,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.2921,
+  "lat": 32.6005,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.4665,
+  "lat": 32.864,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.46,
+  "lat": 34.3708,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.5509,
+  "lat": 32.6852,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.5815,
+  "lat": 32.5121,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.6767,
+  "lat": 32.4948,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.6823,
+  "lat": 32.3041,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.7246,
+  "lat": 32.2675,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.8154,
+  "lat": 32.4959,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.8773,
+  "lat": 32.2881,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.8683,
+  "lat": 32.3528,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.9036,
+  "lat": 32.8232,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.0031,
+  "lat": 32.2428,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.0677,
+  "lat": 32.3248,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.0852,
+  "lat": 32.281,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.0839,
+  "lat": 34.5986,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.0929,
+  "lat": 32.5594,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.206,
+  "lat": 32.6757,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.3085,
+  "lat": 32.2001,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.322,
+  "lat": 32.3618,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.3175,
+  "lat": 33.2859,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.3669,
+  "lat": 35.6092,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.4343,
+  "lat": 32.2899,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.5286,
+  "lat": 32.263,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.5421,
+  "lat": 33.7048,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.5511,
+  "lat": 33.8126,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.56,
+  "lat": 32.1956,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.5922,
+  "lat": 33.679,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.6094,
+  "lat": 32.4651,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.6184,
+  "lat": 33.7138,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.6993,
+  "lat": 33.1675,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.6939,
+  "lat": 33.1092,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.8026,
+  "lat": 33.0894,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.8116,
+  "lat": 33.3808,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.8972,
+  "lat": 33.7077,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.0424,
+  "lat": 39.2779,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.0346,
+  "lat": 39.3088,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.0376,
+  "lat": 32.9322,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.09,
+  "lat": 33.2871,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.1018,
+  "lat": 33.2096,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.1221,
+  "lat": 35.3416,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.3816,
+  "lat": 33.773,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.4624,
+  "lat": 38.1388,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.4718,
+  "lat": 38.1739,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.4703,
+  "lat": 37.1768,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.5074,
+  "lat": 32.5774,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.5162,
+  "lat": 33.2871,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.5841,
+  "lat": 38.0616,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.6066,
+  "lat": 33.0176,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -87.0647,
+  "lat": 33.3949,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -87.186,
+  "lat": 34.3118,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -87.2153,
+  "lat": 34.2327,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -87.3195,
+  "lat": 32.9666,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -87.3477,
+  "lat": 34.2573,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -87.5011,
+  "lat": 41.0118,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -87.5763,
+  "lat": 32.3209,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -87.7275,
+  "lat": 36.6044,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -88.0618,
+  "lat": 34.6884,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -88.2191,
+  "lat": 32.7312,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -88.2774,
+  "lat": 32.2855,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -88.3134,
+  "lat": 32.9143,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -88.5316,
+  "lat": 37.4014,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -88.776,
+  "lat": 33.2466,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -88.785,
+  "lat": 33.2152,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -88.8228,
+  "lat": 33.1979,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.2806,
+  "lat": 34.8012,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.3274,
+  "lat": 34.3747,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.3509,
+  "lat": 34.4369,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.3824,
+  "lat": 32.1866,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.4215,
+  "lat": 37.5233,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.6366,
+  "lat": 33.7111,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.7177,
+  "lat": 33.7258,
+  "year": 2019,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.836,
+  "lat": 40.0296,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.9849,
+  "lat": 32.8995,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.6892,
+  "lat": 40.3972,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.9766,
+  "lat": 34.9624,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.9931,
+  "lat": 34.7232,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.062,
+  "lat": 34.8052,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.2057,
+  "lat": 38.0616,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.2057,
+  "lat": 38.0931,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.2551,
+  "lat": 38.0796,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.3944,
+  "lat": 35.3667,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.4435,
+  "lat": 34.6405,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.522,
+  "lat": 38.5406,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.6756,
+  "lat": 34.5432,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.9097,
+  "lat": 37.051,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.0512,
+  "lat": 34.1438,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.0541,
+  "lat": 34.0646,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.4184,
+  "lat": 35.1387,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.6107,
+  "lat": 34.834,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.634,
+  "lat": 38.9251,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.652,
+  "lat": 34.2842,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.8062,
+  "lat": 40.8958,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.899,
+  "lat": 40.8015,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1542,
+  "lat": 35.0675,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1859,
+  "lat": 33.477,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2314,
+  "lat": 35.0702,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2329,
+  "lat": 35.1705,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2561,
+  "lat": 33.2231,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2651,
+  "lat": 33.4342,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.3088,
+  "lat": 35.1087,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.3518,
+  "lat": 33.2251,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.3606,
+  "lat": 33.3748,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.4326,
+  "lat": 33.1712,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.4874,
+  "lat": 33.1299,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5907,
+  "lat": 35.3128,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.6272,
+  "lat": 35.105,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7622,
+  "lat": 33.1987,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7704,
+  "lat": 33.4398,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7973,
+  "lat": 33.4173,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8561,
+  "lat": 32.9424,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8728,
+  "lat": 33.1721,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9501,
+  "lat": 33.1389,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9841,
+  "lat": 33.0047,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9914,
+  "lat": 33.0436,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.0426,
+  "lat": 33.4452,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.1162,
+  "lat": 32.6538,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2278,
+  "lat": 34.5264,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2151,
+  "lat": 34.9541,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2568,
+  "lat": 34.6191,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.3947,
+  "lat": 32.6852,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.4601,
+  "lat": 33.1066,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.7505,
+  "lat": 32.4852,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.9261,
+  "lat": 32.6547,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.9441,
+  "lat": 32.3673,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.9825,
+  "lat": 32.4439,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.1068,
+  "lat": 32.5008,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3424,
+  "lat": 32.5999,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3946,
+  "lat": 33.0607,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3907,
+  "lat": 33.1276,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4565,
+  "lat": 32.5499,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.5418,
+  "lat": 33.5925,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.585,
+  "lat": 33.3544,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6284,
+  "lat": 32.236,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6619,
+  "lat": 33.369,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.7467,
+  "lat": 33.9967,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.832,
+  "lat": 33.8889,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.8994,
+  "lat": 35.5374,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9892,
+  "lat": 34.7558,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.1644,
+  "lat": 33.3776,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.1509,
+  "lat": 33.615,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.3104,
+  "lat": 32.3618,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.5986,
+  "lat": 32.7451,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.8323,
+  "lat": 33.5027,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.5532,
+  "lat": 32.3528,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.6701,
+  "lat": 33.0252,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.761,
+  "lat": 33.1262,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.8742,
+  "lat": 32.3768,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.1362,
+  "lat": 32.4831,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.3174,
+  "lat": 32.4197,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.4797,
+  "lat": 32.4067,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.5665,
+  "lat": 33.1523,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.5809,
+  "lat": 36.7815,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.7156,
+  "lat": 32.3843,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.7811,
+  "lat": 32.2142,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.8504,
+  "lat": 36.0539,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.8526,
+  "lat": 33.4117,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.9043,
+  "lat": 34.6345,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.0345,
+  "lat": 32.3259,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.0611,
+  "lat": 32.784,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.1686,
+  "lat": 32.5158,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.1738,
+  "lat": 32.6538,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.2097,
+  "lat": 32.1911,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.4079,
+  "lat": 38.8561,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.596,
+  "lat": 35.3891,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.8026,
+  "lat": 37.7966,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.9863,
+  "lat": 37.8783,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.7623,
+  "lat": 40.5125,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -86.9659,
+  "lat": 32.7795,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -87.2309,
+  "lat": 34.2034,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -87.4763,
+  "lat": 32.9088,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -87.4633,
+  "lat": 40.1951,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -87.7385,
+  "lat": 40.2048,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -87.9765,
+  "lat": 34.6435,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -88.0124,
+  "lat": 32.519,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -88.0676,
+  "lat": 36.8673,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -88.9197,
+  "lat": 33.2395,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -88.9671,
+  "lat": 32.4059,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -88.9969,
+  "lat": 33.2147,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.3105,
+  "lat": 34.8412,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.5306,
+  "lat": 34.7693,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.6474,
+  "lat": 38.4434,
+  "year": 2020,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -75.103,
+  "lat": 41.3456,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -75.7928,
+  "lat": 35.9076,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -75.825,
+  "lat": 35.7458,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.1771,
+  "lat": 39.4226,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.6032,
+  "lat": 40.5461,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.6806,
+  "lat": 36.3226,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.6767,
+  "lat": 40.4067,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.779,
+  "lat": 40.4197,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.8104,
+  "lat": 39.0048,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.8958,
+  "lat": 36.4923,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.8711,
+  "lat": 38.0145,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.0048,
+  "lat": 36.4222,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.2744,
+  "lat": 34.6211,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.318,
+  "lat": 34.5597,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.3905,
+  "lat": 35.366,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.4707,
+  "lat": 34.5762,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.5174,
+  "lat": 41.7623,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.5278,
+  "lat": 38.5563,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.574,
+  "lat": 40.7655,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.7011,
+  "lat": 40.0116,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.7614,
+  "lat": 41.5298,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.8624,
+  "lat": 36.9929,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.8839,
+  "lat": 37.0286,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.9293,
+  "lat": 41.2813,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.9405,
+  "lat": 40.7708,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.9393,
+  "lat": 34.8951,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.0322,
+  "lat": 36.1976,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.0748,
+  "lat": 34.5616,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.1089,
+  "lat": 41.5148,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.2208,
+  "lat": 34.4908,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.3814,
+  "lat": 34.7064,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.4014,
+  "lat": 34.1665,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.5373,
+  "lat": 34.6532,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.5442,
+  "lat": 39.5618,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.6116,
+  "lat": 34.7962,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.6797,
+  "lat": 38.5086,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.7215,
+  "lat": 41.3223,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.7441,
+  "lat": 34.8063,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.7544,
+  "lat": 36.627,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.7798,
+  "lat": 41.304,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.8272,
+  "lat": 33.8036,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.8721,
+  "lat": 33.7901,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.9368,
+  "lat": 41.3441,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.9894,
+  "lat": 37.9472,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.0877,
+  "lat": 37.9718,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.0796,
+  "lat": 35.0837,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1524,
+  "lat": 33.5709,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1231,
+  "lat": 35.1117,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1987,
+  "lat": 35.1089,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2134,
+  "lat": 36.3234,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2154,
+  "lat": 34.0455,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2491,
+  "lat": 33.2212,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2544,
+  "lat": 35.0966,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2808,
+  "lat": 35.0332,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2532,
+  "lat": 35.168,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2555,
+  "lat": 38.4584,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.292,
+  "lat": 33.2253,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.3078,
+  "lat": 34.0372,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.3328,
+  "lat": 33.4841,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.4021,
+  "lat": 33.1299,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.445,
+  "lat": 34.9931,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.4582,
+  "lat": 33.9777,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.4695,
+  "lat": 41.1309,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5131,
+  "lat": 33.5874,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5105,
+  "lat": 34.9926,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5634,
+  "lat": 34.9057,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5642,
+  "lat": 35.0576,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5537,
+  "lat": 34.9703,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.584,
+  "lat": 33.2321,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5907,
+  "lat": 35.3128,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.6001,
+  "lat": 33.1964,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.6211,
+  "lat": 33.7171,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.6109,
+  "lat": 35.0298,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.6581,
+  "lat": 33.0805,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.677,
+  "lat": 33.0257,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.6806,
+  "lat": 35.0478,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7135,
+  "lat": 33.5291,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7514,
+  "lat": 32.9913,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7794,
+  "lat": 34.4279,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7704,
+  "lat": 36.2291,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7832,
+  "lat": 38.0847,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7768,
+  "lat": 37.947,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7929,
+  "lat": 33.5027,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7884,
+  "lat": 34.377,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7929,
+  "lat": 35.0298,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7909,
+  "lat": 33.4318,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8048,
+  "lat": 33.4737,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8429,
+  "lat": 33.1988,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8433,
+  "lat": 34.9842,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8479,
+  "lat": 35.3622,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8851,
+  "lat": 33.1066,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9007,
+  "lat": 35.2903,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8962,
+  "lat": 34.6031,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9007,
+  "lat": 35.3712,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9186,
+  "lat": 34.8367,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9317,
+  "lat": 35.336,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9298,
+  "lat": 34.8063,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9501,
+  "lat": 35.4071,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9725,
+  "lat": 32.9906,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9828,
+  "lat": 35.3198,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.0326,
+  "lat": 37.5933,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.0918,
+  "lat": 35.3525,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.1291,
+  "lat": 33.4526,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.1465,
+  "lat": 34.6345,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2191,
+  "lat": 33.3639,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2166,
+  "lat": 34.5606,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.224,
+  "lat": 34.7412,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2306,
+  "lat": 34.8599,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2227,
+  "lat": 34.6416,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2881,
+  "lat": 32.8199,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2858,
+  "lat": 33.8946,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2869,
+  "lat": 34.8546,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.3031,
+  "lat": 33.2242,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.4037,
+  "lat": 34.0686,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.455,
+  "lat": 32.6903,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.4746,
+  "lat": 34.7174,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.5858,
+  "lat": 32.7024,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.5951,
+  "lat": 34.0341,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.5897,
+  "lat": 34.4746,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.5988,
+  "lat": 32.7609,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.6148,
+  "lat": 32.6313,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.7181,
+  "lat": 34.0551,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.8833,
+  "lat": 32.7564,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.9402,
+  "lat": 32.3806,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.031,
+  "lat": 36.3812,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.0391,
+  "lat": 32.4173,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.0595,
+  "lat": 32.3259,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.2122,
+  "lat": 32.8738,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.2187,
+  "lat": 32.5153,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.274,
+  "lat": 32.4157,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.2785,
+  "lat": 32.641,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3726,
+  "lat": 32.8161,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4008,
+  "lat": 33.5017,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4206,
+  "lat": 34.4423,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4205,
+  "lat": 34.6559,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4278,
+  "lat": 33.7194,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4323,
+  "lat": 36.9971,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4907,
+  "lat": 33.4039,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.5086,
+  "lat": 34.4953,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.5622,
+  "lat": 33.3433,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.5372,
+  "lat": 33.1405,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.629,
+  "lat": 33.0364,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6344,
+  "lat": 36.3234,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.646,
+  "lat": 32.4452,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6434,
+  "lat": 34.5986,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.7377,
+  "lat": 33.2458,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.7422,
+  "lat": 34.5447,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.7422,
+  "lat": 32.8955,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.8045,
+  "lat": 32.5618,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.8279,
+  "lat": 32.8191,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.8769,
+  "lat": 34.145,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9443,
+  "lat": 33.7991,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9719,
+  "lat": 32.485,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.0083,
+  "lat": 32.5695,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.0589,
+  "lat": 32.9929,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.1145,
+  "lat": 33.8121,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2343,
+  "lat": 33.9858,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2363,
+  "lat": 33.1703,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.224,
+  "lat": 33.3442,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2393,
+  "lat": 34.0377,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2408,
+  "lat": 33.2287,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2566,
+  "lat": 33.3062,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2857,
+  "lat": 33.853,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.4114,
+  "lat": 34.0596,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.4249,
+  "lat": 32.5594,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.4236,
+  "lat": 33.0869,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.4833,
+  "lat": 33.579,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.5093,
+  "lat": 33.0176,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.553,
+  "lat": 33.7376,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.5776,
+  "lat": 32.8068,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.6176,
+  "lat": 33.3418,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.6585,
+  "lat": 32.8649,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.6925,
+  "lat": 38.7212,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.7253,
+  "lat": 33.5788,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.8142,
+  "lat": 32.6912,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.8516,
+  "lat": 32.7616,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.8588,
+  "lat": 35.0015,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.8741,
+  "lat": 33.5566,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.9809,
+  "lat": 38.7828,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.0322,
+  "lat": 33.6114,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.0418,
+  "lat": 33.713,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.0852,
+  "lat": 37.0016,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.2002,
+  "lat": 34.772,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.1744,
+  "lat": 37.4129,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.2161,
+  "lat": 33.6194,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.3652,
+  "lat": 34.7262,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.3771,
+  "lat": 32.9637,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.3801,
+  "lat": 33.0615,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.4194,
+  "lat": 32.5954,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.4131,
+  "lat": 33.7183,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.422,
+  "lat": 34.7154,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.4301,
+  "lat": 32.8298,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.4204,
+  "lat": 34.5233,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.4976,
+  "lat": 32.5631,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.5074,
+  "lat": 32.3618,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.5328,
+  "lat": 33.1074,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.5458,
+  "lat": 32.3289,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.5478,
+  "lat": 35.1331,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.5635,
+  "lat": 34.4268,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.6116,
+  "lat": 35.0828,
+  "year": 2021,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.8573,
+  "lat": 33.5019,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.8809,
+  "lat": 33.8271,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.9822,
+  "lat": 32.1005,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -75.454,
+  "lat": 38.2817,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -75.9241,
+  "lat": 36.2755,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.8838,
+  "lat": 37.9344,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.892,
+  "lat": 35.9578,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.0485,
+  "lat": 36.9657,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.087,
+  "lat": 34.7776,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.2327,
+  "lat": 38.0571,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.2935,
+  "lat": 36.8344,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.3032,
+  "lat": 41.4528,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.7537,
+  "lat": 34.4504,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.7755,
+  "lat": 36.29,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.854,
+  "lat": 37.0428,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.9154,
+  "lat": 36.3683,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.952,
+  "lat": 37.0061,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.9468,
+  "lat": 36.3473,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.9774,
+  "lat": 37.8162,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.9783,
+  "lat": 34.0083,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.9952,
+  "lat": 34.1065,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.0052,
+  "lat": 34.1495,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.0151,
+  "lat": 37.7598,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.0277,
+  "lat": 34.0884,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.2082,
+  "lat": 33.9698,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.2358,
+  "lat": 40.7611,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.3226,
+  "lat": 39.7774,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.4154,
+  "lat": 34.916,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.4948,
+  "lat": 38.7937,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.4903,
+  "lat": 35.1646,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.6056,
+  "lat": 34.4714,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.7765,
+  "lat": 37.0112,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.9298,
+  "lat": 35.1639,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.9439,
+  "lat": 39.4989,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.0334,
+  "lat": 34.1315,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.0949,
+  "lat": 35.0666,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1268,
+  "lat": 35.1132,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1447,
+  "lat": 35.0402,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1726,
+  "lat": 38.3587,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2033,
+  "lat": 38.33,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2277,
+  "lat": 34.0343,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2833,
+  "lat": 36.3675,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2859,
+  "lat": 35.085,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.3135,
+  "lat": 34.0776,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.3437,
+  "lat": 35.6811,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.3482,
+  "lat": 34.2333,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.3662,
+  "lat": 33.5161,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.3718,
+  "lat": 38.1092,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.4458,
+  "lat": 33.9461,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.4818,
+  "lat": 34.9778,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.474,
+  "lat": 33.9878,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5081,
+  "lat": 33.116,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5009,
+  "lat": 34.94,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5482,
+  "lat": 37.9231,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5548,
+  "lat": 34.8936,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5657,
+  "lat": 34.5126,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5862,
+  "lat": 33.2224,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.6196,
+  "lat": 35.3121,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.6356,
+  "lat": 37.9718,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.6416,
+  "lat": 35.0433,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.6716,
+  "lat": 33.5161,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7445,
+  "lat": 34.3146,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7434,
+  "lat": 37.8864,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7577,
+  "lat": 37.4094,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7634,
+  "lat": 33.5012,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7773,
+  "lat": 33.2234,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8134,
+  "lat": 33.4706,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8108,
+  "lat": 35.2768,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8153,
+  "lat": 35.3218,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8333,
+  "lat": 33.3769,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8183,
+  "lat": 37.93,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8926,
+  "lat": 35.2894,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9205,
+  "lat": 38.0129,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9423,
+  "lat": 33.4833,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9345,
+  "lat": 35.424,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9321,
+  "lat": 33.871,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9411,
+  "lat": 35.4969,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9546,
+  "lat": 34.913,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.952,
+  "lat": 34.6127,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.0184,
+  "lat": 33.9518,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.0349,
+  "lat": 35.4101,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.1879,
+  "lat": 34.6069,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.1987,
+  "lat": 34.5447,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2803,
+  "lat": 34.5315,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.3653,
+  "lat": 32.7309,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.3691,
+  "lat": 33.6682,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.4262,
+  "lat": 33.6329,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.4643,
+  "lat": 34.6312,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.4648,
+  "lat": 32.6888,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.489,
+  "lat": 33.7542,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.5749,
+  "lat": 32.6873,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.6148,
+  "lat": 33.7048,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.6775,
+  "lat": 32.8114,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.6592,
+  "lat": 33.6364,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.6606,
+  "lat": 33.7506,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.7451,
+  "lat": 33.8036,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.7789,
+  "lat": 32.7079,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.7832,
+  "lat": 33.731,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.79,
+  "lat": 33.5521,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.8268,
+  "lat": 32.6843,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.8214,
+  "lat": 33.0131,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.8753,
+  "lat": 32.3498,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.8897,
+  "lat": 33.0257,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.0916,
+  "lat": 32.3566,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.0774,
+  "lat": 32.4722,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.1987,
+  "lat": 32.6987,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.2326,
+  "lat": 32.6076,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.2381,
+  "lat": 32.8309,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.2652,
+  "lat": 32.5873,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.311,
+  "lat": 32.6493,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3688,
+  "lat": 32.8247,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3469,
+  "lat": 32.7673,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4547,
+  "lat": 34.7064,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4862,
+  "lat": 34.4607,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4851,
+  "lat": 32.8483,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4997,
+  "lat": 33.3634,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.5176,
+  "lat": 33.3162,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.5985,
+  "lat": 33.1793,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6115,
+  "lat": 34.178,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6477,
+  "lat": 34.581,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6434,
+  "lat": 33.076,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6524,
+  "lat": 36.3324,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6973,
+  "lat": 34.6121,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6979,
+  "lat": 35.5628,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.722,
+  "lat": 32.2619,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.7611,
+  "lat": 34.6786,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.8062,
+  "lat": 32.9379,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.834,
+  "lat": 36.9079,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.8517,
+  "lat": 33.25,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.8365,
+  "lat": 33.6958,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.8927,
+  "lat": 35.7204,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.8972,
+  "lat": 33.935,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9321,
+  "lat": 35.5277,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9847,
+  "lat": 33.7901,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.0264,
+  "lat": 33.6693,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.0666,
+  "lat": 33.5925,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.0881,
+  "lat": 32.9805,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2059,
+  "lat": 33.2097,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.212,
+  "lat": 32.8191,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2048,
+  "lat": 33.1658,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2363,
+  "lat": 33.9428,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2393,
+  "lat": 33.311,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2408,
+  "lat": 33.3455,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.3194,
+  "lat": 33.3443,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.3351,
+  "lat": 33.1866,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.4474,
+  "lat": 32.5729,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.4444,
+  "lat": 32.6463,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.4827,
+  "lat": 32.2745,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.5107,
+  "lat": 32.8012,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.5136,
+  "lat": 33.0221,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.5731,
+  "lat": 37.1678,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.6001,
+  "lat": 32.7795,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.6635,
+  "lat": 32.4167,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.672,
+  "lat": 33.862,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.6834,
+  "lat": 32.78,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.7079,
+  "lat": 35.3352,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.7393,
+  "lat": 33.9788,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.7543,
+  "lat": 33.305,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.7857,
+  "lat": 32.3109,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.8283,
+  "lat": 33.0454,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.8311,
+  "lat": 35.0215,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.8463,
+  "lat": 36.846,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.8786,
+  "lat": 33.8216,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.9549,
+  "lat": 32.6863,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.9729,
+  "lat": 35.9461,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.0864,
+  "lat": 34.8493,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.1121,
+  "lat": 33.4712,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.193,
+  "lat": 37.6709,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.3412,
+  "lat": 34.6345,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.3996,
+  "lat": 33.3679,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.4007,
+  "lat": 34.4921,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.4144,
+  "lat": 34.5323,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.4894,
+  "lat": 37.1094,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.4759,
+  "lat": 33.2961,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.5164,
+  "lat": 33.2794,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.5091,
+  "lat": 33.2067,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.5273,
+  "lat": 33.0509,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.5254,
+  "lat": 33.6419,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.5546,
+  "lat": 33.5139,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.5811,
+  "lat": 35.2042,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.6152,
+  "lat": 32.9367,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.6107,
+  "lat": 33.5296,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.6442,
+  "lat": 35.7419,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.6915,
+  "lat": 32.9906,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.6992,
+  "lat": 33.0894,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.8423,
+  "lat": 32.4029,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.9472,
+  "lat": 36.3038,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.0828,
+  "lat": 33.1523,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.1542,
+  "lat": 36.3773,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.1811,
+  "lat": 34.7962,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.1976,
+  "lat": 32.5365,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.3082,
+  "lat": 36.8018,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.3359,
+  "lat": 32.6271,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.3614,
+  "lat": 32.5556,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.3683,
+  "lat": 36.7748,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.3779,
+  "lat": 33.0364,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.4407,
+  "lat": 32.5693,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.449,
+  "lat": 35.3018,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.4955,
+  "lat": 32.9457,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.5117,
+  "lat": 36.6207,
+  "year": 2022,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.8779,
+  "lat": 40.6248,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -89.9156,
+  "lat": 32.9508,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -75.3617,
+  "lat": 38.7962,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -75.8285,
+  "lat": 41.1437,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.0334,
+  "lat": 40.5904,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.1498,
+  "lat": 40.5283,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.3523,
+  "lat": 35.7219,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.6782,
+  "lat": 40.4174,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.0485,
+  "lat": 36.6791,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.068,
+  "lat": 34.8955,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.2057,
+  "lat": 38.0931,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.309,
+  "lat": 34.6106,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.3584,
+  "lat": 38.1739,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.5048,
+  "lat": 38.5611,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.5208,
+  "lat": 41.6138,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.565,
+  "lat": 36.2874,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.5785,
+  "lat": 40.1951,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.6917,
+  "lat": 40.0128,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.6998,
+  "lat": 34.6992,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.7267,
+  "lat": 41.4932,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.737,
+  "lat": 38.4113,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.7492,
+  "lat": 35.1451,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.7526,
+  "lat": 37.6417,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.8655,
+  "lat": 37.0286,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.8705,
+  "lat": 36.238,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.9076,
+  "lat": 37.0159,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.0052,
+  "lat": 36.7591,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.0358,
+  "lat": 34.1387,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.0404,
+  "lat": 36.2045,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.0546,
+  "lat": 34.0596,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.1507,
+  "lat": 40.8108,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.4479,
+  "lat": 39.9436,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.6071,
+  "lat": 34.8131,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.7328,
+  "lat": 39.8582,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.7643,
+  "lat": 38.2637,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.8816,
+  "lat": 36.2375,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.9444,
+  "lat": 35.1637,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.0162,
+  "lat": 40.3111,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.0791,
+  "lat": 35.1564,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1685,
+  "lat": 35.1646,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1751,
+  "lat": 33.5393,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.253,
+  "lat": 35.0406,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2673,
+  "lat": 33.7362,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2668,
+  "lat": 35.1017,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2853,
+  "lat": 36.3548,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.3325,
+  "lat": 35.1915,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.3302,
+  "lat": 36.3458,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.4254,
+  "lat": 33.1874,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.429,
+  "lat": 33.9518,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.4709,
+  "lat": 34.9873,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5038,
+  "lat": 33.1363,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5189,
+  "lat": 35.1466,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5225,
+  "lat": 35.55,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5413,
+  "lat": 35.1023,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5593,
+  "lat": 33.0984,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5413,
+  "lat": 33.6958,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5728,
+  "lat": 35.0523,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.6008,
+  "lat": 35.0111,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.6778,
+  "lat": 35.0662,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7075,
+  "lat": 33.4847,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.734,
+  "lat": 33.0505,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.719,
+  "lat": 33.5396,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7614,
+  "lat": 33.4398,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7637,
+  "lat": 38.3412,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7884,
+  "lat": 33.5009,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7809,
+  "lat": 34.2932,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7919,
+  "lat": 38.1014,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8333,
+  "lat": 32.9502,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8419,
+  "lat": 34.8305,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8726,
+  "lat": 32.9895,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9054,
+  "lat": 33.601,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9261,
+  "lat": 33.8373,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9366,
+  "lat": 33.5307,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9456,
+  "lat": 35.3128,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9568,
+  "lat": 34.4931,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9774,
+  "lat": 33.0274,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.0489,
+  "lat": 35.0677,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.0713,
+  "lat": 35.4071,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.0989,
+  "lat": 33.4125,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2093,
+  "lat": 34.6427,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.1691,
+  "lat": 35.1935,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.1821,
+  "lat": 34.5522,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2042,
+  "lat": 36.3677,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2791,
+  "lat": 34.541,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.3787,
+  "lat": 32.6858,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.5079,
+  "lat": 32.9547,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.5654,
+  "lat": 37.4103,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.6283,
+  "lat": 34.3561,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.6578,
+  "lat": 33.7414,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.6987,
+  "lat": 40.0035,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.7271,
+  "lat": 32.7166,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.7819,
+  "lat": 34.0359,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.7411,
+  "lat": 33.5728,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.808,
+  "lat": 33.8171,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.9009,
+  "lat": 32.7301,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.9146,
+  "lat": 32.3528,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.9113,
+  "lat": 32.501,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.9418,
+  "lat": 33.1532,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.2017,
+  "lat": 32.918,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3152,
+  "lat": 36.7649,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3368,
+  "lat": 32.6133,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3734,
+  "lat": 32.8136,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3739,
+  "lat": 34.6127,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4143,
+  "lat": 37.59,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4047,
+  "lat": 33.4943,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4323,
+  "lat": 35.8967,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4573,
+  "lat": 33.0137,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.515,
+  "lat": 33.1885,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.5349,
+  "lat": 35.6144,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.5536,
+  "lat": 33.305,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.585,
+  "lat": 33.1883,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.597,
+  "lat": 33.1295,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6434,
+  "lat": 34.5986,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.7108,
+  "lat": 34.4953,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.744,
+  "lat": 33.2598,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.7197,
+  "lat": 33.5955,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.7377,
+  "lat": 32.6133,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.8096,
+  "lat": 32.5621,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9169,
+  "lat": 32.9218,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9219,
+  "lat": 35.5688,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9469,
+  "lat": 33.9882,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9674,
+  "lat": 33.2158,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9768,
+  "lat": 32.6034,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.0136,
+  "lat": 33.7279,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.1464,
+  "lat": 35.7664,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.1527,
+  "lat": 39.4127,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.149,
+  "lat": 32.3015,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.1798,
+  "lat": 33.3737,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.1891,
+  "lat": 32.2641,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2333,
+  "lat": 34.0589,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.3036,
+  "lat": 34.0461,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.3151,
+  "lat": 33.0316,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.3126,
+  "lat": 39.3282,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.3351,
+  "lat": 33.8755,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.3575,
+  "lat": 34.1135,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.378,
+  "lat": 32.3798,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.4455,
+  "lat": 32.5351,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.4892,
+  "lat": 33.0148,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.5372,
+  "lat": 32.5235,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.5507,
+  "lat": 32.802,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.6405,
+  "lat": 33.5784,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.7129,
+  "lat": 32.527,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.7428,
+  "lat": 35.2759,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.9639,
+  "lat": 33.8889,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.0294,
+  "lat": 34.0468,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.157,
+  "lat": 34.8771,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.1885,
+  "lat": 33.871,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.208,
+  "lat": 41.6085,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.2469,
+  "lat": 34.7154,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.2321,
+  "lat": 39.1043,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.2508,
+  "lat": 33.6542,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.2859,
+  "lat": 33.3037,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.2693,
+  "lat": 33.358,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.3951,
+  "lat": 32.6088,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.4041,
+  "lat": 33.4088,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.449,
+  "lat": 33.341,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.4643,
+  "lat": 35.0379,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.6104,
+  "lat": 35.1272,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.6142,
+  "lat": 34.8336,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.6511,
+  "lat": 33.1119,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.6618,
+  "lat": 33.0263,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.6981,
+  "lat": 33.1572,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.7352,
+  "lat": 33.119,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.7798,
+  "lat": 34.7487,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.8193,
+  "lat": 35.5858,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.8802,
+  "lat": 32.2232,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.988,
+  "lat": 32.5055,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.0323,
+  "lat": 35.4347,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.0766,
+  "lat": 34.7556,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.0832,
+  "lat": 33.0499,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.1317,
+  "lat": 32.5864,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.1354,
+  "lat": 35.3376,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.1567,
+  "lat": 37.2626,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.1717,
+  "lat": 32.4165,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.2286,
+  "lat": 36.9862,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.1991,
+  "lat": 32.8649,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.2215,
+  "lat": 32.2821,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.2498,
+  "lat": 32.4953,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.2754,
+  "lat": 32.6223,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.2814,
+  "lat": 32.4347,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.3428,
+  "lat": 36.7321,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.4346,
+  "lat": 32.9406,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.4731,
+  "lat": 35.1431,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.5077,
+  "lat": 32.9367,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.4915,
+  "lat": 32.8689,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.5458,
+  "lat": 36.7799,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.5887,
+  "lat": 32.3697,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.5775,
+  "lat": 32.4876,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.6322,
+  "lat": 32.4131,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.6393,
+  "lat": 35.0338,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.6433,
+  "lat": 32.5024,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.6965,
+  "lat": 32.3907,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.7336,
+  "lat": 35.9775,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.8055,
+  "lat": 32.4876,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.8055,
+  "lat": 32.4516,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.8324,
+  "lat": 32.2091,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.8369,
+  "lat": 32.3438,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.8279,
+  "lat": 32.6448,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.8977,
+  "lat": 32.361,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.9013,
+  "lat": 32.793,
+  "year": 2023,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -75.6439,
+  "lat": 39.8204,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.3923,
+  "lat": 34.9065,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.5724,
+  "lat": 41.6728,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.6511,
+  "lat": 40.5175,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -76.9338,
+  "lat": 34.815,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.1059,
+  "lat": 34.7911,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.071,
+  "lat": 36.9522,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.0844,
+  "lat": 36.9836,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.2731,
+  "lat": 38.0594,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.3135,
+  "lat": 36.813,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.4584,
+  "lat": 34.6597,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.4779,
+  "lat": 41.274,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.5022,
+  "lat": 38.6096,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.565,
+  "lat": 40.7745,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.5689,
+  "lat": 34.5819,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.8705,
+  "lat": 37.0286,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.8929,
+  "lat": 36.9971,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.9333,
+  "lat": 36.3638,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.994,
+  "lat": 34.0038,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -77.9872,
+  "lat": 36.1123,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.0232,
+  "lat": 37.7472,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.2085,
+  "lat": 34.5357,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.2545,
+  "lat": 36.0438,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.3026,
+  "lat": 34.7713,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.3331,
+  "lat": 38.6859,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.3457,
+  "lat": 39.083,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.3892,
+  "lat": 41.3405,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.4139,
+  "lat": 34.8546,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.5297,
+  "lat": 38.7161,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.5756,
+  "lat": 37.3708,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.5904,
+  "lat": 35.6355,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.5774,
+  "lat": 38.6595,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.7089,
+  "lat": 38.9998,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.9075,
+  "lat": 38.8987,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.917,
+  "lat": 38.7533,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.9125,
+  "lat": 34.0155,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.9909,
+  "lat": 38.5989,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.0255,
+  "lat": 35.2223,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -78.9983,
+  "lat": 38.5183,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.0363,
+  "lat": 35.1276,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.0562,
+  "lat": 38.7713,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1172,
+  "lat": 33.5559,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.1865,
+  "lat": 33.579,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2539,
+  "lat": 33.2332,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.2929,
+  "lat": 36.3364,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.3197,
+  "lat": 35.1115,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.4066,
+  "lat": 35.0568,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.4791,
+  "lat": 34.9759,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5196,
+  "lat": 33.6015,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5364,
+  "lat": 35.0927,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5829,
+  "lat": 35.0639,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.5918,
+  "lat": 33.2325,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.6897,
+  "lat": 33.0766,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.6427,
+  "lat": 33.7054,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.73,
+  "lat": 37.9942,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7332,
+  "lat": 38.3618,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7884,
+  "lat": 33.5386,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7794,
+  "lat": 35.0657,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7895,
+  "lat": 33.4712,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.7964,
+  "lat": 35.2673,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8359,
+  "lat": 33.319,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.858,
+  "lat": 35.3607,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8851,
+  "lat": 33.1335,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.8827,
+  "lat": 35.2993,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9249,
+  "lat": 33.8341,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -79.9635,
+  "lat": 33.0715,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.0552,
+  "lat": 35.0945,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.0668,
+  "lat": 36.3054,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.0951,
+  "lat": 33.4282,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2645,
+  "lat": 32.6897,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.269,
+  "lat": 36.3863,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2959,
+  "lat": 34.4478,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.2959,
+  "lat": 37.3669,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.3614,
+  "lat": 33.6605,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.4693,
+  "lat": 33.8359,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.5295,
+  "lat": 34.0551,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.6843,
+  "lat": 32.7391,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.7312,
+  "lat": 33.2609,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.7634,
+  "lat": 34.015,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.7784,
+  "lat": 34.0903,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.8096,
+  "lat": 33.5925,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.8699,
+  "lat": 34.0093,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.9023,
+  "lat": 32.8783,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.9464,
+  "lat": 32.6478,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -80.9705,
+  "lat": 32.7562,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.028,
+  "lat": 32.4022,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.0613,
+  "lat": 32.3259,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.064,
+  "lat": 32.4841,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.0954,
+  "lat": 33.579,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.1631,
+  "lat": 32.9894,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.259,
+  "lat": 34.8328,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.2699,
+  "lat": 36.8213,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3286,
+  "lat": 36.8377,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.3534,
+  "lat": 32.7737,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.379,
+  "lat": 32.8161,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4343,
+  "lat": 34.4467,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.4772,
+  "lat": 34.3965,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.5131,
+  "lat": 34.2528,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.5131,
+  "lat": 34.5357,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.5362,
+  "lat": 34.41,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.5915,
+  "lat": 33.329,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6049,
+  "lat": 32.2899,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6254,
+  "lat": 33.3679,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6164,
+  "lat": 33.4706,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.6992,
+  "lat": 33.3236,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.7072,
+  "lat": 33.5997,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.7223,
+  "lat": 35.5341,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.7455,
+  "lat": 36.0266,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.7991,
+  "lat": 33.1493,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.8663,
+  "lat": 32.8705,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.8744,
+  "lat": 32.4337,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9174,
+  "lat": 35.5239,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9302,
+  "lat": 33.7279,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9398,
+  "lat": 35.7889,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -81.9529,
+  "lat": 34.0065,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.0027,
+  "lat": 33.9069,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.0948,
+  "lat": 33.0209,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.1551,
+  "lat": 33.7578,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.1766,
+  "lat": 33.6955,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2003,
+  "lat": 33.2062,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2468,
+  "lat": 33.9773,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2532,
+  "lat": 33.1523,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2532,
+  "lat": 33.335,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.2977,
+  "lat": 33.6224,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.3051,
+  "lat": 32.275,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.3665,
+  "lat": 36.2246,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.4384,
+  "lat": 36.1796,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.457,
+  "lat": 33.9903,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.5237,
+  "lat": 33.8889,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.5507,
+  "lat": 32.2322,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.7996,
+  "lat": 33.0484,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.8067,
+  "lat": 34.1315,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -82.8638,
+  "lat": 32.6724,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.0133,
+  "lat": 33.8755,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.0268,
+  "lat": 33.341,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.1256,
+  "lat": 34.1816,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.1696,
+  "lat": 32.3744,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.2828,
+  "lat": 34.8501,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.3154,
+  "lat": 34.4728,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.3388,
+  "lat": 33.0274,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.3673,
+  "lat": 34.7163,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.4374,
+  "lat": 34.5003,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.4849,
+  "lat": 33.1074,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.52,
+  "lat": 33.3428,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.7136,
+  "lat": 33.0894,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.7728,
+  "lat": 33.1677,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.7589,
+  "lat": 36.7591,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.7619,
+  "lat": 36.5435,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.7839,
+  "lat": 34.949,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.8297,
+  "lat": 33.0998,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.8997,
+  "lat": 32.8409,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -83.9521,
+  "lat": 36.5255,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.0215,
+  "lat": 32.8477,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.0868,
+  "lat": 32.7346,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.1064,
+  "lat": 35.0689,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.1161,
+  "lat": 35.4141,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.2395,
+  "lat": 34.4728,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.286,
+  "lat": 36.8924,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.3783,
+  "lat": 33.1515,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.3743,
+  "lat": 42.2118,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.4079,
+  "lat": 36.745,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.5344,
+  "lat": 36.6327,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.5605,
+  "lat": 32.6411,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.5853,
+  "lat": 35.1242,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.5728,
+  "lat": 36.7784,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.573,
+  "lat": 37.06,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.5644,
+  "lat": 37.3789,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.6168,
+  "lat": 34.4773,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.6415,
+  "lat": 34.1708,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.6572,
+  "lat": 35.0163,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.6806,
+  "lat": 32.4148,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.7059,
+  "lat": 34.8625,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.6932,
+  "lat": 33.5038,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.7074,
+  "lat": 34.648,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.7612,
+  "lat": 32.4966,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.7553,
+  "lat": 32.376,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.8324,
+  "lat": 32.4786,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.8317,
+  "lat": 32.8117,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.8773,
+  "lat": 34.0461,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.9512,
+  "lat": 35.0877,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -84.9975,
+  "lat": 36.1112,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.0654,
+  "lat": 32.3331,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.0705,
+  "lat": 34.6121,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.0794,
+  "lat": 34.5133,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.0794,
+  "lat": 34.5851,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.0884,
+  "lat": 36.3324,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.1423,
+  "lat": 34.4279,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.1631,
+  "lat": 34.593,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.1603,
+  "lat": 36.8534,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.1693,
+  "lat": 33.871,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.2202,
+  "lat": 34.5456,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.2456,
+  "lat": 34.3246,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.2456,
+  "lat": 32.2091,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.366,
+  "lat": 34.6426,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.4051,
+  "lat": 38.8551,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.4418,
+  "lat": 35.1506,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.4253,
+  "lat": 34.3112,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.4574,
+  "lat": 32.2078,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.4777,
+  "lat": 33.9908,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ },
+ {
+  "lon": -85.5051,
+  "lat": 35.6407,
+  "year": 2024,
+  "month": 4,
+  "region": "eastus",
+  "src": "FIRMS-forest-spring"
+ }
+]

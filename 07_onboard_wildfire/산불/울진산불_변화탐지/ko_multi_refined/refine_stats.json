@@ -1,0 +1,272 @@
+[
+  {
+    "fire": "kf_20180201_3047ha",
+    "tiles": 1,
+    "action": "keep-full",
+    "removed_pct": 0.0
+  },
+  {
+    "fire": "kf_20180208_425ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.064 keep=0.52)",
+    "removed_pct": 48.0
+  },
+  {
+    "fire": "kf_20180401_383ha",
+    "tiles": 1,
+    "action": "keep-full",
+    "removed_pct": 0.0
+  },
+  {
+    "fire": "kf_20180413_2433ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.167 keep=0.85)",
+    "removed_pct": 14.9
+  },
+  {
+    "fire": "kf_20180420_1180ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.518 keep=0.58)",
+    "removed_pct": 41.7
+  },
+  {
+    "fire": "kf_20180421_478ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.222 keep=0.81)",
+    "removed_pct": 19.4
+  },
+  {
+    "fire": "kf_20180801_2433ha",
+    "tiles": 1,
+    "action": "keep-full",
+    "removed_pct": 0.0
+  },
+  {
+    "fire": "kf_20181004_2666ha",
+    "tiles": 1,
+    "action": "refine(thr=0.207 keep=0.33)",
+    "removed_pct": 66.7
+  },
+  {
+    "fire": "kf_20190120_467ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.242 keep=0.44)",
+    "removed_pct": 55.6
+  },
+  {
+    "fire": "kf_20190304_2083ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.270 keep=0.43)",
+    "removed_pct": 57.3
+  },
+  {
+    "fire": "kf_20190309_380ha",
+    "tiles": 1,
+    "action": "keep-full",
+    "removed_pct": 0.0
+  },
+  {
+    "fire": "kf_20190317_373ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.224 keep=0.60)",
+    "removed_pct": 40.3
+  },
+  {
+    "fire": "kf_20190319_1422ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.370 keep=0.55)",
+    "removed_pct": 44.5
+  },
+  {
+    "fire": "kf_20190402_2728ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.430 keep=0.33)",
+    "removed_pct": 66.7
+  },
+  {
+    "fire": "kf_20190404_1053ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.010 keep=0.53)",
+    "removed_pct": 46.8
+  },
+  {
+    "fire": "kf_20190404_411ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.005 keep=0.32)",
+    "removed_pct": 68.3
+  },
+  {
+    "fire": "kf_20190420_1459ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.022 keep=0.54)",
+    "removed_pct": 45.6
+  },
+  {
+    "fire": "kf_20190505_5496ha",
+    "tiles": 4,
+    "action": "keep-full",
+    "removed_pct": 0.0
+  },
+  {
+    "fire": "kf_20190506_2172ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.333 keep=0.47)",
+    "removed_pct": 52.8
+  },
+  {
+    "fire": "kf_20190507_1108ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.023 keep=0.48)",
+    "removed_pct": 51.9
+  },
+  {
+    "fire": "kf_20190509_1131ha",
+    "tiles": 1,
+    "action": "keep-full",
+    "removed_pct": 0.0
+  },
+  {
+    "fire": "kf_20190511_919ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.034 keep=0.61)",
+    "removed_pct": 39.0
+  },
+  {
+    "fire": "kf_20190516_2330ha",
+    "tiles": 2,
+    "action": "keep-full",
+    "removed_pct": 0.0
+  },
+  {
+    "fire": "kf_20190529_1013ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.033 keep=0.69)",
+    "removed_pct": 31.1
+  },
+  {
+    "fire": "kf_20190826_3047ha",
+    "tiles": 1,
+    "action": "refine(thr=0.303 keep=0.38)",
+    "removed_pct": 61.9
+  },
+  {
+    "fire": "kf_20200308_2226ha",
+    "tiles": 1,
+    "action": "refine(thr=0.248 keep=0.41)",
+    "removed_pct": 58.9
+  },
+  {
+    "fire": "kf_20200325_1210ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.028 keep=0.58)",
+    "removed_pct": 42.4
+  },
+  {
+    "fire": "kf_20200416_2139ha",
+    "tiles": 2,
+    "action": "refine(thr=-0.328 keep=0.54)",
+    "removed_pct": 46.4
+  },
+  {
+    "fire": "kf_20200422_1753ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.290 keep=0.47)",
+    "removed_pct": 53.2
+  },
+  {
+    "fire": "kf_20200501_1108ha",
+    "tiles": 1,
+    "action": "keep-full",
+    "removed_pct": 0.0
+  },
+  {
+    "fire": "kf_20200504_976ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.208 keep=0.72)",
+    "removed_pct": 28.2
+  },
+  {
+    "fire": "kf_20200608_2433ha",
+    "tiles": 1,
+    "action": "keep-full",
+    "removed_pct": 0.0
+  },
+  {
+    "fire": "kf_20200613_453ha",
+    "tiles": 1,
+    "action": "refine(thr=0.071 keep=0.37)",
+    "removed_pct": 62.6
+  },
+  {
+    "fire": "kf_20201006_1459ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.061 keep=0.56)",
+    "removed_pct": 43.6
+  },
+  {
+    "fire": "kf_20201013_797ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.103 keep=0.50)",
+    "removed_pct": 49.9
+  },
+  {
+    "fire": "kf_20201018_797ha",
+    "tiles": 1,
+    "action": "refine(thr=0.239 keep=0.30)",
+    "removed_pct": 69.9
+  },
+  {
+    "fire": "kf_20201212_1110ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.141 keep=0.53)",
+    "removed_pct": 47.1
+  },
+  {
+    "fire": "kf_20210124_446ha",
+    "tiles": 1,
+    "action": "refine(thr=0.007 keep=0.57)",
+    "removed_pct": 43.3
+  },
+  {
+    "fire": "kf_20210413_1210ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.415 keep=0.41)",
+    "removed_pct": 59.2
+  },
+  {
+    "fire": "kf_20210416_2520ha",
+    "tiles": 2,
+    "action": "refine(thr=-0.467 keep=0.32)",
+    "removed_pct": 68.2
+  },
+  {
+    "fire": "kf_20210424_482ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.509 keep=0.38)",
+    "removed_pct": 61.8
+  },
+  {
+    "fire": "kf_20210425_5496ha",
+    "tiles": 4,
+    "action": "refine(thr=-0.025 keep=0.85)",
+    "removed_pct": 14.6
+  },
+  {
+    "fire": "kf_20210425_919ha",
+    "tiles": 1,
+    "action": "keep-full",
+    "removed_pct": 0.0
+  },
+  {
+    "fire": "kf_20210427_2448ha",
+    "tiles": 1,
+    "action": "keep-full",
+    "removed_pct": 0.0
+  },
+  {
+    "fire": "kf_20210430_410ha",
+    "tiles": 1,
+    "action": "refine(thr=-0.421 keep=0.49)",
+    "removed_pct": 50.7
+  }
+]

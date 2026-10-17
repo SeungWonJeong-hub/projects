@@ -1,0 +1,79 @@
+{"id": "P0003", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "적색 소실→회올리브, S2 담홍→회올리브, dNBR +0.24", "prev": "소각", "dnbr": 0.241, "src": "recheck-2026-09-10"}
+{"id": "P0004", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "RE 균일 적색, S2 post 갈변은 개엽", "prev": "비변화", "dnbr": 0.076, "src": "recheck-2026-09-10"}
+{"id": "P0006", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담황갈 능선, S2 pre≈post, dNBR +0.05", "prev": "비변화", "dnbr": 0.054, "src": "recheck-2026-09-10"}
+{"id": "P0008", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담회록 나지·도로, pre 에도 비식생", "prev": "비변화", "dnbr": 0.084, "src": "recheck-2026-09-10"}
+{"id": "P0011", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지·도로 구획, pre≈post", "prev": "비변화", "dnbr": 0.101, "src": "recheck-2026-09-10"}
+{"id": "P0015", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "RE 균일 적색, 층1 과탐", "prev": "비변화", "dnbr": 0.07, "src": "recheck-2026-09-10"}
+{"id": "P0016", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "RE 균일 적색", "prev": "비변화", "dnbr": -0.009, "src": "recheck-2026-09-10"}
+{"id": "P0019", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "★변경: 적록 혼효 사면의 올리브 소반, 실제 소각면은 우하단, dNBR +0.09", "prev": "소각", "dnbr": 0.094, "src": "recheck-2026-09-10"}
+{"id": "P0020", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목", "prev": "비변화", "dnbr": 0.005, "src": "recheck-2026-09-10"}
+{"id": "P0022", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "RE 패널 좌단이나 상자 내부 적색 유효, S2 pre≈post", "prev": "비변화", "dnbr": 0.057, "src": "recheck-2026-09-10"}
+{"id": "P0023", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "담갈 임도, 주변 적색", "prev": "비변화", "dnbr": -0.029, "src": "recheck-2026-09-10"}
+{"id": "P0024", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "RE 암록, S2 적→암록, dNBR +0.51", "prev": "소각", "dnbr": 0.505, "src": "recheck-2026-09-10"}
+{"id": "P0026", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "담황갈 능선, pre≈post", "prev": "비변화", "dnbr": -0.007, "src": "recheck-2026-09-10"}
+{"id": "P0027", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "상자는 도로·나지(pre 에도 밝음), 인접 소각면과 혼합화소 dNBR +0.35", "prev": "비변화", "dnbr": 0.348, "src": "recheck-2026-09-10"}
+{"id": "P0030", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "경작지·시설", "prev": "비변화", "dnbr": -0.098, "src": "recheck-2026-09-10"}
+{"id": "P0031", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목", "prev": "비변화", "dnbr": -0.013, "src": "recheck-2026-09-10"}
+{"id": "P0032", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "담올리브 능선(낙엽활엽), pre≈post — 층1 과탐", "prev": "비변화", "dnbr": -0.034, "src": "recheck-2026-09-10"}
+{"id": "P0035", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목·임도", "prev": "비변화", "dnbr": 0.007, "src": "recheck-2026-09-10"}
+{"id": "P0036", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락·경작 나지, pre 에도 담색", "prev": "비변화", "dnbr": 0.078, "src": "recheck-2026-09-10"}
+{"id": "P0037", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "채석 나지(피복 bare), pre≈post", "prev": "비변화", "dnbr": 0.132, "src": "recheck-2026-09-10"}
+{"id": "P0038", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "★변경: 촌락 인접 식생, S2 적→암회록, dNBR +0.31", "prev": "비변화", "dnbr": 0.311, "src": "recheck-2026-09-10"}
+{"id": "P0042", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "★변경: S2 적→암록 광역, RE 적색 소실, dNBR +0.34", "prev": "비변화", "dnbr": 0.343, "src": "recheck-2026-09-10"}
+{"id": "P0044", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "임도·적색 수목", "prev": "비변화", "dnbr": -0.052, "src": "recheck-2026-09-10"}
+{"id": "P0047", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "온실·시설지", "prev": "비변화", "dnbr": 0.108, "src": "recheck-2026-09-10"}
+{"id": "P0050", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목", "prev": "비변화", "dnbr": 0.009, "src": "recheck-2026-09-10"}
+{"id": "P0052", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "★변경: 촌락·산림 경계, S2 적→암록, dNBR +0.50", "prev": "비변화", "dnbr": 0.495, "src": "recheck-2026-09-10"}
+{"id": "P0053", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "RE 암록, S2 적→암록, dNBR +0.36", "prev": "소각", "dnbr": 0.358, "src": "recheck-2026-09-10"}
+{"id": "P0059", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "암적 수목, pre≈post", "prev": "비변화", "dnbr": 0.06, "src": "recheck-2026-09-10"}
+{"id": "P0060", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "온실·시설지(피복재 반사)", "prev": "비변화", "dnbr": 0.143, "src": "recheck-2026-09-10"}
+{"id": "P0061", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "적색 소실→녹, S2 적→암록, dNBR +0.28", "prev": "소각", "dnbr": 0.277, "src": "recheck-2026-09-10"}
+{"id": "P0064", "read": "판정불가", "grade": "", "basis": "RE+S2", "conf": "상", "note": "★변경: RE 채움값 — 판정면 없음(전수 검사 src/sample_re_valid.py)", "prev": "비변화", "dnbr": 0.092, "src": "recheck-2026-09-10"}
+{"id": "P0065", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목", "prev": "비변화", "dnbr": 0.045, "src": "recheck-2026-09-10"}
+{"id": "P0067", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작 나지, post 가 오히려 밝음 — 소각 아님", "prev": "비변화", "dnbr": 0.154, "src": "recheck-2026-09-10"}
+{"id": "P0068", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "균일 녹색(적색 소실), S2 적→암록 | 재확인: dNBR +1.070 이 판정과 일치", "prev": "소각", "dnbr": 1.07, "src": "recheck-2026-09-10"}
+{"id": "P0074", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "균일 녹색(적색 소실), S2 적→암록 | 재확인: dNBR +0.922 이 판정과 일치", "prev": "소각", "dnbr": 0.922, "src": "recheck-2026-09-10"}
+{"id": "P0075", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "암청록 소각면, S2 적→암록 | 재확인: dNBR +0.833 이 판정과 일치", "prev": "소각", "dnbr": 0.833, "src": "recheck-2026-09-10"}
+{"id": "P0076", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "★변경: 도로로 둘린 구역이나 S2 담색→암록·자연색 암갈, dNBR +0.52", "prev": "비변화", "dnbr": 0.52, "src": "recheck-2026-09-10"}
+{"id": "P0079", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "암록-암적 소각면, S2 적→암록 | 재확인: dNBR +0.689 이 판정과 일치", "prev": "소각", "dnbr": 0.689, "src": "recheck-2026-09-10"}
+{"id": "P0080", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "균일 녹색(적색 소실) | 재확인: dNBR +0.597 이 판정과 일치", "prev": "소각", "dnbr": 0.597, "src": "recheck-2026-09-10"}
+{"id": "P0081", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "임도 포장면, 주변 적색 | 재확인: dNBR +0.019 이 판정과 일치", "prev": "비변화", "dnbr": 0.019, "src": "recheck-2026-09-10"}
+{"id": "P0082", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "하천·도로 회랑 | 재확인: dNBR -0.022 이 판정과 일치", "prev": "비변화", "dnbr": -0.022, "src": "recheck-2026-09-10"}
+{"id": "P0085", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "담황갈 능선 속 암록, dNBR +0.12 — 고성 실소각 하한(+0.28) 미달", "prev": "비변화", "dnbr": 0.121, "src": "recheck-2026-09-10"}
+{"id": "P0086", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "암적 식생, pre/post 담색 유지 | 재확인: dNBR +0.057 이 판정과 일치", "prev": "비변화", "dnbr": 0.057, "src": "recheck-2026-09-10"}
+{"id": "P0088", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "균일 녹색(적색 소실), S2 적→암록 | 재확인: dNBR +0.782 이 판정과 일치", "prev": "소각", "dnbr": 0.782, "src": "recheck-2026-09-10"}
+{"id": "P0093", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담갈 나지, pre/post 동일 | 재확인: dNBR -0.008 이 판정과 일치", "prev": "비변화", "dnbr": -0.008, "src": "recheck-2026-09-10"}
+{"id": "P0094", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "임도·적색 수목", "prev": "비변화", "dnbr": 0.091, "src": "recheck-2026-09-10"}
+{"id": "P0100", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "암청록 소각면, S2 적→암록 | 재확인: dNBR +0.809 이 판정과 일치", "prev": "소각", "dnbr": 0.809, "src": "recheck-2026-09-10"}
+{"id": "P0101", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담청 시설·도로대 | 재확인: dNBR +0.062 이 판정과 일치", "prev": "비변화", "dnbr": 0.062, "src": "recheck-2026-09-10"}
+{"id": "P0103", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적홍 식생(패널 상단), pre≈post", "prev": "비변화", "dnbr": 0.073, "src": "recheck-2026-09-10"}
+{"id": "P0107", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "RE 적색 식생 | 재확인: dNBR +0.057 이 판정과 일치", "prev": "비변화", "dnbr": 0.057, "src": "recheck-2026-09-10"}
+{"id": "P0109", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "암청록 소각면, S2 적→암록 | 재확인: dNBR +0.588 이 판정과 일치", "prev": "소각", "dnbr": 0.588, "src": "recheck-2026-09-10"}
+{"id": "P0113", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "온실·시설지 | 재확인: dNBR +0.178 이 판정과 일치", "prev": "비변화", "dnbr": 0.178, "src": "recheck-2026-09-10"}
+{"id": "P0120", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담갈 도로·경작지 | 재확인: dNBR +0.077 이 판정과 일치", "prev": "비변화", "dnbr": 0.077, "src": "recheck-2026-09-10"}
+{"id": "P0125", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "담올리브 계단지, S2 적→암록 | 재확인: dNBR +0.604 이 판정과 일치", "prev": "소각", "dnbr": 0.604, "src": "recheck-2026-09-10"}
+{"id": "P0126", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 식생·촌락 경계 | 재확인: dNBR +0.004 이 판정과 일치", "prev": "비변화", "dnbr": 0.004, "src": "recheck-2026-09-10"}
+{"id": "P0129", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "RE 적색 식생 | 재확인: dNBR +0.015 이 판정과 일치", "prev": "비변화", "dnbr": 0.015, "src": "recheck-2026-09-10"}
+{"id": "P0133", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 수목(영상 하단) | 재확인: dNBR +0.082 이 판정과 일치", "prev": "비변화", "dnbr": 0.082, "src": "recheck-2026-09-10"}
+{"id": "P0141", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "★변경: 경작지·도로대, 소각면은 상단 산림, dNBR +0.09", "prev": "소각", "dnbr": 0.093, "src": "recheck-2026-09-10"}
+{"id": "P0143", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "담홍 능선대, 소각면은 우하단 | 재확인: dNBR +0.185 이 판정과 일치", "prev": "비변화", "dnbr": 0.185, "src": "recheck-2026-09-10"}
+{"id": "P0146", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "담청 나지(채석·하상), 피복도 bare | 재확인: dNBR +0.058 이 판정과 일치", "prev": "비변화", "dnbr": 0.058, "src": "recheck-2026-09-10"}
+{"id": "P0148", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담갈 능선·나지 | 재확인: dNBR +0.019 이 판정과 일치", "prev": "비변화", "dnbr": 0.019, "src": "recheck-2026-09-10"}
+{"id": "P0152", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담홍 나지, pre/post 동일 | 재확인: dNBR -0.197 이 판정과 일치", "prev": "비변화", "dnbr": -0.197, "src": "recheck-2026-09-10"}
+{"id": "P0154", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락·도로·저수지 인접 | 재확인: dNBR +0.004 이 판정과 일치", "prev": "비변화", "dnbr": 0.004, "src": "recheck-2026-09-10"}
+{"id": "P0156", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "하상 담색대 | 재확인: dNBR +0.026 이 판정과 일치", "prev": "비변화", "dnbr": 0.026, "src": "recheck-2026-09-10"}
+{"id": "P0160", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지 모자이크, pre/post 동일 | 재확인: dNBR +0.055 이 판정과 일치", "prev": "비변화", "dnbr": 0.055, "src": "recheck-2026-09-10"}
+{"id": "P0161", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담갈 능선대 | 재확인: dNBR -0.025 이 판정과 일치", "prev": "비변화", "dnbr": -0.025, "src": "recheck-2026-09-10"}
+{"id": "P0167", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "RE 적색 식생 | 재확인: dNBR +0.027 이 판정과 일치", "prev": "비변화", "dnbr": 0.027, "src": "recheck-2026-09-10"}
+{"id": "P0169", "read": "소각", "grade": "경", "basis": "RE+S2", "conf": "하", "note": "★변경: 적색 식생 속 공지 — RE 로는 미소각처럼 보이나 dNBR +0.54, 인접 소각면과 연속", "prev": "비변화", "dnbr": 0.541, "src": "recheck-2026-09-10"}
+{"id": "P0170", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락·경작지 | 재확인: dNBR +0.041 이 판정과 일치", "prev": "비변화", "dnbr": 0.041, "src": "recheck-2026-09-10"}
+{"id": "P0174", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담갈 나지·능선 | 재확인: dNBR +0.083 이 판정과 일치", "prev": "비변화", "dnbr": 0.083, "src": "recheck-2026-09-10"}
+{"id": "P0175", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "경작 구획 밝아짐 — 재(灰)와 경운을 못 가름, dNBR +0.21", "prev": "비변화", "dnbr": 0.208, "src": "recheck-2026-09-10"}
+{"id": "P0177", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담갈올리브 능선 | 재확인: dNBR +0.001 이 판정과 일치", "prev": "비변화", "dnbr": 0.001, "src": "recheck-2026-09-10"}
+{"id": "P0179", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락·경작지 | 재확인: dNBR -0.024 이 판정과 일치", "prev": "비변화", "dnbr": -0.024, "src": "recheck-2026-09-10"}
+{"id": "P0180", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담올리브 능선, 주변 적색 | 재확인: dNBR -0.011 이 판정과 일치", "prev": "비변화", "dnbr": -0.011, "src": "recheck-2026-09-10"}
+{"id": "P0183", "read": "소각", "grade": "경", "basis": "RE+S2", "conf": "중", "note": "적색 소실→담녹, S2 post 광역 암록, dNBR +0.20", "prev": "소각", "dnbr": 0.195, "src": "recheck-2026-09-10"}
+{"id": "P0195", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "해안 적색 수목, S2 pre/post 색차는 스트레치 탓 | 재확인: dNBR +0.065 이 판정과 일치", "prev": "비변화", "dnbr": 0.065, "src": "recheck-2026-09-10"}
+{"id": "P0197", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회-담황 능선(활엽 落葉/초지로 보임), S2 안팎 동일 | 재확인: dNBR -0.033 이 판정과 일치", "prev": "비변화", "dnbr": -0.033, "src": "recheck-2026-09-10"}
+{"id": "P0198", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황 계곡·능선, 주변 적색 대비 색조만 다름 | 재확인: dNBR -0.020 이 판정과 일치", "prev": "비변화", "dnbr": -0.02, "src": "recheck-2026-09-10"}
+{"id": "P0200", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 수목, S2 색차는 스트레치·운영향 | 재확인: dNBR -0.044 이 판정과 일치", "prev": "비변화", "dnbr": -0.044, "src": "recheck-2026-09-10"}

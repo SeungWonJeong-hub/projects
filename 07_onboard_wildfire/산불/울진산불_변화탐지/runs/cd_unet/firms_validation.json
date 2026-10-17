@@ -1,0 +1,26 @@
+{
+  "firms_points_total": 2342,
+  "inside_unet_burn": 1548,
+  "containment_pct": 66.09735269000853,
+  "containment_by_ref_pct": {
+    "unet_burn": 66.1,
+    "dnbr_0.27": 97.6,
+    "dnbr_0.10": 99.2
+  },
+  "tolerance_m": 180,
+  "windows": [
+    [
+      "2022-03-04",
+      5
+    ],
+    [
+      "2022-03-09",
+      5
+    ]
+  ],
+  "sources": [
+    "VIIRS_SNPP_SP",
+    "VIIRS_NOAA20_SP",
+    "MODIS_SP"
+  ]
+}

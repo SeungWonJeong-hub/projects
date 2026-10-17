@@ -1,0 +1,33 @@
+/home/syntax_kmu/.local/lib/python3.10/site-packages/torch/cuda/__init__.py:188: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 12060). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /__w/pytorch/pytorch/c10/cuda/CUDAFunctions.cpp:119.)
+  return torch._C._cuda_getDeviceCount() > 0
+
+===== [A_resnet34_scratch] init=imagenet lr=0.0003 =====
+/home/syntax_kmu/syntax_inference/Steven/uljin_wildfire_cd/src/ko2uljin_finetune.py:86: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  lf = DiceBCE(); sc = torch.cuda.amp.GradScaler(enabled=(DEV == "cuda")); best = -1; bs = None
+  [ep 00] loss=1.354 val_f1=0.493
+  [ep 05] loss=0.984 val_f1=0.827
+  [ep 10] loss=0.881 val_f1=0.858
+  [ep 15] loss=0.818 val_f1=0.865
+  [ep 20] loss=0.776 val_f1=0.871
+  [ep 24] loss=0.770 val_f1=0.873
+  VAL: {'thr': 0.45, 'f1': 0.8741, 'iou': 0.7763, 'precision': 0.858, 'recall': 0.891}
+  TEST(val-thr): {'thr': 0.45, 'f1': 0.7761, 'iou': 0.6342, 'precision': 0.793, 'recall': 0.76}
+  TEST(best-thr): {'thr': 0.35, 'f1': 0.7794, 'iou': 0.6386, 'precision': 0.761, 'recall': 0.799}
+
+===== [B_ko2uljin_finetune] init=ko_native lr=0.0001 =====
+  로드: ko_native_unet.pt
+  [ep 00] loss=1.712 val_f1=0.460
+  [ep 05] loss=1.189 val_f1=0.734
+  [ep 10] loss=1.150 val_f1=0.772
+  [ep 15] loss=1.093 val_f1=0.786
+  [ep 20] loss=1.088 val_f1=0.786
+  [ep 24] loss=1.084 val_f1=0.789
+  VAL: {'thr': 0.65, 'f1': 0.7903, 'iou': 0.6534, 'precision': 0.782, 'recall': 0.799}
+  TEST(val-thr): {'thr': 0.65, 'f1': 0.614, 'iou': 0.443, 'precision': 0.821, 'recall': 0.49}
+  TEST(best-thr): {'thr': 0.55, 'f1': 0.6369, 'iou': 0.4673, 'precision': 0.701, 'recall': 0.584}
+
+========== 요약 (TEST val-thr) ==========
+  원 baseline UNetResNet50+attn : F1 0.772 / IoU 0.629
+  A_resnet34_scratch        : F1 0.7761 / IoU 0.6342
+  B_ko2uljin_finetune       : F1 0.614 / IoU 0.443
+저장: /home/syntax_kmu/syntax_inference/Steven/uljin_wildfire_cd/src/../runs/ko2uljin

@@ -1,0 +1,1242 @@
+{"id": "P0001", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0002", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 임도 인접"}
+{"id": "P0003", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "적색 소실→회올리브, S2 담홍→회올리브, dNBR +0.24", "prev": "소각", "dnbr": 0.241, "src": "recheck-2026-09-10"}
+{"id": "P0004", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "RE 균일 적색, S2 post 갈변은 개엽", "prev": "비변화", "dnbr": 0.076, "src": "recheck-2026-09-10"}
+{"id": "P0005", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0006", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담황갈 능선, S2 pre≈post, dNBR +0.05", "prev": "비변화", "dnbr": 0.054, "src": "recheck-2026-09-10"}
+{"id": "P0007", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0008", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담회록 나지·도로, pre 에도 비식생", "prev": "비변화", "dnbr": 0.084, "src": "recheck-2026-09-10"}
+{"id": "P0009", "read": "판정불가", "grade": "", "basis": "RE", "conf": "", "note": "표본 화소가 RapidEye 영상 범위 밖"}
+{"id": "P0010", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0011", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지·도로 구획, pre≈post", "prev": "비변화", "dnbr": 0.101, "src": "recheck-2026-09-10"}
+{"id": "P0012", "read": "판정불가", "grade": "", "basis": "RE", "conf": "", "note": "표본 화소가 RapidEye 영상 범위 밖"}
+{"id": "P0013", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0014", "read": "판정불가", "grade": "", "basis": "RE", "conf": "", "note": "표본 화소가 RapidEye 영상 범위 밖"}
+{"id": "P0015", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "RE 균일 적색, 층1 과탐", "prev": "비변화", "dnbr": 0.07, "src": "recheck-2026-09-10"}
+{"id": "P0016", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "RE 균일 적색", "prev": "비변화", "dnbr": -0.009, "src": "recheck-2026-09-10"}
+{"id": "P0017", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0018", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0019", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "★변경: 적록 혼효 사면의 올리브 소반, 실제 소각면은 우하단, dNBR +0.09", "prev": "소각", "dnbr": 0.094, "src": "recheck-2026-09-10"}
+{"id": "P0020", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목", "prev": "비변화", "dnbr": 0.005, "src": "recheck-2026-09-10"}
+{"id": "P0021", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0022", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "RE 패널 좌단이나 상자 내부 적색 유효, S2 pre≈post", "prev": "비변화", "dnbr": 0.057, "src": "recheck-2026-09-10"}
+{"id": "P0023", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "담갈 임도, 주변 적색", "prev": "비변화", "dnbr": -0.029, "src": "recheck-2026-09-10"}
+{"id": "P0024", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "RE 암록, S2 적→암록, dNBR +0.51", "prev": "소각", "dnbr": 0.505, "src": "recheck-2026-09-10"}
+{"id": "P0025", "read": "판정불가", "grade": "", "basis": "RE", "conf": "", "note": "표본 화소가 RapidEye 영상 우단 밖"}
+{"id": "P0026", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "담황갈 능선, pre≈post", "prev": "비변화", "dnbr": -0.007, "src": "recheck-2026-09-10"}
+{"id": "P0027", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "상자는 도로·나지(pre 에도 밝음), 인접 소각면과 혼합화소 dNBR +0.35", "prev": "비변화", "dnbr": 0.348, "src": "recheck-2026-09-10"}
+{"id": "P0028", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 하천 인접"}
+{"id": "P0029", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0030", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "경작지·시설", "prev": "비변화", "dnbr": -0.098, "src": "recheck-2026-09-10"}
+{"id": "P0031", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목", "prev": "비변화", "dnbr": -0.013, "src": "recheck-2026-09-10"}
+{"id": "P0032", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "담올리브 능선(낙엽활엽), pre≈post — 층1 과탐", "prev": "비변화", "dnbr": -0.034, "src": "recheck-2026-09-10"}
+{"id": "P0033", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0034", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0035", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목·임도", "prev": "비변화", "dnbr": 0.007, "src": "recheck-2026-09-10"}
+{"id": "P0036", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락·경작 나지, pre 에도 담색", "prev": "비변화", "dnbr": 0.078, "src": "recheck-2026-09-10"}
+{"id": "P0037", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "채석 나지(피복 bare), pre≈post", "prev": "비변화", "dnbr": 0.132, "src": "recheck-2026-09-10"}
+{"id": "P0038", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "★변경: 촌락 인접 식생, S2 적→암회록, dNBR +0.31", "prev": "비변화", "dnbr": 0.311, "src": "recheck-2026-09-10"}
+{"id": "P0041", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0042", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "★변경: S2 적→암록 광역, RE 적색 소실, dNBR +0.34", "prev": "비변화", "dnbr": 0.343, "src": "recheck-2026-09-10"}
+{"id": "P0044", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "임도·적색 수목", "prev": "비변화", "dnbr": -0.052, "src": "recheck-2026-09-10"}
+{"id": "P0045", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0046", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0047", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "온실·시설지", "prev": "비변화", "dnbr": 0.108, "src": "recheck-2026-09-10"}
+{"id": "P0048", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0049", "read": "판정불가", "grade": "", "basis": "RE", "conf": "", "note": "표본 화소가 RapidEye 영상 범위 밖"}
+{"id": "P0050", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목", "prev": "비변화", "dnbr": 0.009, "src": "recheck-2026-09-10"}
+{"id": "P0051", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 도로 인접"}
+{"id": "P0052", "read": "소각", "grade": "중", "basis": "RE", "conf": "중", "note": "RE 에서 상자는 이웃 적색 임분 대비 담회 — 적색 소실. dNBR +0.495 는 강릉 소각 분포 안. [재검: 비변화→소각]", "src": "recheck"}
+{"id": "P0053", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "RE 암록, S2 적→암록, dNBR +0.36", "prev": "소각", "dnbr": 0.358, "src": "recheck-2026-09-10"}
+{"id": "P0054", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0056", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0057", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0058", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0059", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "암적 수목, pre≈post", "prev": "비변화", "dnbr": 0.06, "src": "recheck-2026-09-10"}
+{"id": "P0060", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "온실·시설지(피복재 반사)", "prev": "비변화", "dnbr": 0.143, "src": "recheck-2026-09-10"}
+{"id": "P0061", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "적색 소실→녹, S2 적→암록, dNBR +0.28", "prev": "소각", "dnbr": 0.277, "src": "recheck-2026-09-10"}
+{"id": "P0062", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0063", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0064", "read": "판정불가", "grade": "", "basis": "RE+S2", "conf": "상", "note": "★변경: RE 채움값 — 판정면 없음(전수 검사 src/sample_re_valid.py)", "prev": "비변화", "dnbr": 0.092, "src": "recheck-2026-09-10"}
+{"id": "P0065", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목", "prev": "비변화", "dnbr": 0.045, "src": "recheck-2026-09-10"}
+{"id": "P0067", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작 나지, post 가 오히려 밝음 — 소각 아님", "prev": "비변화", "dnbr": 0.154, "src": "recheck-2026-09-10"}
+{"id": "P0068", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "균일 녹색(적색 소실), S2 적→암록 | 재확인: dNBR +1.070 이 판정과 일치", "prev": "소각", "dnbr": 1.07, "src": "recheck-2026-09-10"}
+{"id": "P0069", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0070", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0072", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0073", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0074", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "균일 녹색(적색 소실), S2 적→암록 | 재확인: dNBR +0.922 이 판정과 일치", "prev": "소각", "dnbr": 0.922, "src": "recheck-2026-09-10"}
+{"id": "P0075", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "암청록 소각면, S2 적→암록 | 재확인: dNBR +0.833 이 판정과 일치", "prev": "소각", "dnbr": 0.833, "src": "recheck-2026-09-10"}
+{"id": "P0076", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성. RE 에서 상자는 암올리브, 아래 이웃은 적색. dNBR +0.520 (고성 소각 10~90% +0.228~+0.582) 안. [재검: 비변화→소각]", "src": "recheck"}
+{"id": "P0077", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0078", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0079", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "암록-암적 소각면, S2 적→암록 | 재확인: dNBR +0.689 이 판정과 일치", "prev": "소각", "dnbr": 0.689, "src": "recheck-2026-09-10"}
+{"id": "P0080", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "균일 녹색(적색 소실) | 재확인: dNBR +0.597 이 판정과 일치", "prev": "소각", "dnbr": 0.597, "src": "recheck-2026-09-10"}
+{"id": "P0081", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "임도 포장면, 주변 적색 | 재확인: dNBR +0.019 이 판정과 일치", "prev": "비변화", "dnbr": 0.019, "src": "recheck-2026-09-10"}
+{"id": "P0082", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "하천·도로 회랑 | 재확인: dNBR -0.022 이 판정과 일치", "prev": "비변화", "dnbr": -0.022, "src": "recheck-2026-09-10"}
+{"id": "P0083", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0084", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0085", "read": "비변화", "grade": "", "basis": "RE", "conf": "하", "note": "담갈 능선 속 암록 침엽수 추정, S2 변화 미미 / 재검: 고성 암록 임분, dNBR +0.121 은 소각 10%ile(+0.228) 아래. 비변화 유지", "src": "recheck"}
+{"id": "P0086", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "암적 식생, pre/post 담색 유지 | 재확인: dNBR +0.057 이 판정과 일치", "prev": "비변화", "dnbr": 0.057, "src": "recheck-2026-09-10"}
+{"id": "P0087", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0088", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "균일 녹색(적색 소실), S2 적→암록 | 재확인: dNBR +0.782 이 판정과 일치", "prev": "소각", "dnbr": 0.782, "src": "recheck-2026-09-10"}
+{"id": "P0090", "read": "판정불가", "grade": "", "basis": "RE", "conf": "", "note": "표본 화소가 RapidEye 영상 범위 밖"}
+{"id": "P0091", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0092", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0093", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담갈 나지, pre/post 동일 | 재확인: dNBR -0.008 이 판정과 일치", "prev": "비변화", "dnbr": -0.008, "src": "recheck-2026-09-10"}
+{"id": "P0094", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "임도·적색 수목", "prev": "비변화", "dnbr": 0.091, "src": "recheck-2026-09-10"}
+{"id": "P0095", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0097", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0098", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0100", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "암청록 소각면, S2 적→암록 | 재확인: dNBR +0.809 이 판정과 일치", "prev": "소각", "dnbr": 0.809, "src": "recheck-2026-09-10"}
+{"id": "P0101", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담청 시설·도로대 | 재확인: dNBR +0.062 이 판정과 일치", "prev": "비변화", "dnbr": 0.062, "src": "recheck-2026-09-10"}
+{"id": "P0102", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0103", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적홍 식생(패널 상단), pre≈post", "prev": "비변화", "dnbr": 0.073, "src": "recheck-2026-09-10"}
+{"id": "P0104", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0105", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0106", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0107", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "RE 적색 식생 | 재확인: dNBR +0.057 이 판정과 일치", "prev": "비변화", "dnbr": 0.057, "src": "recheck-2026-09-10"}
+{"id": "P0108", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0109", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "암청록 소각면, S2 적→암록 | 재확인: dNBR +0.588 이 판정과 일치", "prev": "소각", "dnbr": 0.588, "src": "recheck-2026-09-10"}
+{"id": "P0110", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0112", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0113", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "온실·시설지 | 재확인: dNBR +0.178 이 판정과 일치", "prev": "비변화", "dnbr": 0.178, "src": "recheck-2026-09-10"}
+{"id": "P0114", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0115", "read": "판정불가", "grade": "", "basis": "RE", "conf": "", "note": "표본 화소가 RapidEye 영상 범위 밖"}
+{"id": "P0116", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0117", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0118", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0119", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0120", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담갈 도로·경작지 | 재확인: dNBR +0.077 이 판정과 일치", "prev": "비변화", "dnbr": 0.077, "src": "recheck-2026-09-10"}
+{"id": "P0121", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0122", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0123", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0124", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0125", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "담올리브 계단지, S2 적→암록 | 재확인: dNBR +0.604 이 판정과 일치", "prev": "소각", "dnbr": 0.604, "src": "recheck-2026-09-10"}
+{"id": "P0126", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 식생·촌락 경계 | 재확인: dNBR +0.004 이 판정과 일치", "prev": "비변화", "dnbr": 0.004, "src": "recheck-2026-09-10"}
+{"id": "P0128", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0129", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "RE 적색 식생 | 재확인: dNBR +0.015 이 판정과 일치", "prev": "비변화", "dnbr": 0.015, "src": "recheck-2026-09-10"}
+{"id": "P0130", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0131", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0132", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0133", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 수목(영상 하단) | 재확인: dNBR +0.082 이 판정과 일치", "prev": "비변화", "dnbr": 0.082, "src": "recheck-2026-09-10"}
+{"id": "P0134", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0135", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0136", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0138", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0139", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0140", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0141", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "★변경: 경작지·도로대, 소각면은 상단 산림, dNBR +0.09", "prev": "소각", "dnbr": 0.093, "src": "recheck-2026-09-10"}
+{"id": "P0142", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0143", "read": "비변화", "grade": "", "basis": "RE", "conf": "하", "note": "담홍 능선대, 소각면은 우하단 / 재검: 고성 담회적 능선, 주변은 녹화됐으나 상자는 적색 유지. 비변화 유지", "src": "recheck"}
+{"id": "P0144", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0145", "read": "판정불가", "grade": "", "basis": "RE", "conf": "", "note": "표본 화소가 RapidEye 영상 범위 밖"}
+{"id": "P0146", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "담청 나지(채석·하상), 피복도 bare | 재확인: dNBR +0.058 이 판정과 일치", "prev": "비변화", "dnbr": 0.058, "src": "recheck-2026-09-10"}
+{"id": "P0147", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0148", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담갈 능선·나지 | 재확인: dNBR +0.019 이 판정과 일치", "prev": "비변화", "dnbr": 0.019, "src": "recheck-2026-09-10"}
+{"id": "P0149", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0150", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0151", "read": "판정불가", "grade": "", "basis": "RE", "conf": "", "note": "표본 화소가 RapidEye 영상 하단 밖"}
+{"id": "P0152", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담홍 나지, pre/post 동일 | 재확인: dNBR -0.197 이 판정과 일치", "prev": "비변화", "dnbr": -0.197, "src": "recheck-2026-09-10"}
+{"id": "P0153", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0154", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락·도로·저수지 인접 | 재확인: dNBR +0.004 이 판정과 일치", "prev": "비변화", "dnbr": 0.004, "src": "recheck-2026-09-10"}
+{"id": "P0155", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0156", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "하상 담색대 | 재확인: dNBR +0.026 이 판정과 일치", "prev": "비변화", "dnbr": 0.026, "src": "recheck-2026-09-10"}
+{"id": "P0157", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0158", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0159", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0160", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지 모자이크, pre/post 동일 | 재확인: dNBR +0.055 이 판정과 일치", "prev": "비변화", "dnbr": 0.055, "src": "recheck-2026-09-10"}
+{"id": "P0161", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담갈 능선대 | 재확인: dNBR -0.025 이 판정과 일치", "prev": "비변화", "dnbr": -0.025, "src": "recheck-2026-09-10"}
+{"id": "P0162", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0163", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0164", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0165", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0167", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "RE 적색 식생 | 재확인: dNBR +0.027 이 판정과 일치", "prev": "비변화", "dnbr": 0.027, "src": "recheck-2026-09-10"}
+{"id": "P0169", "read": "소각", "grade": "중", "basis": "RE", "conf": "중", "note": "RE 담회면이 적색 임분 사이에 박혀 있음, dNBR +0.541. [재검: 비변화→소각]", "src": "recheck"}
+{"id": "P0170", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락·경작지 | 재확인: dNBR +0.041 이 판정과 일치", "prev": "비변화", "dnbr": 0.041, "src": "recheck-2026-09-10"}
+{"id": "P0171", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0172", "read": "판정불가", "grade": "", "basis": "RE", "conf": "", "note": "표본 화소가 RapidEye 영상 범위 밖"}
+{"id": "P0173", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0174", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담갈 나지·능선 | 재확인: dNBR +0.083 이 판정과 일치", "prev": "비변화", "dnbr": 0.083, "src": "recheck-2026-09-10"}
+{"id": "P0175", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "경작 구획 밝아짐 — 재(灰)와 경운을 못 가름, dNBR +0.21", "prev": "비변화", "dnbr": 0.208, "src": "recheck-2026-09-10"}
+{"id": "P0176", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0177", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담갈올리브 능선 | 재확인: dNBR +0.001 이 판정과 일치", "prev": "비변화", "dnbr": 0.001, "src": "recheck-2026-09-10"}
+{"id": "P0178", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0179", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락·경작지 | 재확인: dNBR -0.024 이 판정과 일치", "prev": "비변화", "dnbr": -0.024, "src": "recheck-2026-09-10"}
+{"id": "P0180", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "담올리브 능선, 주변 적색 | 재확인: dNBR -0.011 이 판정과 일치", "prev": "비변화", "dnbr": -0.011, "src": "recheck-2026-09-10"}
+{"id": "P0181", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0182", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 밖)"}
+{"id": "P0183", "read": "소각", "grade": "경", "basis": "RE+S2", "conf": "중", "note": "적색 소실→담녹, S2 post 광역 암록, dNBR +0.20", "prev": "소각", "dnbr": 0.195, "src": "recheck-2026-09-10"}
+{"id": "P0184", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "시가지·도로, pre=post"}
+{"id": "P0185", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0187", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, post 오히려 적색 증가"}
+{"id": "P0188", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "임도 가장자리, pre=post 적색"}
+{"id": "P0189", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0190", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(RE 패널 비어 있음)"}
+{"id": "P0191", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 계곡부"}
+{"id": "P0192", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0193", "read": "비변화", "grade": "", "basis": "RE", "conf": "상", "note": "적색 수목, S2 는 스트레치 차이"}
+{"id": "P0195", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "해안 적색 수목, S2 pre/post 색차는 스트레치 탓 | 재확인: dNBR +0.065 이 판정과 일치", "prev": "비변화", "dnbr": 0.065, "src": "recheck-2026-09-10"}
+{"id": "P0196", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지·능선 균일 녹회색, 적색 완전 소실"}
+{"id": "P0197", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회-담황 능선(활엽 落葉/초지로 보임), S2 안팎 동일 | 재확인: dNBR -0.033 이 판정과 일치", "prev": "비변화", "dnbr": -0.033, "src": "recheck-2026-09-10"}
+{"id": "P0198", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황 계곡·능선, 주변 적색 대비 색조만 다름 | 재확인: dNBR -0.020 이 판정과 일치", "prev": "비변화", "dnbr": -0.02, "src": "recheck-2026-09-10"}
+{"id": "P0199", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 세곡선"}
+{"id": "P0200", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 수목, S2 색차는 스트레치·운영향 | 재확인: dNBR -0.044 이 판정과 일치", "prev": "비변화", "dnbr": -0.044, "src": "recheck-2026-09-10"}
+{"id": "P0201", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 계곡 그늘"}
+{"id": "P0203", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0204", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "하천 자갈·도로, pre=post"}
+{"id": "P0205", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0206", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "고성 능선 회녹, S2 적색→암록 광역"}
+{"id": "P0207", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0208", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "시가지, pre=post"}
+{"id": "P0209", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0210", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "해안 적색 수목, S2 post 밝아짐=개엽"}
+{"id": "P0211", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 밖)"}
+{"id": "P0212", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 임도 인접"}
+{"id": "P0213", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 밖)"}
+{"id": "P0214", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0215", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 하천변"}
+{"id": "P0216", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "적색/녹회색 경계 상단, S2 적색→암록"}
+{"id": "P0217", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 경작지·하천, pre=post 청록"}
+{"id": "P0218", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0219", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 임도 인접"}
+{"id": "P0220", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "중", "note": "고성 사면 균일 암록, 주변 담황 능선, S2 post 어두워짐"}
+{"id": "P0221", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0222", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 밖) — S2 는 소각으로 보이나 근거 없음"}
+{"id": "P0223", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 나지·시설 담백, pre=post"}
+{"id": "P0224", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0225", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "초지 암록 소반, 주변 적색, S2 적색→녹"}
+{"id": "P0226", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0227", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0228", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0229", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 하천 인접"}
+{"id": "P0230", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, S2 post 개엽"}
+{"id": "P0232", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "담적 수목, 계곡"}
+{"id": "P0233", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 적색 수목"}
+{"id": "P0234", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0235", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 밖)"}
+{"id": "P0236", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 계곡 그늘"}
+{"id": "P0237", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 적색 수목, 주변 담황 능선"}
+{"id": "P0238", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 적색 수목, 도로 인접"}
+{"id": "P0239", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0240", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 시가지·도로, pre=post"}
+{"id": "P0241", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, S2 post 개엽"}
+{"id": "P0242", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0243", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 수목, 상단에 소각 영역 있으나 상자는 적색 유지"}
+{"id": "P0244", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 진적색 수목"}
+{"id": "P0245", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 적색 수목, 임도"}
+{"id": "P0246", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0247", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지·농로 담회녹, pre=post"}
+{"id": "P0248", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0249", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, S2 post 개엽"}
+{"id": "P0250", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 능선 담갈회 나지·초지, pre=post"}
+{"id": "P0251", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0252", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색 수목"}
+{"id": "P0253", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 탁적(그늘·박무), pre=post"}
+{"id": "P0254", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 밖)"}
+{"id": "P0255", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0257", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담회녹 소반, S2 적색→녹회"}
+{"id": "P0258", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 녹, S2 적색→암록"}
+{"id": "P0260", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0261", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담갈회 능선, pre=post"}
+{"id": "P0263", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 수목+소류지 가장자리, pre=post"}
+{"id": "P0264", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0265", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "진적색 수목, 인접 담회녹 띠는 상자 밖"}
+{"id": "P0266", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "해안 적색 수목"}
+{"id": "P0267", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0269", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 임도"}
+{"id": "P0270", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0271", "read": "판정불가", "grade": "", "basis": "RE+S2", "conf": "중", "note": "RE·S2 post 모두 구름"}
+{"id": "P0272", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 경작지·나지, S2 pre 에도 밝음(오래된 나대지) — 주변은 소각"}
+{"id": "P0273", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0275", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0277", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0278", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 하천변 담적·나지 경계, pre=post"}
+{"id": "P0279", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 하천 인접"}
+{"id": "P0280", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면(적색 소실), S2 밝은 분홍→어두운 적"}
+{"id": "P0281", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0282", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, S2 pre=post"}
+{"id": "P0283", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0284", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0285", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 임도 인접"}
+{"id": "P0286", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목"}
+{"id": "P0287", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0288", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "초지·도로변 적색, pre=post"}
+{"id": "P0289", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 사면, pre=post"}
+{"id": "P0290", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0291", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0292", "read": "비변화", "grade": "", "basis": "RE", "conf": "중", "note": "상자는 선명 적색, 상하 인접부는 소각 — 경계"}
+{"id": "P0293", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0294", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담회녹 소반, S2 적색→암록"}
+{"id": "P0295", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "적색/암록 경계 화소, S2 post 암록"}
+{"id": "P0296", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "경작지 담회갈, pre 에도 밝음 — 주변은 소각"}
+{"id": "P0297", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 밖)"}
+{"id": "P0298", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0300", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 임도·능선 담회, pre=post"}
+{"id": "P0301", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0303", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0304", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 청록-암록, S2 적색→암록"}
+{"id": "P0305", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "촌락·나지 밝은 소각면, S2 적→회녹 광역"}
+{"id": "P0306", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 하천변 나지 담회갈, pre=post"}
+{"id": "P0307", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 해안 사면 회녹, S2 적→어두운 적녹"}
+{"id": "P0308", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 사면 그늘"}
+{"id": "P0309", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0310", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0311", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 시가지, pre=post"}
+{"id": "P0312", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 담적 수목, 하천 인접"}
+{"id": "P0313", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 도로변, pre=post"}
+{"id": "P0314", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0315", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0316", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 하천 인접"}
+{"id": "P0317", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 사면 그늘"}
+{"id": "P0318", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0319", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 임도 인접"}
+{"id": "P0320", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 능선(적색 소실), S2 밝은 분홍→어두운 적"}
+{"id": "P0321", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0322", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 능선 담회 나지, pre=post"}
+{"id": "P0323", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0324", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0326", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0327", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 오른쪽 밖)"}
+{"id": "P0328", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회적 수목, pre=post"}
+{"id": "P0329", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목, 하천 인접"}
+{"id": "P0330", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 계곡"}
+{"id": "P0331", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "암록/적색 경계 화소, S2 post 암록"}
+{"id": "P0332", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "진적색 수목"}
+{"id": "P0333", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0334", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0335", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "진적색 수목, 경작지 인접"}
+{"id": "P0336", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0337", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0338", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0339", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담적 수목"}
+{"id": "P0340", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담올리브 능선(계절색). dNBR -0.022 로 안 탄 분포 한가운데 — '어둡다'를 소각으로 읽은 건. [재검: 소각→비변화]", "src": "recheck"}
+{"id": "P0341", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 나지·붕괴사면 담회백, pre=post"}
+{"id": "P0342", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락·경작지 담녹회, pre=post"}
+{"id": "P0343", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 계곡"}
+{"id": "P0344", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0345", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 능선"}
+{"id": "P0346", "read": "벌채·개간", "grade": "", "basis": "RE+S2", "conf": "중", "note": "임도로 둘러싸인 기하학적 담녹회 구역, 자연색 분홍갈 나지"}
+{"id": "P0347", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "해안 하구 모래·수역, pre=post"}
+{"id": "P0348", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 경작지·초지 담황갈, pre=post"}
+{"id": "P0349", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 적색 수목, 인접 나지 확장은 상자 밖"}
+{"id": "P0350", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 사면, pre≈post, dNBR -0.002. [재검: 소각→비변화]", "src": "recheck"}
+{"id": "P0351", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0352", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목"}
+{"id": "P0353", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 시가지 공터, pre=post"}
+{"id": "P0354", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "양양 초지 담황갈(밝은 소각면), S2 어두운 적→담황갈"}
+{"id": "P0355", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "상자는 적색 우세, 주변에 소각 혼재"}
+{"id": "P0356", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0357", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 적색 수목, 임도 인접"}
+{"id": "P0358", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목"}
+{"id": "P0359", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목, 하천 인접"}
+{"id": "P0360", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0361", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 도로·건물, pre=post"}
+{"id": "P0362", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 시가지·시설, pre=post"}
+{"id": "P0363", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "하천 자갈·도로 담회갈, pre=post"}
+{"id": "P0364", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0365", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 사면 암갈적(적색 감소), S2 진적→어두운 적갈"}
+{"id": "P0366", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0367", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 경작지 나지, pre 짙은 녹→post 담청은 경작"}
+{"id": "P0368", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 진적색 수목, 도로 인접"}
+{"id": "P0369", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지·논 담회녹, pre=post"}
+{"id": "P0370", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담회녹 광역, S2 담갈적→암록"}
+{"id": "P0371", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0372", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 적색 수목"}
+{"id": "P0373", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 계곡"}
+{"id": "P0374", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0375", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0376", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 진적색 수목, 상단 담황녹은 상자 밖"}
+{"id": "P0377", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0378", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0379", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "중", "note": "고성 사면 균일 암록, S2 밝은 분홍→어두운 적"}
+{"id": "P0380", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "암록/적색 경계 화소, S2 post 어두워짐"}
+{"id": "P0381", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0382", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 해안 인접"}
+{"id": "P0383", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0384", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0385", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0386", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0387", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0388", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0389", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, S2 post 개엽"}
+{"id": "P0390", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0391", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담회갈 광역(적색 소실), S2 담적갈→암록"}
+{"id": "P0392", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "계곡 그늘 암적, pre=post"}
+{"id": "P0393", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 임도 담회갈, pre=post"}
+{"id": "P0394", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 능선 담회갈(적색 소실), S2 적→청록 광역"}
+{"id": "P0395", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0396", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 하천 인접"}
+{"id": "P0397", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 경작지 담회녹, S2 적→짙은 녹 광역"}
+{"id": "P0398", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 수목, 하천 자갈 인접"}
+{"id": "P0399", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 촌락 인접"}
+{"id": "P0400", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 시설·건물, pre=post"}
+{"id": "P0401", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0402", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 도로변 담회, pre=post"}
+{"id": "P0403", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 경작지 담회녹, pre=post"}
+{"id": "P0404", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 밖)"}
+{"id": "P0405", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 시설·건물 지붕, pre=post"}
+{"id": "P0406", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "암록 우세(적색 조각 혼재), S2 어두운 적→짙은 녹"}
+{"id": "P0407", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 경작지 암록회, S2 적→짙은 녹 광역"}
+{"id": "P0408", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0409", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0410", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0411", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0412", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0413", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "사면 담회녹, 주변 암록, S2 적색→암록"}
+{"id": "P0414", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 임도 인접"}
+{"id": "P0415", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목"}
+{"id": "P0416", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0417", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0418", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0419", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0420", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락·도로 담회백, pre=post"}
+{"id": "P0421", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0422", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 나지·시설, pre 에도 밝음 — 주변은 소각"}
+{"id": "P0423", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0424", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 경작지, pre 에도 청록 — 주변은 소각"}
+{"id": "P0425", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "양양 초지 담황녹(밝은 소각면), S2 적→황록"}
+{"id": "P0426", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 사면 담회녹, S2 분홍적→어두운 적"}
+{"id": "P0427", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 임도변 담적회, pre=post"}
+{"id": "P0428", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0429", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0430", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 밖)"}
+{"id": "P0431", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0432", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0433", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 구름 인접하나 상자는 맑음"}
+{"id": "P0434", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 임도·능선 담회적, pre=post"}
+{"id": "P0435", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0436", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담적 수목"}
+{"id": "P0437", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "상자는 적색, 인접 녹색 소반은 상자 밖"}
+{"id": "P0438", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0439", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0440", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 사면, pre=post"}
+{"id": "P0441", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0442", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0443", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0444", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0445", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0446", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 능선, pre=post"}
+{"id": "P0447", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0448", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0449", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 진적색 수목"}
+{"id": "P0450", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0451", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지 담회갈, pre 에도 담색"}
+{"id": "P0452", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0453", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0454", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0455", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "적색/암록 경계 화소, S2 post 담갈녹"}
+{"id": "P0456", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0457", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 경작지·도로, pre 에도 밝음 — 주변은 소각"}
+{"id": "P0458", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0459", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0460", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 사면 그늘"}
+{"id": "P0461", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담녹회 광역(경작지 혼재), S2 적→암록"}
+{"id": "P0462", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0463", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "경작지 담녹회, S2 담갈→짙은 녹"}
+{"id": "P0464", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0465", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0466", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 임도 인접"}
+{"id": "P0467", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0468", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0469", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 도로 인접"}
+{"id": "P0470", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0471", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0472", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "나지·건물 밝음(pre 에도 밝음)+적색 혼재, 주변은 소각 / 재검: 상자는 pre 에도 밝은 나지(백색 반점), S2 post 화소도 담색 유지 — dNBR +0.338 이나 소각 10%ile 아래. 비변화 유지", "src": "recheck"}
+{"id": "P0473", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0474", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 계곡"}
+{"id": "P0475", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0476", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0477", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0478", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 계단식 경작지 담적황, pre=post"}
+{"id": "P0479", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 시가지, pre=post"}
+{"id": "P0480", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0481", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "암록 소반(적색 인접), S2 적→담갈·암록"}
+{"id": "P0482", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 왼쪽 밖)"}
+{"id": "P0483", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락 옆 경작지 암록, pre=post"}
+{"id": "P0484", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0485", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0486", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0487", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0488", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0489", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0490", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락·도로변 담회적, pre=post"}
+{"id": "P0491", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 도로·나지 담회, pre=post"}
+{"id": "P0492", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0493", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0494", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0495", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0496", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "상자는 적색 유지, 좌우 인접부는 소각"}
+{"id": "P0497", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0498", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0499", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0500", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 도로 사이 사면 담적회, pre=post"}
+{"id": "P0501", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 경작지·도로 담회녹, pre=post"}
+{"id": "P0502", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0503", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0504", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담적 수목"}
+{"id": "P0505", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0506", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0507", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 사면 담적회(적색 감소), S2 진적→암록 광역"}
+{"id": "P0508", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0509", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목, 하천 인접"}
+{"id": "P0510", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0511", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0512", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "도로 위 암록, S2 적→담녹회"}
+{"id": "P0513", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 사면 암록, S2 밝은 분홍→어두운 적갈"}
+{"id": "P0514", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0515", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0516", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "균일 암록, S2 적색→암록"}
+{"id": "P0517", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담회녹 사면, S2 담갈→짙은 녹"}
+{"id": "P0518", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "암록/적색 경계 화소, S2 post 담회녹"}
+{"id": "P0519", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0520", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 사면 암록, S2 적→짙은 녹 광역"}
+{"id": "P0521", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 경작지 담회녹, S2 적→짙은 녹"}
+{"id": "P0522", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0523", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0524", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0525", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 사면 암적갈, S2 진적→어두운 적·청록 광역"}
+{"id": "P0526", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0527", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0528", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "임도·능선 나지 담회, pre=post"}
+{"id": "P0529", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "상자는 적색 띠, 주변 암록은 상자 밖"}
+{"id": "P0530", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0531", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0532", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목, 하천 인접"}
+{"id": "P0533", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0534", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 도로·하천, pre=post"}
+{"id": "P0535", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0536", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0537", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목, 하천 인접"}
+{"id": "P0538", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0539", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 사면 암록, S2 적→짙은 녹 광역"}
+{"id": "P0540", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0541", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0542", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0543", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 하천·도로 담회, pre=post"}
+{"id": "P0544", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0545", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0546", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 임도 담회, pre=post"}
+{"id": "P0547", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0548", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0549", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0550", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0551", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "양양 초지 담황녹(밝은 소각면), S2 적→담황녹"}
+{"id": "P0552", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0553", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "촌락·나지 담회백(pre 에도 밝음), 주변에 변화 혼재"}
+{"id": "P0554", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0555", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 임도 인접"}
+{"id": "P0556", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 하천 자갈·나지, pre 에도 밝음"}
+{"id": "P0557", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목, 임도 인접"}
+{"id": "P0558", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담회녹 사면, S2 담갈적→담회녹 광역"}
+{"id": "P0559", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0560", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0561", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목, 시가지 인접"}
+{"id": "P0562", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0563", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0564", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0565", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0566", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 나지·사면 담회백, pre=post"}
+{"id": "P0567", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0568", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0569", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목"}
+{"id": "P0570", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, S2 post 개엽"}
+{"id": "P0571", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "양양 초지 담황녹(밝은 소각면), S2 적→담황녹"}
+{"id": "P0572", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0573", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 경작지 담청록, pre=post"}
+{"id": "P0574", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 도로·나지 담회백, pre=post"}
+{"id": "P0575", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0576", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0577", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0578", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, S2 post 개엽"}
+{"id": "P0579", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담회녹 사면(적색 소실), S2 담적→짙은 녹"}
+{"id": "P0580", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 경작지 담회녹, S2 적→짙은 녹 광역"}
+{"id": "P0581", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 나지 인접"}
+{"id": "P0582", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "상자는 적색 띠, 주변 암록은 상자 밖"}
+{"id": "P0583", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0584", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0585", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0586", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0587", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담회녹 사면(적색 혼재), S2 담갈적→담회녹"}
+{"id": "P0588", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0589", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0590", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회적 사면, pre=post"}
+{"id": "P0591", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0592", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회녹 사면, pre=post"}
+{"id": "P0593", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 소류지 인접"}
+{"id": "P0594", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0595", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0596", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0597", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0598", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 수목, 상자가 RE 왼쪽 가장자리"}
+{"id": "P0599", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0600", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담적회 사면, S2 상자는 pre=post"}
+{"id": "P0601", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 하천 인접"}
+{"id": "P0602", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0603", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지 암록(논), pre 에도 암록 — 주변 적색 밭 온전"}
+{"id": "P0604", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 오른쪽 밖)"}
+{"id": "P0605", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목, 시가지 인접"}
+{"id": "P0606", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0607", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "해안 적색 수목, S2 post 개엽"}
+{"id": "P0608", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지 경계·도로 담회녹, pre=post"}
+{"id": "P0609", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0610", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 임도·사면 담회갈, pre=post"}
+{"id": "P0611", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0612", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "임도·나지 담회, pre=post"}
+{"id": "P0613", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0614", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 사면·경작지 담회녹, S2 담갈적→짙은 녹"}
+{"id": "P0615", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0616", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0617", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 촌락 인접"}
+{"id": "P0618", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, 하천 인접, pre=post"}
+{"id": "P0619", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0620", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0621", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 아래쪽 밖)"}
+{"id": "P0622", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0623", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0624", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0625", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0626", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0627", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 계곡"}
+{"id": "P0628", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목, 하천 인접"}
+{"id": "P0629", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0630", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0631", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 진적색 수목, 계곡"}
+{"id": "P0632", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 도로·나지 담회, pre=post"}
+{"id": "P0633", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0634", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 하천변 담갈적 사면, pre=post"}
+{"id": "P0635", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 하천·경작지 담회백, pre 에도 밝음"}
+{"id": "P0636", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "고성 담회갈 사면, S2 분홍→어두운 적갈(약함)"}
+{"id": "P0637", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지 경계·도로 담청록, pre=post"}
+{"id": "P0638", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 사면 나지 담회갈, pre=post"}
+{"id": "P0639", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0640", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담회녹 사면, S2 담적→담회녹"}
+{"id": "P0641", "read": "비변화", "grade": "", "basis": "RE", "conf": "중", "note": "적색 수목, S2 post 구름"}
+{"id": "P0642", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "암록 소반(적색 고리 안), S2 적→담갈녹"}
+{"id": "P0643", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목·초지"}
+{"id": "P0644", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0645", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "상자는 적색 밭, 주변 암록은 상자 밖"}
+{"id": "P0646", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 논·저수지 담청록, pre=post"}
+{"id": "P0647", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0648", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지 담회녹, pre=post"}
+{"id": "P0649", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 아래쪽 밖)"}
+{"id": "P0650", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0651", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 임도변 담회갈, pre=post"}
+{"id": "P0652", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0653", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0654", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0655", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지·도로 담회녹, pre=post"}
+{"id": "P0656", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "임도 담적회, pre=post"}
+{"id": "P0657", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0658", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목, 임도 인접"}
+{"id": "P0659", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0660", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 촌락 인접"}
+{"id": "P0661", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0662", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0663", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0664", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0665", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 임도 담회갈, pre=post"}
+{"id": "P0666", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "해안 적색 수목"}
+{"id": "P0667", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "소형 나지·건물 담회백, pre=post"}
+{"id": "P0668", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 담분홍 초지·경작지, pre 에도 밝음"}
+{"id": "P0669", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 경작지 담적회, 상자는 pre=post"}
+{"id": "P0670", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "하천 자갈·모래 담청백, pre=post"}
+{"id": "P0671", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 아래쪽 밖)"}
+{"id": "P0672", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0673", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목, 도로 인접"}
+{"id": "P0674", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목"}
+{"id": "P0675", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "상자는 적색, 인접 녹색부는 상자 밖"}
+{"id": "P0676", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 도로·시가지 담회백, pre=post"}
+{"id": "P0677", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 오른쪽 밖)"}
+{"id": "P0678", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 진적색 수목"}
+{"id": "P0679", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목"}
+{"id": "P0680", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "임도·나지 담회, pre=post"}
+{"id": "P0681", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0682", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 하천·도로 담회, pre=post"}
+{"id": "P0683", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 진적색 경작지, pre=post"}
+{"id": "P0684", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "촌락 주변 담회녹, S2 담갈→짙은 녹 광역"}
+{"id": "P0685", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0686", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0687", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0688", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 올리브 능선, pre≈post, dNBR +0.011. [재검: 소각→비변화]", "src": "recheck"}
+{"id": "P0689", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 수목, 구름 인접"}
+{"id": "P0690", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목, 하천 인접"}
+{"id": "P0691", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 임도 담회갈, pre=post"}
+{"id": "P0692", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "고성 담회갈 사면, S2 어두워짐 미미 — 경계 사례"}
+{"id": "P0693", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0694", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0695", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0696", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "암록/적색 경계 화소, S2 post 어두운 녹"}
+{"id": "P0697", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0698", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "도로·그늘 어두운 회적, 주변 진적 온전"}
+{"id": "P0699", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0700", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목, 하천 인접"}
+{"id": "P0701", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0702", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0703", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "해안 적색 수목"}
+{"id": "P0704", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 아래쪽 밖)"}
+{"id": "P0705", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 암록, S2 적색→암록"}
+{"id": "P0706", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0707", "read": "판정불가", "grade": "", "basis": "RE+S2", "conf": "중", "note": "RE·S2 post 구름"}
+{"id": "P0708", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0709", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0710", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 아래쪽 밖)"}
+{"id": "P0711", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목"}
+{"id": "P0712", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0713", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0714", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0715", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 도로변 담회녹, S2 적→짙은 녹 광역"}
+{"id": "P0716", "read": "판정불가", "grade": "", "basis": "RE+S2", "conf": "상", "note": "RE·S2 post 구름"}
+{"id": "P0717", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 촌락·경작지 담회녹, S2 적→짙은 녹 광역"}
+{"id": "P0718", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0719", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0720", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0721", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 임도 담회, pre=post"}
+{"id": "P0722", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 하천·나지, pre 에도 밝음 — 주변은 소각"}
+{"id": "P0723", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목, 하천 인접"}
+{"id": "P0724", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0725", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0726", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 하천 담청, pre=post"}
+{"id": "P0727", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0728", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 해안 인접"}
+{"id": "P0729", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 암록, S2 적색→암록"}
+{"id": "P0730", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0731", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0732", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 경작지 암록, S2 적→짙은 녹 광역"}
+{"id": "P0733", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 아래쪽 밖)"}
+{"id": "P0734", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "하천변 암갈 나지, pre=post"}
+{"id": "P0735", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0736", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0737", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0738", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 나지 담회백, pre=post"}
+{"id": "P0739", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 나지·도로, pre 에도 밝음 — 주변은 소각"}
+{"id": "P0740", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0741", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목"}
+{"id": "P0742", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0743", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0744", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0745", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 왼쪽 밖)"}
+{"id": "P0746", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "촌락·농로 담청록(pre 에도 밝음), 주변에 소각 혼재 / 재검: dNBR +0.088 은 안 탄 분포 p95(+0.086) 바로 위, 사실상 귀무. 비변화 유지", "src": "recheck"}
+{"id": "P0747", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0748", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "시가지·경작지 담회녹, pre=post"}
+{"id": "P0749", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목"}
+{"id": "P0750", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0751", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 하천 인접"}
+{"id": "P0752", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0753", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0754", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목, 임도 인접"}
+{"id": "P0755", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지·도로 담회녹, pre=post"}
+{"id": "P0756", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "초지 담회녹, S2 적색→암록"}
+{"id": "P0757", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0758", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 촌락 인접"}
+{"id": "P0759", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 사면 경작지 담적회, S2 진적→짙은 녹 광역"}
+{"id": "P0760", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목, 하천 인접"}
+{"id": "P0761", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0762", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담회녹 사면, S2 담적→어두운 녹"}
+{"id": "P0763", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 도로·하천 담청록, pre=post"}
+{"id": "P0764", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지 담회녹, pre=post"}
+{"id": "P0765", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0766", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 능선 초지·나지, pre 에도 밝음 — 주변은 소각"}
+{"id": "P0767", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0768", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0769", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 임도·사면 담회갈, pre=post"}
+{"id": "P0770", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0771", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 사면 담회녹, S2 분홍적→어두운 녹 광역"}
+{"id": "P0772", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0773", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "양양 초지 담황녹(밝은 소각면), S2 어두운 적→담황녹"}
+{"id": "P0774", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 오른쪽 밖)"}
+{"id": "P0775", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 해안 모래·나지, pre=post"}
+{"id": "P0776", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 진적색 수목"}
+{"id": "P0777", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0778", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0779", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0780", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 담적 수목·소형 나지, pre=post"}
+{"id": "P0781", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "양양 초지/적색 경계 화소, S2 post 담황녹"}
+{"id": "P0782", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "임도·나지 담회, pre=post"}
+{"id": "P0783", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 도로 인접"}
+{"id": "P0784", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0785", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0786", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0787", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "고성 사면 암록, S2 적→짙은 녹(상자 뚜렷)"}
+{"id": "P0788", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 암적 사면, pre=post"}
+{"id": "P0789", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0790", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0791", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0792", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0793", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0794", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0795", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "해안 모래·석호 가장자리, pre=post"}
+{"id": "P0796", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "상자는 적색 능선, 주변 암록은 상자 밖"}
+{"id": "P0797", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0798", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 임도 위"}
+{"id": "P0799", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0800", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0801", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0802", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 사면, pre=post"}
+{"id": "P0803", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "암록 광역, S2 적색→암록"}
+{"id": "P0804", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "진적색 수목, S2 post 개엽"}
+{"id": "P0805", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0806", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 하천변 나지 담적회, pre=post"}
+{"id": "P0807", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "하천·나지 담회백, pre=post"}
+{"id": "P0808", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0809", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "시가지·시설, pre=post"}
+{"id": "P0810", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0811", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0812", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "상자는 적색, 주변 녹회는 상자 밖"}
+{"id": "P0813", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0814", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 계곡"}
+{"id": "P0815", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락·도로 담회녹, pre=post"}
+{"id": "P0816", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "초지·밭 담회녹, S2 담갈→담회녹 광역"}
+{"id": "P0817", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 임도 인접"}
+{"id": "P0818", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0819", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "임도 담회, pre=post"}
+{"id": "P0820", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 도로 인접"}
+{"id": "P0821", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0822", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0823", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 사면·임도 담회갈, pre=post"}
+{"id": "P0824", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0825", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0826", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0827", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 경작지 경계 담회녹, S2 담적→담녹회"}
+{"id": "P0828", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 수역, pre=post"}
+{"id": "P0829", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0830", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0831", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, S2 분홍→어두운 갈녹"}
+{"id": "P0832", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0833", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0834", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0835", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0836", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 경작지 담회백, pre=post"}
+{"id": "P0837", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0838", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0839", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 도로·나지변 담분홍, pre=post"}
+{"id": "P0840", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 도로·시가지, pre=post"}
+{"id": "P0841", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0842", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0843", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "적색 사이 담녹회, S2 담적→담갈녹"}
+{"id": "P0844", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "균일 암록, S2 적색→암록"}
+{"id": "P0845", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 능선 초지 담분홍, pre 에도 밝음"}
+{"id": "P0846", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 진적색 수목"}
+{"id": "P0847", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0848", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "진적색 수목, 주변 담회녹은 상자 밖"}
+{"id": "P0849", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 암적 사면, pre=post"}
+{"id": "P0850", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0851", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 진적색 수목"}
+{"id": "P0852", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "해안 초지 담회녹, S2 적→암록 광역"}
+{"id": "P0853", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0854", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 해안 진적색 수목"}
+{"id": "P0855", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0856", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 진적색 수목"}
+{"id": "P0857", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 도로·하천 담회, pre=post"}
+{"id": "P0858", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 임도 담적회, pre=post"}
+{"id": "P0859", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "나지·도로 담회청, pre=post"}
+{"id": "P0860", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "상자는 적색, 주변 담회녹 조각은 상자 밖"}
+{"id": "P0861", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0862", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "초지·밭 담녹회, S2 적→담녹회"}
+{"id": "P0863", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 진적색 수목"}
+{"id": "P0864", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 도로 담회, pre=post"}
+{"id": "P0865", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0866", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0867", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0868", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 임도변 담분홍적, pre=post"}
+{"id": "P0869", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "밭·도로 담회녹, S2 상자는 pre=post"}
+{"id": "P0870", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0871", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목, 하천 인접"}
+{"id": "P0872", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0873", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "상자는 적색 띠, 주변 암록은 상자 밖"}
+{"id": "P0874", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0875", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 능선, pre≈post, dNBR +0.026. [재검: 소각→비변화]", "src": "recheck"}
+{"id": "P0876", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 경작지 암록, S2 적→짙은 녹 광역"}
+{"id": "P0877", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0878", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0879", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0880", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0881", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담녹회 사면, S2 어두운 적→담갈녹"}
+{"id": "P0882", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0883", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 임도 인접"}
+{"id": "P0884", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "적색/암록 경계 화소, S2 post 담갈녹"}
+{"id": "P0885", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담녹회 소반, S2 적→어두운 녹회"}
+{"id": "P0886", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "상자는 적색, 주변 암록은 상자 밖"}
+{"id": "P0887", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, S2 진적→어두운 녹 광역"}
+{"id": "P0888", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0889", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0890", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "양양 초지 담황녹(밝은 소각면), S2 적→담황녹"}
+{"id": "P0891", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 수목, 인접 회색 소반은 상자 밖"}
+{"id": "P0892", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 하천 인접"}
+{"id": "P0893", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0894", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0895", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 진적색 수목, 도로 인접"}
+{"id": "P0896", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면·나지 띠, pre=post"}
+{"id": "P0897", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0898", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "암록 광역, S2 적색→암록"}
+{"id": "P0899", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0900", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0901", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0902", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 경작지 암록, S2 적→짙은 녹 광역"}
+{"id": "P0903", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0904", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색/임도 경계, pre=post"}
+{"id": "P0905", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖·채움값(패널 검정)"}
+{"id": "P0906", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0907", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0908", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0909", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담분홍적 수목, pre=post"}
+{"id": "P0910", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0911", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 나지·시설, pre 에도 밝음 — 주변은 소각"}
+{"id": "P0912", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0913", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0914", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 도로 인접"}
+{"id": "P0915", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 경작지 담회녹, pre=post"}
+{"id": "P0916", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0917", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "하천 자갈 담회백, pre=post"}
+{"id": "P0918", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0919", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0920", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담녹회 사면, S2 적→암록"}
+{"id": "P0921", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "적색/담녹회 경계 화소, S2 적→담녹"}
+{"id": "P0922", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0923", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 도로·건물 담회, pre=post"}
+{"id": "P0924", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0925", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "고성 담회갈 사면, S2 분홍→어두운 적갈"}
+{"id": "P0926", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "하천·모래 담청백, pre=post"}
+{"id": "P0927", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0928", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담녹회 사면, S2 적→암록"}
+{"id": "P0929", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0930", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0931", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0932", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "진적색 수목, 임도 인접"}
+{"id": "P0933", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0934", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0935", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0936", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지 담회녹, pre 에도 밝음"}
+{"id": "P0937", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0938", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0939", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0940", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0941", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0942", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "고성 사면 암록, S2 적→짙은 녹 광역"}
+{"id": "P0943", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0944", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0945", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0946", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면·임도, pre=post"}
+{"id": "P0947", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 시가지, pre=post"}
+{"id": "P0948", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0949", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0950", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "도로 교차부 담회, pre=post"}
+{"id": "P0951", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락·나지 담회백, pre=post"}
+{"id": "P0952", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0953", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0954", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0955", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0956", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0957", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "고성 사면 균일 암록, S2 적→짙은 녹 광역"}
+{"id": "P0958", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0959", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 도로·건물 담회, pre=post"}
+{"id": "P0960", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 담분홍적 수목, 하천 인접"}
+{"id": "P0961", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0962", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0963", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "담녹회 사면, S2 담갈→담녹회 광역"}
+{"id": "P0964", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "해안 진적색 수목"}
+{"id": "P0965", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0966", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0967", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 촌락 인접"}
+{"id": "P0968", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "고성 나지·하천 경계 담회녹, S2 담적→담청록"}
+{"id": "P0969", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0970", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0971", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 범위밖(상자가 영상 위쪽 밖)"}
+{"id": "P0972", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 수역, pre=post"}
+{"id": "P0973", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 담분홍 사면·나지, pre=post"}
+{"id": "P0974", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 도로 담회청, pre=post"}
+{"id": "P0975", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0976", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 사면 암록, S2 적→짙은 녹"}
+{"id": "P0977", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0978", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0979", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0980", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0981", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목, 소형 나지 인접"}
+{"id": "P0982", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0983", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "경작지·도로 담녹회, pre=post"}
+{"id": "P0984", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0985", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 균일 암록, S2 적색→암록"}
+{"id": "P0986", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 도로·시설 담회백, pre=post"}
+{"id": "P0987", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0988", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0989", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 분홍적 수목"}
+{"id": "P0990", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0991", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 사면, pre=post"}
+{"id": "P0992", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 수목"}
+{"id": "P0994", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 촌락·시설, pre=post", "src": "db"}
+{"id": "P0995", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 적색 수목", "src": "db"}
+{"id": "P0996", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈·암록 능선, pre=post", "src": "db"}
+{"id": "P0997", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 하천·도로, pre=post", "src": "db"}
+{"id": "P0998", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P0999", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1000", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1002", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "강릉 암적 식생, 소각면은 우하단", "src": "db"}
+{"id": "P1003", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 능선, pre=post", "src": "db"}
+{"id": "P1005", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 균일 적색, S2 갈변은 개엽", "src": "db"}
+{"id": "P1006", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 사면(활엽), pre=post", "src": "db"}
+{"id": "P1007", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목·하천", "src": "db"}
+{"id": "P1008", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "강릉 담회록 나지·경작대, pre 에도 밝음 (dNBR +0.16 애매대) / 재검: pre 에도 담색인 나지대(사면 길), 비변화 유지", "src": "recheck"}
+{"id": "P1009", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "강릉 균일 녹(적색 소실), S2 적→암록, dNBR +0.99", "src": "db"}
+{"id": "P1010", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 능선, pre=post", "src": "db"}
+{"id": "P1011", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목·임도", "src": "db"}
+{"id": "P1012", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목", "src": "db"}
+{"id": "P1013", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목·임도", "src": "db"}
+{"id": "P1014", "read": "소각", "grade": "경", "basis": "RE+S2", "conf": "하", "note": "고성 도로변 혼합화소, S2 담홍→담회록, dNBR +0.35", "src": "db"}
+{"id": "P1015", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목", "src": "db"}
+{"id": "P1016", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "강릉 균일 녹(적색 소실), S2 적→암록, dNBR +0.78", "src": "db"}
+{"id": "P1017", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 수체(RE 검정=물, 피복 water)", "src": "db"}
+{"id": "P1018", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담회갈 능선, pre=post", "src": "db"}
+{"id": "P1019", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 균일 적색", "src": "db"}
+{"id": "P1020", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목·임도", "src": "db"}
+{"id": "P1021", "read": "판정불가", "grade": "", "basis": "RE+S2", "conf": "상", "note": "상자가 RE 패널 밖 — 판정면 없음", "src": "db"}
+{"id": "P1022", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1023", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1024", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1025", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1026", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1027", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목", "src": "db"}
+{"id": "P1028", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목·하천", "src": "db"}
+{"id": "P1030", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목, 촌락 인접", "src": "db"}
+{"id": "P1031", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 능선·시설, pre=post", "src": "db"}
+{"id": "P1032", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "강릉 적록 경계(패널 우단), S2 post 담갈올리브 — dNBR +0.12 애매대 / 재검: 적-녹 접경 혼합화소, dNBR +0.118 은 소각 분포(10%ile +0.373) 한참 아래. 비변화 유지", "src": "recheck"}
+{"id": "P1033", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목", "src": "db"}
+{"id": "P1034", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목(패널 하단)", "src": "db"}
+{"id": "P1035", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 능선, pre=post", "src": "db"}
+{"id": "P1036", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1037", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 암록 사면, dNBR ~0 (씬 전체 밝기차)", "src": "db"}
+{"id": "P1038", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담황갈 경작·나지, pre=post", "src": "db"}
+{"id": "P1039", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 계곡, pre=post", "src": "db"}
+{"id": "P1040", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목", "src": "db"}
+{"id": "P1041", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목·임도", "src": "db"}
+{"id": "P1042", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목·하천", "src": "db"}
+{"id": "P1043", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 도로 인접 암록, S2 적→암록, dNBR +0.49", "src": "db"}
+{"id": "P1044", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목", "src": "db"}
+{"id": "P1045", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 시가지·건물, pre=post", "src": "db"}
+{"id": "P1046", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1047", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "고성 적색 소실→암록, S2 적→암록 광역, dNBR +0.64", "src": "db"}
+{"id": "P1048", "read": "소각", "grade": "경", "basis": "RE+S2", "conf": "중", "note": "강릉 소각면 내 나지·촌락 화소가 담황백으로 밝아짐(재), dNBR +0.39", "src": "db"}
+{"id": "P1049", "read": "판정불가", "grade": "", "basis": "RE+S2", "conf": "상", "note": "상자가 RE 패널 밖 — 판정면 없음", "src": "db"}
+{"id": "P1050", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 하상 자갈·나지, pre=post", "src": "db"}
+{"id": "P1051", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "강릉 균일 청록-암록, S2 적→암록, dNBR +0.97", "src": "db"}
+{"id": "P1052", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목", "src": "db"}
+{"id": "P1053", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 온실·경작 시설, pre=post", "src": "db"}
+{"id": "P1054", "read": "판정불가", "grade": "", "basis": "RE+S2", "conf": "상", "note": "상자가 RE 패널 밖 — 판정면 없음", "src": "db"}
+{"id": "P1055", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1056", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "고성 경작·시설 담색면(pre 에도 담색), 주변은 소각 — dNBR +0.17 애매대 / 재검: 고성 경작지 담색면, pre 에도 밝음. 비변화 유지", "src": "recheck"}
+{"id": "P1057", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 능선, pre=post", "src": "db"}
+{"id": "P1058", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1059", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 경작지·도로, pre=post", "src": "db"}
+{"id": "P1060", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목·촌락", "src": "db"}
+{"id": "P1061", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1062", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 능선, pre=post", "src": "db"}
+{"id": "P1063", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 하천·도로변", "src": "db"}
+{"id": "P1064", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 호안 혼합화소 — 수면 반사 차이로 dNBR +0.62, 소각 아님", "src": "db"}
+{"id": "P1065", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1066", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "강릉 임도 화소, 좌측이 소각면 — dNBR +0.16 애매대 / 재검: 임도·나지, pre 에도 밝음. 비변화 유지", "src": "recheck"}
+{"id": "P1067", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1068", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 패널 밖 — 판정면 없음(전수검사)", "src": "db"}
+{"id": "P1096", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 패널 밖 — 판정면 없음(전수검사)", "src": "db"}
+{"id": "P1106", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 패널 밖 — 판정면 없음(전수검사)", "src": "db"}
+{"id": "P1129", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 패널 밖 — 판정면 없음(전수검사)", "src": "db"}
+{"id": "P1177", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 패널 밖 — 판정면 없음(전수검사)", "src": "db"}
+{"id": "P1194", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 패널 밖 — 판정면 없음(전수검사)", "src": "db"}
+{"id": "P1197", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 패널 밖 — 판정면 없음(전수검사)", "src": "db"}
+{"id": "P1205", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 패널 밖 — 판정면 없음(전수검사)", "src": "db"}
+{"id": "P1213", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 패널 밖 — 판정면 없음(전수검사)", "src": "db"}
+{"id": "P1227", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 패널 밖 — 판정면 없음(전수검사)", "src": "db"}
+{"id": "P1232", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 패널 밖 — 판정면 없음(전수검사)", "src": "db"}
+{"id": "P1270", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "RE 패널 밖 — 판정면 없음(전수검사)", "src": "db"}
+{"id": "P1069", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 암적 수목", "src": "db"}
+{"id": "P1070", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 담황갈 능선, pre=post", "src": "db"}
+{"id": "P1071", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 적색 수목", "src": "db"}
+{"id": "P1072", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목", "src": "db"}
+{"id": "P1073", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "강릉 균일 녹(적색 소실), S2 적→암록", "src": "db"}
+{"id": "P1074", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1075", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1076", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1077", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1078", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1079", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1080", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목·나지", "src": "db"}
+{"id": "P1081", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담회갈 사면, dNBR -0.02", "src": "db"}
+{"id": "P1082", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "강릉 혼효림 담녹 소반, dNBR 0.00", "src": "db"}
+{"id": "P1083", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 적색 수목", "src": "db"}
+{"id": "P1084", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1085", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 경작지 구획, pre=post", "src": "db"}
+{"id": "P1086", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "강릉 균일 암록, S2 적→암록, dNBR +0.96", "src": "db"}
+{"id": "P1087", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "강릉 소각면 사이 미소각 계곡 식생대(상자 적색)", "src": "db"}
+{"id": "P1088", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1089", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 하천·경작 나지, pre=post", "src": "db"}
+{"id": "P1090", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 수목", "src": "db"}
+{"id": "P1091", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 수목", "src": "db"}
+{"id": "P1092", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "강릉 적색 소실→담녹, S2 적→암록, dNBR +0.45", "src": "db"}
+{"id": "P1093", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 임도·적색 수목", "src": "db"}
+{"id": "P1094", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담회적 능선, pre=post", "src": "db"}
+{"id": "P1095", "read": "벌채·개간", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 진입로 딸린 담색 개간지 — S2 적→담회(식생 제거), dNBR +0.17", "src": "db"}
+{"id": "P1098", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "고성 하상 인접 암적 식생, dNBR +0.16 애매대 / 재검: 고성 하상 인접, dNBR +0.161 은 소각 10%ile 아래. 비변화 유지", "src": "recheck"}
+{"id": "P1099", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담회 능선·임도, pre≈post, dNBR -0.031", "src": "db"}
+{"id": "P1100", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "강릉 적색 우세 임분, dNBR -0.046", "src": "db"}
+{"id": "P1101", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "계곡 그늘대, S2 pre≈post, dNBR +0.071", "src": "db"}
+{"id": "P1102", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색, dNBR -0.008", "src": "db"}
+{"id": "P1103", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 유지·주변 개엽, dNBR +0.055", "src": "db"}
+{"id": "P1104", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 담적 식생, pre≈post, dNBR +0.053", "src": "db"}
+{"id": "P1105", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "RE 하단 잘림이나 상자는 범위 안, 적색 유지, dNBR +0.067", "src": "db"}
+{"id": "P1108", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "이웃은 적색인데 상자는 올리브-암록, post 주변 개엽 중 상자만 어두움, dNBR +0.134 / gangneung dNBR +0.134 는 비변화 p95(+0.088)와 소각 10%ile(+0.339) 사이 — 재검 대상", "src": "db"}
+{"id": "P1109", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.016", "src": "db"}
+{"id": "P1110", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "촌락·하천 담색면, pre 에도 밝음(오래된 나대지), dNBR +0.034", "src": "db"}
+{"id": "P1111", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 그늘 계곡, 자연색 암흑, pre≈post, dNBR +0.003", "src": "db"}
+{"id": "P1112", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "균일 적색, dNBR -0.047", "src": "db"}
+{"id": "P1113", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "RE 적색 유지, dNBR -0.023 (S2 는 개엽으로 색만 이동)", "src": "db"}
+{"id": "P1114", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "촌락 주변 상자만 담녹회, S2 적→올리브 암화, dNBR +0.217 / gangneung dNBR +0.217 는 비변화 p95 와 소각 분포 사이 — 재검 대상", "src": "db"}
+{"id": "P1115", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "계곡선 옆 적색, dNBR +0.006", "src": "db"}
+{"id": "P1116", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.026", "src": "db"}
+{"id": "P1117", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 경작지 담청면, pre 에도 밝음, dNBR -0.070", "src": "db"}
+{"id": "P1118", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "RE 적색인데 dNBR +0.123 — 경계, 판독 후 재검 대상", "src": "db"}
+{"id": "P1119", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "초지, S2 post 에서 적색 소실→녹회, dNBR +0.392", "src": "db"}
+{"id": "P1120", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.033", "src": "db"}
+{"id": "P1121", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, pre≈post, dNBR +0.011", "src": "db"}
+{"id": "P1122", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.056", "src": "db"}
+{"id": "P1123", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담녹회 능선(계절), pre≈post, dNBR -0.046", "src": "db"}
+{"id": "P1124", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "하천 자갈·나지, pre 에도 담청 밝음, dNBR +0.072", "src": "db"}
+{"id": "P1125", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.020", "src": "db"}
+{"id": "P1127", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, pre≈post, dNBR +0.031", "src": "db"}
+{"id": "P1130", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.021", "src": "db"}
+{"id": "P1131", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성 해안 초지, S2 전면 적→녹청, dNBR +0.802 (소각 분포 상단). 해안 모래 혼합화소라 확신 중", "src": "db"}
+{"id": "P1132", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담녹회 능선(계절), pre≈post, dNBR -0.001", "src": "db"}
+{"id": "P1133", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "고성 담황갈 사면, post 가 약간 회색화 — dNBR +0.093 은 비변화 p95(+0.087) 바로 위 경계, 재검 대상", "src": "db"}
+{"id": "P1134", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분(주변 경작지), pre≈post, dNBR -0.017", "src": "db"}
+{"id": "P1135", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "상자만 올리브회, 주변은 적색 — 다만 dNBR +0.196 은 소각 분포 아래, 재검 대상", "src": "db"}
+{"id": "P1136", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "고성 계단상 임분, S2 적→암록 뚜렷, dNBR +0.501 (소각 중앙 +0.300 위)", "src": "db"}
+{"id": "P1137", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.046", "src": "db"}
+{"id": "P1138", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 유지, dNBR +0.055 (비변화 p90 아래)", "src": "db"}
+{"id": "P1139", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "고성 적색 임분·pre≈post 인데 dNBR +0.147 — p95 위·소각 분포 아래, 재검 대상", "src": "db"}
+{"id": "P1140", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담황갈 사면(계절), pre≈post, dNBR -0.016", "src": "db"}
+{"id": "P1141", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR +0.006", "src": "db"}
+{"id": "P1142", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담황갈 능선, pre≈post, dNBR +0.029", "src": "db"}
+{"id": "P1143", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 적색 임분, dNBR +0.006", "src": "db"}
+{"id": "P1144", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "이웃 적색 대비 상자는 녹색, S2 post 암록, dNBR +0.395 (소각 10%ile 위)", "src": "db"}
+{"id": "P1145", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 하천·도로 담색선, pre 에도 밝음, dNBR +0.003", "src": "db"}
+{"id": "P1146", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.006", "src": "db"}
+{"id": "P1147", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "상자가 구름/포화 백색면(RE·S2 모두), 판정면 없음", "src": "db"}
+{"id": "P1148", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.040", "src": "db"}
+{"id": "P1149", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.007", "src": "db"}
+{"id": "P1150", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "임도 옆 적색 소실→녹, S2 post 전면 암록청, dNBR +0.495", "src": "db"}
+{"id": "P1151", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.009", "src": "db"}
+{"id": "P1152", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR -0.016", "src": "db"}
+{"id": "P1153", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 암록 임분(계절), pre≈post, dNBR +0.003", "src": "db"}
+{"id": "P1154", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 유지, dNBR +0.037", "src": "db"}
+{"id": "P1155", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.023", "src": "db"}
+{"id": "P1156", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "고성 촌락·경작지 담색면(pre 에도 밝음)이나 dNBR +0.089 로 p95 바로 위 — 재검 대상", "src": "db"}
+{"id": "P1157", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지, 상자 일대 적색 소실→균일 암록, S2 post 청록-암록, dNBR +0.786", "src": "db"}
+{"id": "P1158", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.018", "src": "db"}
+{"id": "P1159", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "하", "note": "초지 담녹회 구역, S2 pre 암적→post 담황갈(재·노출토양). 다만 도로에 접한 구획이라 벌채·개간 가능성 배제 못함, dNBR +0.472", "src": "db"}
+{"id": "P1160", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "고성 경작지·도로 담색면, pre≈post 인데 dNBR +0.220 — 재검 대상", "src": "db"}
+{"id": "P1161", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 암록 임분, pre≈post, dNBR +0.065", "src": "db"}
+{"id": "P1162", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "초지 적색 소실→녹, S2 post 암록, dNBR +0.509", "src": "db"}
+{"id": "P1165", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.004", "src": "db"}
+{"id": "P1166", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR -0.020", "src": "db"}
+{"id": "P1167", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 일대 적색 전멸→녹, S2 pre 적→post 균일 암록, dNBR +0.764", "src": "db"}
+{"id": "P1168", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.003", "src": "db"}
+{"id": "P1169", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.048", "src": "db"}
+{"id": "P1170", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분(도로 인접), dNBR +0.019", "src": "db"}
+{"id": "P1171", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.040", "src": "db"}
+{"id": "P1173", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 적색·담색 혼합 능선, pre≈post, dNBR -0.027", "src": "db"}
+{"id": "P1174", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR +0.002", "src": "db"}
+{"id": "P1175", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.007", "src": "db"}
+{"id": "P1176", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "하천 인접 적색 임분, dNBR -0.016", "src": "db"}
+{"id": "P1178", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "고성 경작지·도로 담색면(pre 에도 밝음)이나 dNBR +0.115 — 재검 대상", "src": "db"}
+{"id": "P1179", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.035", "src": "db"}
+{"id": "P1180", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담황갈 사면(계절), pre≈post, dNBR -0.013", "src": "db"}
+{"id": "P1181", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.030", "src": "db"}
+{"id": "P1182", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR +0.006", "src": "db"}
+{"id": "P1183", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR -0.009", "src": "db"}
+{"id": "P1184", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "고성 촌락·경작지, post 에 청록 확장(농작업 추정)이나 dNBR +0.098 — 재검 대상", "src": "db"}
+{"id": "P1185", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.036", "src": "db"}
+{"id": "P1186", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.048", "src": "db"}
+{"id": "P1187", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담황갈 사면, pre≈post, dNBR +0.043", "src": "db"}
+{"id": "P1188", "read": "소각", "grade": "경", "basis": "RE+S2", "conf": "하", "note": "상자는 올리브-담녹, 주변 적색 — dNBR +0.196 은 비변화 p95 위·소각 분포 아래, 재검 대상", "src": "db"}
+{"id": "P1189", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 하천 자갈·수면, pre≈post, dNBR -0.018", "src": "db"}
+{"id": "P1190", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.052", "src": "db"}
+{"id": "P1191", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "RE 상자는 적색 유지인데 dNBR +0.157 — 재검 대상", "src": "db"}
+{"id": "P1192", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "고성 경작지 구획(도로 경계), pre 에도 청록. dNBR +0.253 은 소각 중앙(+0.300) 근처 — 농작업/개간 가능, 재검 대상", "src": "db"}
+{"id": "P1193", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR +0.019", "src": "db"}
+{"id": "P1195", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 전면 적색 소실→암록, S2 post 균일 암록, dNBR +0.999", "src": "db"}
+{"id": "P1196", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 암록·적색 혼합 사면, pre≈post, dNBR +0.040", "src": "db"}
+{"id": "P1198", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.009", "src": "db"}
+{"id": "P1199", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "주변은 소각(녹)인데 상자는 적색 잔존 섬 — dNBR +0.183 이라 재검 대상", "src": "db"}
+{"id": "P1200", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "초지 적색 전멸→암록, S2 post 균일 암록, dNBR +0.896", "src": "db"}
+{"id": "P1201", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "양양 적색 임분, dNBR +0.050 (양양 비변화 p90 +0.034 바로 위)", "src": "db"}
+{"id": "P1202", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 암록 임분(계절), pre≈post, dNBR -0.004", "src": "db"}
+{"id": "P1203", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 도로 인접 적색·담색, pre≈post, dNBR +0.011", "src": "db"}
+{"id": "P1204", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "RE 상자 적색 유지인데 dNBR +0.160 — 재검 대상", "src": "db"}
+{"id": "P1206", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.020", "src": "db"}
+{"id": "P1207", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "임도 인접 적색 임분, dNBR -0.013", "src": "db"}
+{"id": "P1208", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR -0.017", "src": "db"}
+{"id": "P1209", "read": "소각", "grade": "심", "basis": "RE+S2", "conf": "상", "note": "적색 소실→암록 광역, S2 post 암록, dNBR +0.876", "src": "db"}
+{"id": "P1211", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.020", "src": "db"}
+{"id": "P1212", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분(계곡 그늘), dNBR +0.007", "src": "db"}
+{"id": "P1214", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.013", "src": "db"}
+{"id": "P1215", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR -0.003", "src": "db"}
+{"id": "P1216", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "고성 임분, S2 pre 적→post 전면 녹, dNBR +0.452 (소각 중앙 위)", "src": "db"}
+{"id": "P1217", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 백색 나지 인접, pre≈post, dNBR -0.029", "src": "db"}
+{"id": "P1218", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "양양 적색 임분인데 dNBR +0.127 — 양양 비변화 p90(+0.034) 대비 크게 높음, 재검 대상 / 재검: 양양 RE 적색 뚜렷, pre≈post. 양양은 소각 기준선이 없어 dNBR 단독으로 못 뒤집는다. 비변화 유지", "src": "recheck"}
+{"id": "P1219", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.070", "src": "db"}
+{"id": "P1220", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "주변 소각지 안의 적색 잔존 섬, dNBR +0.023", "src": "db"}
+{"id": "P1221", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담황갈 사면, pre≈post, dNBR +0.021", "src": "db"}
+{"id": "P1222", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분(RE 패널 일부 잘림, 상자는 범위 안), dNBR -0.028", "src": "db"}
+{"id": "P1223", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "건물·도로 백색면, pre 에도 밝음, dNBR -0.010", "src": "db"}
+{"id": "P1224", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "초지 적색 소실→녹, S2 post 암록, dNBR +0.630", "src": "db"}
+{"id": "P1225", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 임분, dNBR +0.065 (p90 바로 위)", "src": "db"}
+{"id": "P1226", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담황갈 사면, pre≈post, dNBR -0.022", "src": "db"}
+{"id": "P1228", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 임분, dNBR +0.069", "src": "db"}
+{"id": "P1229", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR +0.002", "src": "db"}
+{"id": "P1230", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.020", "src": "db"}
+{"id": "P1231", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "초지·임연부 적색 소실→암록, S2 post 암록, dNBR +0.576", "src": "db"}
+{"id": "P1233", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.008", "src": "db"}
+{"id": "P1234", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.017", "src": "db"}
+{"id": "P1235", "read": "소각", "grade": "경", "basis": "RE+S2", "conf": "하", "note": "고성 촌락(건물 혼합화소). S2 pre 암적→post 암록이나 dNBR +0.262 로 소각 중앙 아래, RE 는 백색 건물면이라 판정면 약함 — 재검 대상", "src": "db"}
+{"id": "P1237", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.041", "src": "db"}
+{"id": "P1238", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.002", "src": "db"}
+{"id": "P1239", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "임도 인접 담적면, dNBR +0.104 — 재검 대상", "src": "db"}
+{"id": "P1240", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "상자 암록·주변 적색, S2 pre 암적→post 올리브암록, dNBR +0.317", "src": "db"}
+{"id": "P1241", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 경작지 담청면, pre≈post, dNBR -0.025", "src": "db"}
+{"id": "P1242", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 촌락 경계, pre≈post, dNBR +0.042", "src": "db"}
+{"id": "P1243", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR +0.007", "src": "db"}
+{"id": "P1244", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.008", "src": "db"}
+{"id": "P1245", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 담황갈 사면, pre≈post, dNBR -0.014", "src": "db"}
+{"id": "P1246", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 적색 임분(상자가 RE 패널 하단 경계), dNBR +0.003", "src": "db"}
+{"id": "P1247", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "주변 소각지 안의 적색 잔존면, dNBR +0.190 — 재검 대상", "src": "db"}
+{"id": "P1249", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR +0.017", "src": "db"}
+{"id": "P1250", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.025", "src": "db"}
+{"id": "P1251", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분(해안 나지 인접), dNBR -0.076", "src": "db"}
+{"id": "P1252", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "고성 암록 임분, pre≈post, dNBR +0.057", "src": "db"}
+{"id": "P1253", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.022", "src": "db"}
+{"id": "P1254", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.043", "src": "db"}
+{"id": "P1255", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 경작지 구획, pre≈post, dNBR -0.050", "src": "db"}
+{"id": "P1256", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 담녹회 경작·초지, pre≈post, dNBR -0.141", "src": "db"}
+{"id": "P1257", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 임도·담색 사면, pre≈post, dNBR -0.006", "src": "db"}
+{"id": "P1258", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR +0.006", "src": "db"}
+{"id": "P1259", "read": "소각", "grade": "경", "basis": "RE+S2", "conf": "하", "note": "상자는 올리브-암록, 주변 적색. dNBR +0.135 로 소각 분포 아래 — 재검 대상", "src": "db"}
+{"id": "P1261", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "고성 담올리브 사면(계절)이나 S2 pre 적→post 녹청 기미, dNBR +0.095 — 재검 대상", "src": "db"}
+{"id": "P1262", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.007", "src": "db"}
+{"id": "P1263", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.003", "src": "db"}
+{"id": "P1264", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "고성 경작지·도로 담색면(pre 에도 밝음), dNBR +0.098 — 재검 대상", "src": "db"}
+{"id": "P1265", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR -0.010", "src": "db"}
+{"id": "P1266", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "소각지 경계면(적-녹 접경), S2 post 올리브녹, dNBR +0.539", "src": "db"}
+{"id": "P1267", "read": "소각", "grade": "경", "basis": "RE+S2", "conf": "하", "note": "고성, S2 pre 적→post 녹올리브. dNBR +0.142 는 소각 중앙 아래 — 재검 대상", "src": "db"}
+{"id": "P1268", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.008", "src": "db"}
+{"id": "P1269", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "중", "note": "적색 임분, dNBR +0.079 (p90~p95 사이)", "src": "db"}
+{"id": "P1271", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR +0.023", "src": "db"}
+{"id": "P1272", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "중", "note": "고성, S2 pre 적→post 전면 녹, dNBR +0.366 (소각 중앙 위). RE 는 담회 능선이라 확신 중", "src": "db"}
+{"id": "P1273", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR +0.010", "src": "db"}
+{"id": "P1274", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "양양 적색 임분, dNBR +0.026", "src": "db"}
+{"id": "P1275", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "RE 적색 유지인데 dNBR +0.128 — 재검 대상", "src": "db"}
+{"id": "P1276", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 적색·담색 사면, pre≈post, dNBR -0.005", "src": "db"}
+{"id": "P1277", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "하", "note": "고성 경작지 담색면, dNBR +0.152 — 재검 대상", "src": "db"}
+{"id": "P1278", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.025", "src": "db"}
+{"id": "P1279", "read": "판정불가", "grade": "", "basis": "RE", "conf": "상", "note": "상자가 RE 패널 우측 경계에 걸쳐 판정면이 없음 (dNBR +0.308 이나 눈으로 확인 불가)", "src": "db"}
+{"id": "P1280", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR -0.015", "src": "db"}
+{"id": "P1281", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분, dNBR +0.015", "src": "db"}
+{"id": "P1282", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "고성 시가지, pre≈post, dNBR +0.002", "src": "db"}
+{"id": "P1283", "read": "비변화", "grade": "", "basis": "RE+S2", "conf": "상", "note": "적색 임분(임도 인접), dNBR -0.117", "src": "db"}
+{"id": "P1284", "read": "소각", "grade": "중", "basis": "RE+S2", "conf": "상", "note": "초지 적색 소실→암록, S2 post 암록, dNBR +0.550", "src": "db"}

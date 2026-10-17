@@ -1,0 +1,18 @@
+{
+  "_comment": "0.70 승격 시 Claude 세션이 마무리할 대상. cron 게이트는 로컬 커밋까지만, push+Notion은 세션이 함.",
+  "threshold": 0.70,
+  "flag_file": "../../홍수/물변화탐지_웹앱/PROMOTED.json",
+  "git": {
+    "root": "~/syntax_inference",
+    "remote": "origin",
+    "branch": "main",
+    "commit_path": "Steven/홍수/물변화탐지_웹앱",
+    "push_note": "cron엔 자격증명 없음(가드레일). 세션에서 gh 인증으로 push."
+  },
+  "notion": {
+    "tracking_page_id": "3c67fc87-273f-81e4-9dd4-c3ec168cde2e",
+    "tracking_page_url": "https://app.notion.com/p/3c67fc87273f81e49dd4c3ec168cde2e",
+    "parent_page": "정승원_변화탐지 (3b67fc87-273f-8131-8d52-e0faade25f38)",
+    "on_promote": "이 페이지를 승격 모델 상세(계절별 F1·커밋 해시·spec)로 업데이트"
+  }
+}

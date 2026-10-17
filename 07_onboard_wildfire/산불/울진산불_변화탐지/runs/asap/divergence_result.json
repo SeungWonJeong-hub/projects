@@ -1,0 +1,198 @@
+[
+ {
+  "fire": "uljin2022",
+  "has_sev": true,
+  "n_burn": 5876,
+  "pheno_classes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "cells": {
+   "arch_winter_NDVI": {
+    "F1_dSI": 0.839,
+    "F1_pdSI": 0.707,
+    "dF1": -0.132,
+    "dF1_CI": [
+     -0.136,
+     -0.126
+    ],
+    "rho_dSI": 0.074,
+    "rho_pdSI": 0.002,
+    "drho": -0.071,
+    "drho_CI": [
+     -0.104,
+     -0.069
+    ]
+   },
+   "arch_spring_NDVI": {
+    "F1_dSI": 0.81,
+    "F1_pdSI": 0.718,
+    "dF1": -0.092,
+    "dF1_CI": [
+     -0.099,
+     -0.085
+    ],
+    "rho_dSI": 0.067,
+    "rho_pdSI": 0.01,
+    "drho": -0.058,
+    "drho_CI": [
+     -0.081,
+     -0.054
+    ]
+   },
+   "arch_summer_NDVI": {
+    "F1_dSI": 0.787,
+    "F1_pdSI": 0.707,
+    "dF1": -0.08,
+    "dF1_CI": [
+     -0.086,
+     -0.076
+    ],
+    "rho_dSI": -0.114,
+    "rho_pdSI": -0.115,
+    "drho": -0.001,
+    "drho_CI": [
+     -0.001,
+     0.001
+    ]
+   },
+   "canon_NDVI": {
+    "F1_dSI": 0.86,
+    "F1_pdSI": 0.715,
+    "dF1": -0.145,
+    "dF1_CI": [
+     -0.151,
+     -0.139
+    ],
+    "rho_dSI": -0.001,
+    "rho_pdSI": -0.073,
+    "drho": -0.072,
+    "drho_CI": [
+     -0.104,
+     -0.071
+    ]
+   },
+   "canon_dNBR": {
+    "F1_dSI": 0.791,
+    "F1_pdSI": 0.715,
+    "dF1": -0.076,
+    "dF1_CI": [
+     -0.082,
+     -0.07
+    ],
+    "rho_dSI": 0.1,
+    "rho_pdSI": 0.069,
+    "drho": -0.031,
+    "drho_CI": [
+     -0.057,
+     -0.029
+    ]
+   }
+  }
+ },
+ {
+  "fire": "andong2020",
+  "has_sev": true,
+  "n_burn": 50247,
+  "pheno_classes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "cells": {
+   "arch_winter_NDVI": {
+    "F1_dSI": 0.779,
+    "F1_pdSI": 0.764,
+    "dF1": -0.015,
+    "dF1_CI": [
+     -0.017,
+     -0.014
+    ],
+    "rho_dSI": 0.643,
+    "rho_pdSI": 0.707,
+    "drho": 0.064,
+    "drho_CI": [
+     0.06,
+     0.065
+    ]
+   },
+   "arch_spring_NDVI": {
+    "F1_dSI": 0.789,
+    "F1_pdSI": 0.76,
+    "dF1": -0.028,
+    "dF1_CI": [
+     -0.03,
+     -0.026
+    ],
+    "rho_dSI": 0.646,
+    "rho_pdSI": 0.688,
+    "drho": 0.042,
+    "drho_CI": [
+     0.038,
+     0.044
+    ]
+   }
+  }
+ },
+ {
+  "fire": "sancheong2025",
+  "has_sev": false,
+  "n_burn": 28174,
+  "pheno_classes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "cells": {
+   "arch_winter_NDVI": {
+    "F1_dSI": 0.716,
+    "F1_pdSI": 0.717,
+    "dF1": 0.002,
+    "dF1_CI": [
+     -0.0,
+     0.003
+    ]
+   },
+   "arch_spring_NDVI": {
+    "F1_dSI": 0.728,
+    "F1_pdSI": 0.73,
+    "dF1": 0.001,
+    "dF1_CI": [
+     -0.0,
+     0.003
+    ]
+   },
+   "arch_summer_NDVI": {
+    "F1_dSI": 0.477,
+    "F1_pdSI": 0.662,
+    "dF1": 0.184,
+    "dF1_CI": [
+     0.18,
+     0.189
+    ]
+   },
+   "canon_NDVI": {
+    "F1_dSI": 0.765,
+    "F1_pdSI": 0.77,
+    "dF1": 0.005,
+    "dF1_CI": [
+     0.004,
+     0.006
+    ]
+   },
+   "canon_dNBR": {
+    "F1_dSI": 0.785,
+    "F1_pdSI": 0.746,
+    "dF1": -0.039,
+    "dF1_CI": [
+     -0.042,
+     -0.037
+    ]
+   }
+  }
+ }
+]

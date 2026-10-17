@@ -1,0 +1,14 @@
+{
+  "note": "OOM at ep41; best.pt used",
+  "threshold": 0.5,
+  "val_f1_sweep": 0.8322,
+  "test_REAL": {
+    "precision": 0.5007,
+    "recall": 0.9162,
+    "f1": 0.6476,
+    "iou": 0.4788,
+    "accuracy": 0.9432,
+    "OA": 0.9432,
+    "kappa": 0.6196
+  }
+}

@@ -1,0 +1,84 @@
+{"id":"P0039","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"하천·나지대 인접, pre/post 무변화"}
+{"id":"P0040","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"암적 식생, S2 pre/post 동일"}
+{"id":"P0043","read":"비변화","grade":"","basis":"RE","conf":"하","note":"상자 내부 적색 우세, 상단에 올리브 소각면 인접"}
+{"id":"P0055","read":"비변화","grade":"","basis":"RE","conf":"중","note":"상자 적색 식생, 올리브면은 우상단"}
+{"id":"P0066","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"상자 올리브-암갈, 자연색 암회록"}
+{"id":"P0071","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"올리브면 내부, S2 post 변색"}
+{"id":"P0089","read":"소각","grade":"심","basis":"RE+S2","conf":"중","note":"암청록 전면, S2 pre 적→post 청록"}
+{"id":"P0096","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"회록 대상(帶狀) 나지, pre/post 무변화"}
+{"id":"P0099","read":"비변화","grade":"","basis":"RE","conf":"중","note":"올리브 소각면 좌측 경계, 상자는 적색측"}
+{"id":"P0111","read":"소각","grade":"심","basis":"RE+S2","conf":"상","note":"암청록 전면, S2 pre 적→post 암록"}
+{"id":"P0127","read":"소각","grade":"중","basis":"RE+S2","conf":"상","note":"올리브 소각면 내부"}
+{"id":"P0137","read":"비변화","grade":"","basis":"RE+S2","conf":"하","note":"pre 에도 밝은 나지, post 암록 — 애매"}
+{"id":"P0166","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"시가지·도로, pre/post 동일"}
+{"id":"P0168","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록 소각면, 갈색 반점 혼재"}
+{"id":"P0186","read":"판정불가","grade":"","basis":"RE","conf":"","note":"RapidEye 채움값(흑) — 영상 없음"}
+{"id":"P0194","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"균일 적색 식생, pre/post 동일"}
+{"id":"P0202","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"암적 식생 산림, pre/post 동일"}
+{"id":"P0231","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암청록에 갈색 반점, S2 적→암록"}
+{"id":"P0256","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"담회록 나지대(하천·채석), pre/post 동일"}
+{"id":"P0259","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"촌락·경작지, pre/post 동일"}
+{"id":"P0262","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"온실·시설지 (황록 직사각), 무변화"}
+{"id":"P0268","read":"소각","grade":"심","basis":"RE+S2","conf":"상","note":"균일 암록 무적색, S2 적→암록"}
+{"id":"P0274","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록 소각면, S2 적→올리브"}
+{"id":"P0276","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"올리브 소각면 내부"}
+{"id":"P0299","read":"소각","grade":"심","basis":"RE+S2","conf":"상","note":"암갈-암록 전면, 적색 소실"}
+{"id":"P0302","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록 경계부, S2 적→올리브"}
+{"id":"P0325","read":"소각","grade":"중","basis":"RE+S2","conf":"상","note":"올리브 소각면 내부"}
+{"id":"P0355","read":"비변화","grade":"","basis":"RE","conf":"중","note":"상자 적색 식생, 주변 암록면과 구분"}
+{"id":"P0362","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"시가지·공장 지붕, pre/post 동일"}
+{"id":"P0375","read":"소각","grade":"심","basis":"RE+S2","conf":"상","note":"균일 암록, S2 적→암록"}
+{"id":"P0376","read":"비변화","grade":"","basis":"RE","conf":"중","note":"상자 적색, 올리브면은 상단"}
+{"id":"P0387","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록에 적색 잔존 반점"}
+{"id":"P0394","read":"비변화","grade":"","basis":"RE","conf":"하","note":"담갈 능선·도로 대상, 탄화 암색 아님 — 경계 애매"}
+{"id":"P0397","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록·암적갈 혼재, S2 적→암록"}
+{"id":"P0400","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"시가지·공장, pre/post 동일"}
+{"id":"P0415","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"균일 적색 식생"}
+{"id":"P0417","read":"판정불가","grade":"","basis":"RE","conf":"","note":"표본 화소가 RapidEye 영상 범위 밖(칩 상단 여백)"}
+{"id":"P0425","read":"소각","grade":"중","basis":"RE+S2","conf":"상","note":"올리브 소각면 내부"}
+{"id":"P0483","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"경작지·촌락, pre/post 동일"}
+{"id":"P0508","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록 소각면, 적색 잔존 인접"}
+{"id":"P0520","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록-암갈, S2 적→암록"}
+{"id":"P0521","read":"소각","grade":"경","basis":"RE+S2","conf":"하","note":"적색 식생 속 암올리브 소반, 그림자 가능성"}
+{"id":"P0539","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록 산림, S2 적→암록"}
+{"id":"P0551","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"올리브 소각면 좌측 가장자리"}
+{"id":"P0571","read":"소각","grade":"중","basis":"RE+S2","conf":"상","note":"올리브 소각면 내부"}
+{"id":"P0572","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"녹회면·가옥 산재, S2 적→암록"}
+{"id":"P0608","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"경작지·도로, pre/post 큰 변화 없음"}
+{"id":"P0614","read":"비변화","grade":"","basis":"RE","conf":"하","note":"담회록 해안 능선대, 탄화 암색 아님"}
+{"id":"P0623","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록 전면, S2 적→암록"}
+{"id":"P0716","read":"판정불가","grade":"","basis":"RE","conf":"","note":"RapidEye 구름 — 지표 안 보임"}
+{"id":"P0717","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록 산림+촌락, S2 적→암록"}
+{"id":"P0756","read":"소각","grade":"경","basis":"RE+S2","conf":"하","note":"소각면 내 담색 능선 줄기"}
+{"id":"P0762","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"담록 나지·수체 인접, pre/post 동일"}
+{"id":"P0773","read":"비변화","grade":"","basis":"RE","conf":"하","note":"소각면 경계 임도 위 — 상자 중심이 도로"}
+{"id":"P0781","read":"비변화","grade":"","basis":"RE","conf":"중","note":"상자 적색 식생, 올리브면은 상단"}
+{"id":"P0809","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"시가지 인접 녹지, pre/post 동일"}
+{"id":"P0828","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"해수면(수체)"}
+{"id":"P0838","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"적색 산림, pre/post 동일"}
+{"id":"P0840","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"도로·교량 포장면"}
+{"id":"P0848","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"촌락·경작지 사이, 변화 미미"}
+{"id":"P0854","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"적색 산림, 해안 인접"}
+{"id":"P0887","read":"벌채·개간","grade":"","basis":"RE+S2","conf":"하","note":"경작지 나지 조각, S2 적→암록 — 화재 아닌 경작 변화로 판단"}
+{"id":"P0890","read":"소각","grade":"중","basis":"RE+S2","conf":"상","note":"올리브 소각면 내부"}
+{"id":"P0898","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록 소각면, S2 적→암록"}
+{"id":"P0942","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록 산림, S2 적→암록"}
+{"id":"P0957","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록 산림, S2 적→암록"}
+{"id":"P0963","read":"비변화","grade":"","basis":"RE","conf":"하","note":"담회-담홍 나지·촌락, 탄화 암색 아님"}
+{"id":"P0972","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"수체"}
+{"id":"P0976","read":"비변화","grade":"","basis":"RE+S2","conf":"하","note":"경작지 대상(帶狀) 모자이크"}
+{"id":"P0993","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"담청회 나지(채석·하상), pre/post 동일"}
+{"id":"P1001","read":"소각","grade":"중","basis":"RE+S2","conf":"상","note":"올리브 소각면 내부"}
+{"id":"P1004","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"올리브 소각면 가장자리"}
+{"id":"P1029","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"시가지·공장 포장면"}
+{"id":"P1097","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"적색 식생 속 암록 소반, S2 적→암록"}
+{"id":"P1107","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"경작지 구획, pre/post 동일"}
+{"id":"P1126","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"경작지·도로, 탄화 없음"}
+{"id":"P1128","read":"비변화","grade":"","basis":"RE+S2","conf":"하","note":"암록 산림 속 담색 소반(건물·공지) — pre/post 모두 담색"}
+{"id":"P1163","read":"비변화","grade":"","basis":"RE","conf":"중","note":"상자 적색 식생, 올리브면은 하단"}
+{"id":"P1164","read":"비변화","grade":"","basis":"RE+S2","conf":"중","note":"담회 나지·도로대"}
+{"id":"P1172","read":"판정불가","grade":"","basis":"RE","conf":"","note":"RapidEye 채움값(흑) — 영상 없음"}
+{"id":"P1210","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"암록-암갈 산림, S2 적→암록"}
+{"id":"P1236","read":"비변화","grade":"","basis":"RE+S2","conf":"상","note":"경작지 구획, pre/post 동일"}
+{"id":"P1248","read":"소각","grade":"중","basis":"RE+S2","conf":"중","note":"올리브 소각면 좌상 가장자리"}
+{"id":"P1260","read":"소각","grade":"중","basis":"RE+S2","conf":"상","note":"올리브 소각면 내부"}
